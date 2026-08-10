@@ -1,0 +1,17 @@
+{
+  "id": "rust",
+  "displayName": "Rust",
+  "accent": "#e0623d",
+  "tagline": "Survive the wipe.",
+  "ctaSlug": "rust",
+  "pricingFrom": "TODO(frank)",
+  "features": [
+    "Instant setup",
+    "NVMe hardware",
+    "DDoS protection",
+    "TODO(frank): confirm top 4 selling points"
+  ],
+  "hashtags": ["#rust", "#rustgame", "#rustserver", "#serverhosting"],
+  "footageDir": "assets/footage/rust",
+  "enabled": true
+}

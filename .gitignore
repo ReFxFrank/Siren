@@ -1,0 +1,13 @@
+# SIREN — see docs/BRIEF.md §4
+node_modules/
+out/
+assets/footage/
+assets/music/*.mp3
+assets/music/*.wav
+assets/music/*.m4a
+assets/music/*.flac
+assets/music/*.ogg
+.remotion/
+.cache/
+*.log
+.DS_Store

@@ -1,0 +1,17 @@
+{
+  "id": "gmod",
+  "displayName": "Garry's Mod",
+  "accent": "#f2a33c",
+  "tagline": "Build anything. Break everything.",
+  "ctaSlug": "gmod",
+  "pricingFrom": "TODO(frank)",
+  "features": [
+    "Instant setup",
+    "NVMe hardware",
+    "DDoS protection",
+    "TODO(frank): confirm top 4 selling points"
+  ],
+  "hashtags": ["#gmod", "#garrysmod", "#sandbox", "#serverhosting"],
+  "footageDir": "assets/footage/gmod",
+  "enabled": true
+}

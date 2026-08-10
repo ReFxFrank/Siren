@@ -1,0 +1,17 @@
+{
+  "id": "fivem",
+  "displayName": "FiveM",
+  "accent": "#0072ff",
+  "tagline": "Your city. Your rules.",
+  "ctaSlug": "fivem",
+  "pricingFrom": "TODO(frank)",
+  "features": [
+    "Instant setup",
+    "NVMe hardware",
+    "DDoS protection",
+    "TODO(frank): confirm top 4 selling points"
+  ],
+  "hashtags": ["#fivem", "#fivemrp", "#gtarp", "#serverhosting"],
+  "footageDir": "assets/footage/fivem",
+  "enabled": true
+}

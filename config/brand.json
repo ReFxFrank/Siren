@@ -1,0 +1,55 @@
+{
+  "colors": {
+    "base": {
+      "deepest": "#070b12",
+      "deep": "#0a111d",
+      "panel": "#0f1828",
+      "raised": "#101a2b"
+    },
+    "accent": {
+      "primary": "#0072ff",
+      "secondary": "#58A7D3",
+      "lightText": "#7db7ff",
+      "paleHighlight": "#9dccff"
+    },
+    "text": {
+      "bright": "#eef6ff",
+      "brightAlt": "#f3f8ff",
+      "secondary": "rgba(216,234,255,0.72)",
+      "muted": "rgba(188,216,255,0.56)",
+      "label": "rgba(140,196,255,0.70)"
+    },
+    "surface": {
+      "panelBg": "linear-gradient(180deg, rgba(10,18,32,0.96), rgba(7,13,24,0.96))",
+      "cardBg": "linear-gradient(180deg, rgba(255,255,255,0.04), rgba(255,255,255,0.015))",
+      "borderFaint": "rgba(255,255,255,0.05)",
+      "borderSoft": "rgba(255,255,255,0.08)",
+      "borderAccentFaint": "rgba(0,114,255,0.14)",
+      "borderAccent": "rgba(0,114,255,0.22)"
+    },
+    "glow": {
+      "soft": "rgba(0,114,255,0.35)",
+      "wide": "rgba(0,114,255,0.16)"
+    },
+    "shadow": "0 24px 60px rgba(2,6,16,0.62)"
+  },
+  "fonts": {
+    "heading": { "family": "Space Grotesk", "file": "fonts/SpaceGrotesk.ttf" },
+    "body": { "family": "Inter", "file": "fonts/Inter.ttf" }
+  },
+  "caption": {
+    "minFontPx9x16": 54,
+    "base": "#eef6ff",
+    "activeWord": "#7db7ff",
+    "activeGlow": "#0072ff"
+  },
+  "safeArea": {
+    "9x16": { "top": 150, "bottom": 250, "left": 60, "right": 120 },
+    "16x9": { "top": 60, "bottom": 100, "left": 90, "right": 90 }
+  },
+  "motion": {
+    "microMs": [150, 300],
+    "panelMs": [400, 600]
+  },
+  "fps": 30
+}
