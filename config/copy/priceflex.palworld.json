@@ -1,0 +1,250 @@
+{
+  "bodies": [
+    {
+      "approved": false,
+      "id": "b01",
+      "lines": [
+        "Start with a plan that fits a starter base.",
+        "Scale up when the breeding farm takes over.",
+        "Instant setup, NVMe hardware, DDoS protection.",
+        "Every tier. No feature gates."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b02",
+      "lines": [
+        "You keep the world alive for the group.",
+        "That shouldn't mean leaving your PC on.",
+        "Move the island onto NVMe hardware.",
+        "Instant setup. Your world, your rules."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b03",
+      "lines": [
+        "DDoS protection comes standard.",
+        "NVMe hardware comes standard.",
+        "Instant setup comes standard.",
+        "The tier only changes how big you build."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b04",
+      "lines": [
+        "Your Pals work the base.",
+        "The server works under them.",
+        "NVMe hardware, DDoS protection, instant setup.",
+        "Pick a size. Grow into the next one."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b05",
+      "lines": [
+        "The whole group, the same persistent world.",
+        "Nobody's gaming PC pulling host duty.",
+        "DDoS protection included at every tier.",
+        "Start small. Upgrade when the base sprawls."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b06",
+      "lines": [
+        "Dungeon runs shouldn't wait on whose PC is up.",
+        "Host the world on NVMe hardware instead.",
+        "It's there when the group is.",
+        "Every tier ships the same features."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b07",
+      "lines": [
+        "You don't pay megabase money for a starter camp.",
+        "Take the small tier. Build. Move up when it's time.",
+        "Features don't change between tiers. Size does.",
+        "Instant setup either way."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b08",
+      "lines": [
+        "A public world is a public target.",
+        "DDoS protection is included, not upsold.",
+        "Same answer on every tier.",
+        "Build without watching the door."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b09",
+      "lines": [
+        "You're the one who keeps the save alive.",
+        "Let the server be the responsible one.",
+        "Instant setup, then it's just your world, hosted.",
+        "Scale it as the group digs in."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b10",
+      "lines": [
+        "Your co-op world lives somewhere.",
+        "Right now, that's probably somebody's bedroom PC.",
+        "NVMe hardware is a better home for it.",
+        "Start on the small tier. It's all there."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b11",
+      "lines": [
+        "Breeding lines, base builds, tower runs.",
+        "That world is worth hosting properly.",
+        "DDoS protection and NVMe hardware, included.",
+        "On the entry tier too, not just the big ones."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b12",
+      "lines": [
+        "First it's a camp and a handful of Pals.",
+        "Then it's a sprawling base with Pals on every job.",
+        "Your server tier can grow the same way.",
+        "Same features at every size."
+      ]
+    }
+  ],
+  "ctas": [
+    {
+      "approved": false,
+      "id": "c01",
+      "text": "Launch yours at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c02",
+      "text": "Host the island at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c03",
+      "text": "Start small at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c04",
+      "text": "Move your world to refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c05",
+      "text": "Pick your tier at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c06",
+      "text": "Spin one up at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c07",
+      "text": "Keep your world running at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c08",
+      "text": "Claim your server at refx.gg"
+    }
+  ],
+  "game": "palworld",
+  "hooks": [
+    {
+      "approved": false,
+      "id": "h01",
+      "text": "Your world shouldn't sleep when you do"
+    },
+    {
+      "approved": false,
+      "id": "h02",
+      "text": "Stop hosting the island off your gaming PC"
+    },
+    {
+      "approved": false,
+      "id": "h03",
+      "text": "The world dies when the host quits"
+    },
+    {
+      "approved": false,
+      "id": "h04",
+      "text": "Somebody has to host. That's you."
+    },
+    {
+      "approved": false,
+      "id": "h05",
+      "text": "Start small. Scale when the base does."
+    },
+    {
+      "approved": false,
+      "id": "h06",
+      "text": "DDoS protection isn't a paid add-on here"
+    },
+    {
+      "approved": false,
+      "id": "h07",
+      "text": "Where does your co-op world actually live?"
+    },
+    {
+      "approved": false,
+      "id": "h08",
+      "text": "Raid night shouldn't wait on the host"
+    },
+    {
+      "approved": false,
+      "id": "h09",
+      "text": "Your breeding program deserves real hardware"
+    },
+    {
+      "approved": false,
+      "id": "h10",
+      "text": "Build the base. We keep it running."
+    },
+    {
+      "approved": false,
+      "id": "h11",
+      "text": "Host the world your group comes back to"
+    },
+    {
+      "approved": false,
+      "id": "h12",
+      "text": "Port forwarding is not a personality trait"
+    },
+    {
+      "approved": false,
+      "id": "h13",
+      "text": "Pay for size, not for features"
+    },
+    {
+      "approved": false,
+      "id": "h14",
+      "text": "The small tier isn't a demo"
+    },
+    {
+      "approved": false,
+      "id": "h15",
+      "text": "Log off. The group keeps building."
+    },
+    {
+      "approved": false,
+      "id": "h16",
+      "text": "The host dropped mid-boss. Again."
+    }
+  ],
+  "template": "priceflex"
+}

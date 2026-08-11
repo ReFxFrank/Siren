@@ -1,0 +1,246 @@
+{
+  "bodies": [
+    {
+      "approved": false,
+      "id": "b01",
+      "lines": [
+        "Your crew's world deserves better than a spare PC.",
+        "Spin it up on NVMe hardware.",
+        "DDoS protection stands guard.",
+        "You just play."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b02",
+      "lines": [
+        "The world keeps moving between sessions.",
+        "Pals on the job. Progress banked.",
+        "Log back in right where you left off."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b03",
+      "lines": [
+        "No port forwarding. No config rabbit holes.",
+        "Instant setup — pick Palworld and go.",
+        "Invite the crew and start taming."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b04",
+      "lines": [
+        "Catch them. Breed them. Put them to work.",
+        "Raid the dungeon while the base hums along.",
+        "One world for the whole crew.",
+        "Hosted so it stays that way."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b05",
+      "lines": [
+        "Every group has a server friend.",
+        "The one who keeps the world alive.",
+        "refx.gg makes that job the easy part."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b06",
+      "lines": [
+        "Instant setup — live before the group chat calms down.",
+        "NVMe hardware for fast loads and smooth saves.",
+        "DDoS protection included."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b07",
+      "lines": [
+        "Your gaming PC has one job. Hosting isn't it.",
+        "Move the world to a real server.",
+        "Your save stays safe. You focus on the raid."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b08",
+      "lines": [
+        "Those breeding lines took real effort.",
+        "Keep them on hardware built for it.",
+        "NVMe hardware. DDoS protection. No drama."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b09",
+      "lines": [
+        "Your friends drop in whenever they want.",
+        "Same base. Same Pals. Same progress.",
+        "That's what a hosted world gets you."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b10",
+      "lines": [
+        "Tower night. Everyone's on.",
+        "The server doesn't flinch.",
+        "DDoS protection works the door.",
+        "Go get the boss."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b11",
+      "lines": [
+        "You've carried this world long enough.",
+        "Hand the heavy lifting to refx.gg.",
+        "Still your world. No longer your job."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b12",
+      "lines": [
+        "Your island. Your rules. Your crew.",
+        "Backed by NVMe hardware and DDoS protection.",
+        "Instant setup means you're taming, not troubleshooting."
+      ]
+    }
+  ],
+  "ctas": [
+    {
+      "approved": false,
+      "id": "c01",
+      "text": "Launch yours at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c02",
+      "text": "Start your world at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c03",
+      "text": "Give your world a home — refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c04",
+      "text": "Host the island at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c05",
+      "text": "Get your crew on refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c06",
+      "text": "Spin one up at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c07",
+      "text": "Claim your server at refx.gg"
+    }
+  ],
+  "game": "palworld",
+  "hooks": [
+    {
+      "approved": false,
+      "id": "h01",
+      "text": "Your world shouldn't sleep when you do."
+    },
+    {
+      "approved": false,
+      "id": "h02",
+      "text": "Waiting on the host again?"
+    },
+    {
+      "approved": false,
+      "id": "h03",
+      "text": "Be the friend who runs the server."
+    },
+    {
+      "approved": false,
+      "id": "h04",
+      "text": "The base doesn't build itself. Oh wait."
+    },
+    {
+      "approved": false,
+      "id": "h05",
+      "text": "The tower won't raid itself."
+    },
+    {
+      "approved": false,
+      "id": "h06",
+      "text": "Your co-op world, minus your PC."
+    },
+    {
+      "approved": false,
+      "id": "h07",
+      "text": "Your save shouldn't live on one machine."
+    },
+    {
+      "approved": false,
+      "id": "h08",
+      "text": "Quit being the human server rack."
+    },
+    {
+      "approved": false,
+      "id": "h09",
+      "text": "Still fighting port forwarding?"
+    },
+    {
+      "approved": false,
+      "id": "h10",
+      "text": "Your breeding program deserves a real server."
+    },
+    {
+      "approved": false,
+      "id": "h11",
+      "text": "Pals work the base. You run raids."
+    },
+    {
+      "approved": false,
+      "id": "h12",
+      "text": "Your friends log on. The world's there."
+    },
+    {
+      "approved": false,
+      "id": "h13",
+      "text": "What's your base doing right now?"
+    },
+    {
+      "approved": false,
+      "id": "h14",
+      "text": "Host lag eats your perfect sphere throw."
+    },
+    {
+      "approved": false,
+      "id": "h15",
+      "text": "Keep the world. Lose the workload."
+    },
+    {
+      "approved": false,
+      "id": "h16",
+      "text": "Tame the island together, on real hardware."
+    },
+    {
+      "approved": false,
+      "id": "h17",
+      "text": "The sweatshop never closes."
+    },
+    {
+      "approved": false,
+      "id": "h18",
+      "text": "Dungeon night, no setup drama."
+    }
+  ],
+  "template": "spotlight"
+}

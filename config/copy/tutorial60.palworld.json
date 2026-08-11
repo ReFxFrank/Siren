@@ -1,0 +1,235 @@
+{
+  "bodies": [
+    {
+      "approved": false,
+      "id": "b01",
+      "lines": [
+        "Pick a plan that fits your group. No spreadsheet required.",
+        "The refx.gg panel deploys the server itself. Instant setup.",
+        "Name your world and set the options the way your group likes.",
+        "Send one invite link. Your people are in by tonight."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b02",
+      "lines": [
+        "Start with a plan sized for your crew and your region.",
+        "Setup runs on our end. You watch it come online.",
+        "Rename the world, pick the settings, make it feel like home.",
+        "Invite the group and the world is theirs too."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b03",
+      "lines": [
+        "Pick your plan. This is the last hard decision today.",
+        "Deployment is automatic, on NVMe hardware from the start.",
+        "Set the world options once. They stick around.",
+        "Bring the group in. The world keeps going without you."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b04",
+      "lines": [
+        "Choose a plan that matches how your group plays.",
+        "One click and the refx.gg panel takes it from there.",
+        "Name the server and dial in your world settings.",
+        "Invite your friends and go live together."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b05",
+      "lines": [
+        "Pick the plan. Think about who's on base duty later.",
+        "The server builds itself while you plan the base layout.",
+        "Set the world name and rules before anyone lands.",
+        "Then open the gates. The whole group spawns in."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b06",
+      "lines": [
+        "Choose a plan for your group. Each runs on NVMe hardware.",
+        "Setup is hands-off, with DDoS protection on from minute one.",
+        "Give the world a name your group will actually use.",
+        "Share the invite. Meet at the base tonight."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b07",
+      "lines": [
+        "Plans come in sizes. Pick the one shaped like your group.",
+        "Hit deploy and the panel handles the rest. Instant setup.",
+        "World name, difficulty, day length. Your call, all of it.",
+        "Invite the crew. The tower run starts tonight."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b08",
+      "lines": [
+        "Sixty seconds starts now. Pick your plan.",
+        "The deploy runs itself. You just watch the bar fill.",
+        "Name it something the group chat will recognize.",
+        "Paste the invite in that same chat. Done."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b09",
+      "lines": [
+        "You keep this world running, so pick the plan first.",
+        "No port forwarding tonight. The panel deploys it for you.",
+        "Set catch rates and difficulty the way your group plays.",
+        "Then hand out the address and watch them log in."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b10",
+      "lines": [
+        "Pick a plan and a region close to your group.",
+        "Deployment is automatic. Instant setup is the whole point.",
+        "Choose your world settings before the first Pal is caught.",
+        "That's it. Invite the group and go live."
+      ]
+    }
+  ],
+  "ctas": [
+    {
+      "approved": false,
+      "id": "c01",
+      "text": "Launch yours at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c02",
+      "text": "Start your world at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c03",
+      "text": "Host the island at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c04",
+      "text": "Spin one up at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c05",
+      "text": "See plans at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c06",
+      "text": "Get your crew on refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c07",
+      "text": "Claim your server at refx.gg"
+    }
+  ],
+  "game": "palworld",
+  "hooks": [
+    {
+      "approved": false,
+      "id": "h01",
+      "text": "Your world shouldn't sleep when you do"
+    },
+    {
+      "approved": false,
+      "id": "h02",
+      "text": "Host a Palworld server in 60 seconds"
+    },
+    {
+      "approved": false,
+      "id": "h03",
+      "text": "Waiting on the host again?"
+    },
+    {
+      "approved": false,
+      "id": "h04",
+      "text": "Be the friend who runs the server"
+    },
+    {
+      "approved": false,
+      "id": "h05",
+      "text": "The base doesn't build itself. Oh wait."
+    },
+    {
+      "approved": false,
+      "id": "h06",
+      "text": "Your co-op world, minus your PC"
+    },
+    {
+      "approved": false,
+      "id": "h07",
+      "text": "Your save shouldn't live on one machine"
+    },
+    {
+      "approved": false,
+      "id": "h08",
+      "text": "Quit being the human server rack"
+    },
+    {
+      "approved": false,
+      "id": "h09",
+      "text": "Still fighting port forwarding?"
+    },
+    {
+      "approved": false,
+      "id": "h10",
+      "text": "Your breeding program deserves a real server"
+    },
+    {
+      "approved": false,
+      "id": "h11",
+      "text": "Pals work the base. You run raids."
+    },
+    {
+      "approved": false,
+      "id": "h12",
+      "text": "Your friends log on. The world's there."
+    },
+    {
+      "approved": false,
+      "id": "h13",
+      "text": "What's your base doing right now?"
+    },
+    {
+      "approved": false,
+      "id": "h14",
+      "text": "Host lag eats your perfect sphere throw"
+    },
+    {
+      "approved": false,
+      "id": "h15",
+      "text": "Keep the world. Lose the workload."
+    },
+    {
+      "approved": false,
+      "id": "h16",
+      "text": "Tame the island together, on real hardware"
+    },
+    {
+      "approved": false,
+      "id": "h17",
+      "text": "Dungeon night, no setup drama"
+    },
+    {
+      "approved": false,
+      "id": "h18",
+      "text": "Set it up tonight, raid the tower tomorrow"
+    }
+  ],
+  "template": "tutorial60"
+}

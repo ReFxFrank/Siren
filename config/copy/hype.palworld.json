@@ -1,0 +1,233 @@
+{
+  "bodies": [
+    {
+      "approved": false,
+      "id": "b01",
+      "lines": [
+        "Tonight the world resets.",
+        "Instant setup. No waiting room.",
+        "NVMe hardware under the whole island.",
+        "Get the crew in first."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b02",
+      "lines": [
+        "Your gaming PC is not a server.",
+        "Move the world off your desk.",
+        "Pals keep working. Bases keep building.",
+        "Log off without guilt."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b03",
+      "lines": [
+        "Launch night, no surprises.",
+        "DDoS protection stands at the gate.",
+        "The only raids are the ones you planned."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b04",
+      "lines": [
+        "You keep the world alive for everyone.",
+        "So put it somewhere built for that.",
+        "Instant setup. NVMe hardware. DDoS protection.",
+        "Host like you mean it."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b05",
+      "lines": [
+        "The group chat picked tonight.",
+        "New world. Everyone starts even.",
+        "Instant setup. Excuses take longer.",
+        "See you at spawn."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b06",
+      "lines": [
+        "New world, new breeding lines.",
+        "Assign the Pals. Watch the base run.",
+        "The world keeps moving while you sleep.",
+        "That's what a real server is for."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b07",
+      "lines": [
+        "Hosting shouldn't be a second job.",
+        "Instant setup. Invite the crew. Done.",
+        "You press launch. That's the whole job."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b08",
+      "lines": [
+        "Wipe night.",
+        "Everything you built, gone. Good.",
+        "The fun was building it anyway.",
+        "Start again, better this time."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b09",
+      "lines": [
+        "New world goes live tonight.",
+        "First catch. First base. First tower.",
+        "The race is the whole point.",
+        "Don't be the one who joins late."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b10",
+      "lines": [
+        "Your base gets ambitious fast.",
+        "NVMe hardware doesn't flinch.",
+        "Build the mega-base. Breed the army.",
+        "The server keeps up. You keep going."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b11",
+      "lines": [
+        "Tonight: fresh world, full crew.",
+        "Start the server on the walk home.",
+        "Catch fast. Build faster.",
+        "This is the good part."
+      ]
+    }
+  ],
+  "ctas": [
+    {
+      "approved": false,
+      "id": "c01",
+      "text": "Launch yours at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c02",
+      "text": "Start the world at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c03",
+      "text": "Spin one up at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c04",
+      "text": "Claim your server at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c05",
+      "text": "Go live tonight at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c06",
+      "text": "Bring the crew to refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c07",
+      "text": "Host it right at refx.gg"
+    }
+  ],
+  "game": "palworld",
+  "hooks": [
+    {
+      "approved": false,
+      "id": "h01",
+      "text": "Fresh world drops tonight."
+    },
+    {
+      "approved": false,
+      "id": "h02",
+      "text": "Your world shouldn't sleep when you do."
+    },
+    {
+      "approved": false,
+      "id": "h03",
+      "text": "The base keeps working. So should the server."
+    },
+    {
+      "approved": false,
+      "id": "h04",
+      "text": "Tonight you start over. Together."
+    },
+    {
+      "approved": false,
+      "id": "h05",
+      "text": "Wipe night is the good kind of reset."
+    },
+    {
+      "approved": false,
+      "id": "h06",
+      "text": "You host. Everyone else just shows up."
+    },
+    {
+      "approved": false,
+      "id": "h07",
+      "text": "Stop hosting off your gaming PC."
+    },
+    {
+      "approved": false,
+      "id": "h08",
+      "text": "The Pals work while you're offline."
+    },
+    {
+      "approved": false,
+      "id": "h09",
+      "text": "One of you keeps the world alive."
+    },
+    {
+      "approved": false,
+      "id": "h10",
+      "text": "New world tonight. Who catches first?"
+    },
+    {
+      "approved": false,
+      "id": "h11",
+      "text": "New breeding lines start from scratch tonight."
+    },
+    {
+      "approved": false,
+      "id": "h12",
+      "text": "Race you to the first tower."
+    },
+    {
+      "approved": false,
+      "id": "h13",
+      "text": "The host never logs off first."
+    },
+    {
+      "approved": false,
+      "id": "h14",
+      "text": "Your base deserves better than your upload speed."
+    },
+    {
+      "approved": false,
+      "id": "h15",
+      "text": "First Anubis of the wipe wins."
+    },
+    {
+      "approved": false,
+      "id": "h16",
+      "text": "The map is empty. For now."
+    }
+  ],
+  "template": "hype"
+}

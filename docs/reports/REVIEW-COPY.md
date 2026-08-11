@@ -1,10 +1,10 @@
 # SIREN copy banks — review & approval
 
-_Generated 2026-08-11 03:41Z · flip approvals via:_
+_Generated 2026-08-11 03:56Z · flip approvals via:_
 `tsx scripts/approve-copy.ts <template>.<game> --approve h01,b02` _(or `--all`, `--all-except id,…`, `--revoke id,…`)_
 
 Production renders only use ☑ entries. Test renders may use any entry but stay watermarked.
-**Status: 0/434 entries approved.**
+**Status: 0/576 entries approved.**
 
 
 ## spotlight · Garry's Mod
@@ -102,6 +102,54 @@ Production renders only use ☑ entries. Test renders may use any entry but stay
 - ☐ `c05` Spin one up at refx.gg
 - ☐ `c06` Claim your server at refx.gg
 - ☐ `c07` Get the SMP off your laptop
+
+## spotlight · Palworld
+
+**Hooks**
+
+- ☐ `h01` Your world shouldn't sleep when you do.
+- ☐ `h02` Waiting on the host again?
+- ☐ `h03` Be the friend who runs the server.
+- ☐ `h04` The base doesn't build itself. Oh wait.
+- ☐ `h05` The tower won't raid itself.
+- ☐ `h06` Your co-op world, minus your PC.
+- ☐ `h07` Your save shouldn't live on one machine.
+- ☐ `h08` Quit being the human server rack.
+- ☐ `h09` Still fighting port forwarding?
+- ☐ `h10` Your breeding program deserves a real server.
+- ☐ `h11` Pals work the base. You run raids.
+- ☐ `h12` Your friends log on. The world's there.
+- ☐ `h13` What's your base doing right now?
+- ☐ `h14` Host lag eats your perfect sphere throw.
+- ☐ `h15` Keep the world. Lose the workload.
+- ☐ `h16` Tame the island together, on real hardware.
+- ☐ `h17` The sweatshop never closes.
+- ☐ `h18` Dungeon night, no setup drama.
+
+**Bodies (lines shown ⏵-joined — they render as sequential captions)**
+
+- ☐ `b01` Your crew's world deserves better than a spare PC. ⏵ Spin it up on NVMe hardware. ⏵ DDoS protection stands guard. ⏵ You just play.
+- ☐ `b02` The world keeps moving between sessions. ⏵ Pals on the job. Progress banked. ⏵ Log back in right where you left off.
+- ☐ `b03` No port forwarding. No config rabbit holes. ⏵ Instant setup — pick Palworld and go. ⏵ Invite the crew and start taming.
+- ☐ `b04` Catch them. Breed them. Put them to work. ⏵ Raid the dungeon while the base hums along. ⏵ One world for the whole crew. ⏵ Hosted so it stays that way.
+- ☐ `b05` Every group has a server friend. ⏵ The one who keeps the world alive. ⏵ refx.gg makes that job the easy part.
+- ☐ `b06` Instant setup — live before the group chat calms down. ⏵ NVMe hardware for fast loads and smooth saves. ⏵ DDoS protection included.
+- ☐ `b07` Your gaming PC has one job. Hosting isn't it. ⏵ Move the world to a real server. ⏵ Your save stays safe. You focus on the raid.
+- ☐ `b08` Those breeding lines took real effort. ⏵ Keep them on hardware built for it. ⏵ NVMe hardware. DDoS protection. No drama.
+- ☐ `b09` Your friends drop in whenever they want. ⏵ Same base. Same Pals. Same progress. ⏵ That's what a hosted world gets you.
+- ☐ `b10` Tower night. Everyone's on. ⏵ The server doesn't flinch. ⏵ DDoS protection works the door. ⏵ Go get the boss.
+- ☐ `b11` You've carried this world long enough. ⏵ Hand the heavy lifting to refx.gg. ⏵ Still your world. No longer your job.
+- ☐ `b12` Your island. Your rules. Your crew. ⏵ Backed by NVMe hardware and DDoS protection. ⏵ Instant setup means you're taming, not troubleshooting.
+
+**CTAs**
+
+- ☐ `c01` Launch yours at refx.gg
+- ☐ `c02` Start your world at refx.gg
+- ☐ `c03` Give your world a home — refx.gg
+- ☐ `c04` Host the island at refx.gg
+- ☐ `c05` Get your crew on refx.gg
+- ☐ `c06` Spin one up at refx.gg
+- ☐ `c07` Claim your server at refx.gg
 
 ## spotlight · Rust
 
@@ -248,6 +296,52 @@ Production renders only use ☑ entries. Test renders may use any entry but stay
 - ☐ `c06` Give your world a home
 - ☐ `c07` Spin yours up at refx.gg
 
+## tutorial60 · Palworld
+
+**Hooks**
+
+- ☐ `h01` Your world shouldn't sleep when you do
+- ☐ `h02` Host a Palworld server in 60 seconds
+- ☐ `h03` Waiting on the host again?
+- ☐ `h04` Be the friend who runs the server
+- ☐ `h05` The base doesn't build itself. Oh wait.
+- ☐ `h06` Your co-op world, minus your PC
+- ☐ `h07` Your save shouldn't live on one machine
+- ☐ `h08` Quit being the human server rack
+- ☐ `h09` Still fighting port forwarding?
+- ☐ `h10` Your breeding program deserves a real server
+- ☐ `h11` Pals work the base. You run raids.
+- ☐ `h12` Your friends log on. The world's there.
+- ☐ `h13` What's your base doing right now?
+- ☐ `h14` Host lag eats your perfect sphere throw
+- ☐ `h15` Keep the world. Lose the workload.
+- ☐ `h16` Tame the island together, on real hardware
+- ☐ `h17` Dungeon night, no setup drama
+- ☐ `h18` Set it up tonight, raid the tower tomorrow
+
+**Bodies (lines shown ⏵-joined — they render as sequential captions)**
+
+- ☐ `b01` Pick a plan that fits your group. No spreadsheet required. ⏵ The refx.gg panel deploys the server itself. Instant setup. ⏵ Name your world and set the options the way your group likes. ⏵ Send one invite link. Your people are in by tonight.
+- ☐ `b02` Start with a plan sized for your crew and your region. ⏵ Setup runs on our end. You watch it come online. ⏵ Rename the world, pick the settings, make it feel like home. ⏵ Invite the group and the world is theirs too.
+- ☐ `b03` Pick your plan. This is the last hard decision today. ⏵ Deployment is automatic, on NVMe hardware from the start. ⏵ Set the world options once. They stick around. ⏵ Bring the group in. The world keeps going without you.
+- ☐ `b04` Choose a plan that matches how your group plays. ⏵ One click and the refx.gg panel takes it from there. ⏵ Name the server and dial in your world settings. ⏵ Invite your friends and go live together.
+- ☐ `b05` Pick the plan. Think about who's on base duty later. ⏵ The server builds itself while you plan the base layout. ⏵ Set the world name and rules before anyone lands. ⏵ Then open the gates. The whole group spawns in.
+- ☐ `b06` Choose a plan for your group. Each runs on NVMe hardware. ⏵ Setup is hands-off, with DDoS protection on from minute one. ⏵ Give the world a name your group will actually use. ⏵ Share the invite. Meet at the base tonight.
+- ☐ `b07` Plans come in sizes. Pick the one shaped like your group. ⏵ Hit deploy and the panel handles the rest. Instant setup. ⏵ World name, difficulty, day length. Your call, all of it. ⏵ Invite the crew. The tower run starts tonight.
+- ☐ `b08` Sixty seconds starts now. Pick your plan. ⏵ The deploy runs itself. You just watch the bar fill. ⏵ Name it something the group chat will recognize. ⏵ Paste the invite in that same chat. Done.
+- ☐ `b09` You keep this world running, so pick the plan first. ⏵ No port forwarding tonight. The panel deploys it for you. ⏵ Set catch rates and difficulty the way your group plays. ⏵ Then hand out the address and watch them log in.
+- ☐ `b10` Pick a plan and a region close to your group. ⏵ Deployment is automatic. Instant setup is the whole point. ⏵ Choose your world settings before the first Pal is caught. ⏵ That's it. Invite the group and go live.
+
+**CTAs**
+
+- ☐ `c01` Launch yours at refx.gg
+- ☐ `c02` Start your world at refx.gg
+- ☐ `c03` Host the island at refx.gg
+- ☐ `c04` Spin one up at refx.gg
+- ☐ `c05` See plans at refx.gg
+- ☐ `c06` Get your crew on refx.gg
+- ☐ `c07` Claim your server at refx.gg
+
 ## tutorial60 · Rust
 
 **Hooks**
@@ -383,6 +477,53 @@ Production renders only use ☑ entries. Test renders may use any entry but stay
 - ☐ `c06` Pick your size at refx.gg
 - ☐ `c07` Host it at refx.gg
 - ☐ `c08` Build it on refx.gg
+
+## priceflex · Palworld
+
+**Hooks**
+
+- ☐ `h01` Your world shouldn't sleep when you do
+- ☐ `h02` Stop hosting the island off your gaming PC
+- ☐ `h03` The world dies when the host quits
+- ☐ `h04` Somebody has to host. That's you.
+- ☐ `h05` Start small. Scale when the base does.
+- ☐ `h06` DDoS protection isn't a paid add-on here
+- ☐ `h07` Where does your co-op world actually live?
+- ☐ `h08` Raid night shouldn't wait on the host
+- ☐ `h09` Your breeding program deserves real hardware
+- ☐ `h10` Build the base. We keep it running.
+- ☐ `h11` Host the world your group comes back to
+- ☐ `h12` Port forwarding is not a personality trait
+- ☐ `h13` Pay for size, not for features
+- ☐ `h14` The small tier isn't a demo
+- ☐ `h15` Log off. The group keeps building.
+- ☐ `h16` The host dropped mid-boss. Again.
+
+**Bodies (lines shown ⏵-joined — they render as sequential captions)**
+
+- ☐ `b01` Start with a plan that fits a starter base. ⏵ Scale up when the breeding farm takes over. ⏵ Instant setup, NVMe hardware, DDoS protection. ⏵ Every tier. No feature gates.
+- ☐ `b02` You keep the world alive for the group. ⏵ That shouldn't mean leaving your PC on. ⏵ Move the island onto NVMe hardware. ⏵ Instant setup. Your world, your rules.
+- ☐ `b03` DDoS protection comes standard. ⏵ NVMe hardware comes standard. ⏵ Instant setup comes standard. ⏵ The tier only changes how big you build.
+- ☐ `b04` Your Pals work the base. ⏵ The server works under them. ⏵ NVMe hardware, DDoS protection, instant setup. ⏵ Pick a size. Grow into the next one.
+- ☐ `b05` The whole group, the same persistent world. ⏵ Nobody's gaming PC pulling host duty. ⏵ DDoS protection included at every tier. ⏵ Start small. Upgrade when the base sprawls.
+- ☐ `b06` Dungeon runs shouldn't wait on whose PC is up. ⏵ Host the world on NVMe hardware instead. ⏵ It's there when the group is. ⏵ Every tier ships the same features.
+- ☐ `b07` You don't pay megabase money for a starter camp. ⏵ Take the small tier. Build. Move up when it's time. ⏵ Features don't change between tiers. Size does. ⏵ Instant setup either way.
+- ☐ `b08` A public world is a public target. ⏵ DDoS protection is included, not upsold. ⏵ Same answer on every tier. ⏵ Build without watching the door.
+- ☐ `b09` You're the one who keeps the save alive. ⏵ Let the server be the responsible one. ⏵ Instant setup, then it's just your world, hosted. ⏵ Scale it as the group digs in.
+- ☐ `b10` Your co-op world lives somewhere. ⏵ Right now, that's probably somebody's bedroom PC. ⏵ NVMe hardware is a better home for it. ⏵ Start on the small tier. It's all there.
+- ☐ `b11` Breeding lines, base builds, tower runs. ⏵ That world is worth hosting properly. ⏵ DDoS protection and NVMe hardware, included. ⏵ On the entry tier too, not just the big ones.
+- ☐ `b12` First it's a camp and a handful of Pals. ⏵ Then it's a sprawling base with Pals on every job. ⏵ Your server tier can grow the same way. ⏵ Same features at every size.
+
+**CTAs**
+
+- ☐ `c01` Launch yours at refx.gg
+- ☐ `c02` Host the island at refx.gg
+- ☐ `c03` Start small at refx.gg
+- ☐ `c04` Move your world to refx.gg
+- ☐ `c05` Pick your tier at refx.gg
+- ☐ `c06` Spin one up at refx.gg
+- ☐ `c07` Keep your world running at refx.gg
+- ☐ `c08` Claim your server at refx.gg
 
 ## priceflex · Rust
 
@@ -526,6 +667,51 @@ Production renders only use ☑ entries. Test renders may use any entry but stay
 - ☐ `c06` Get your server at refx.gg
 - ☐ `c07` Go live tonight at refx.gg
 - ☐ `c08` Set the countdown at refx.gg
+
+## hype · Palworld
+
+**Hooks**
+
+- ☐ `h01` Fresh world drops tonight.
+- ☐ `h02` Your world shouldn't sleep when you do.
+- ☐ `h03` The base keeps working. So should the server.
+- ☐ `h04` Tonight you start over. Together.
+- ☐ `h05` Wipe night is the good kind of reset.
+- ☐ `h06` You host. Everyone else just shows up.
+- ☐ `h07` Stop hosting off your gaming PC.
+- ☐ `h08` The Pals work while you're offline.
+- ☐ `h09` One of you keeps the world alive.
+- ☐ `h10` New world tonight. Who catches first?
+- ☐ `h11` New breeding lines start from scratch tonight.
+- ☐ `h12` Race you to the first tower.
+- ☐ `h13` The host never logs off first.
+- ☐ `h14` Your base deserves better than your upload speed.
+- ☐ `h15` First Anubis of the wipe wins.
+- ☐ `h16` The map is empty. For now.
+
+**Bodies (lines shown ⏵-joined — they render as sequential captions)**
+
+- ☐ `b01` Tonight the world resets. ⏵ Instant setup. No waiting room. ⏵ NVMe hardware under the whole island. ⏵ Get the crew in first.
+- ☐ `b02` Your gaming PC is not a server. ⏵ Move the world off your desk. ⏵ Pals keep working. Bases keep building. ⏵ Log off without guilt.
+- ☐ `b03` Launch night, no surprises. ⏵ DDoS protection stands at the gate. ⏵ The only raids are the ones you planned.
+- ☐ `b04` You keep the world alive for everyone. ⏵ So put it somewhere built for that. ⏵ Instant setup. NVMe hardware. DDoS protection. ⏵ Host like you mean it.
+- ☐ `b05` The group chat picked tonight. ⏵ New world. Everyone starts even. ⏵ Instant setup. Excuses take longer. ⏵ See you at spawn.
+- ☐ `b06` New world, new breeding lines. ⏵ Assign the Pals. Watch the base run. ⏵ The world keeps moving while you sleep. ⏵ That's what a real server is for.
+- ☐ `b07` Hosting shouldn't be a second job. ⏵ Instant setup. Invite the crew. Done. ⏵ You press launch. That's the whole job.
+- ☐ `b08` Wipe night. ⏵ Everything you built, gone. Good. ⏵ The fun was building it anyway. ⏵ Start again, better this time.
+- ☐ `b09` New world goes live tonight. ⏵ First catch. First base. First tower. ⏵ The race is the whole point. ⏵ Don't be the one who joins late.
+- ☐ `b10` Your base gets ambitious fast. ⏵ NVMe hardware doesn't flinch. ⏵ Build the mega-base. Breed the army. ⏵ The server keeps up. You keep going.
+- ☐ `b11` Tonight: fresh world, full crew. ⏵ Start the server on the walk home. ⏵ Catch fast. Build faster. ⏵ This is the good part.
+
+**CTAs**
+
+- ☐ `c01` Launch yours at refx.gg
+- ☐ `c02` Start the world at refx.gg
+- ☐ `c03` Spin one up at refx.gg
+- ☐ `c04` Claim your server at refx.gg
+- ☐ `c05` Go live tonight at refx.gg
+- ☐ `c06` Bring the crew to refx.gg
+- ☐ `c07` Host it right at refx.gg
 
 ## hype · Rust
 
