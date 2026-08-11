@@ -1,0 +1,255 @@
+{
+  "bodies": [
+    {
+      "approved": false,
+      "id": "b01",
+      "lines": [
+        "Midnight. Fresh seed. Clean map.",
+        "Your crew drops at spawn together.",
+        "Someone punches the first tree.",
+        "The grind starts over tonight."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b02",
+      "lines": [
+        "Every SMP has one person keeping it alive.",
+        "That's you.",
+        "Move the world off your gaming PC.",
+        "Then log in and just play."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b03",
+      "lines": [
+        "Outgrew the realm? Thought so.",
+        "Paper or Forge, your call.",
+        "Plugins, datapacks, mods. Yours to run.",
+        "This is your server now."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b04",
+      "lines": [
+        "Season two has a date.",
+        "The group chat has a countdown.",
+        "Instant setup means it starts on time.",
+        "See you at spawn."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b05",
+      "lines": [
+        "Friends log off. The world stays.",
+        "The base keeps its lights on.",
+        "The farms keep ticking over.",
+        "Everyone comes back to something."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b06",
+      "lines": [
+        "Hosting off your own PC again?",
+        "Your world dies every time you sleep.",
+        "Put it somewhere built for it.",
+        "NVMe hardware. DDoS protection. Done."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b07",
+      "lines": [
+        "Reset night rules are simple.",
+        "Nobody keeps their diamonds.",
+        "Everybody keeps their spot.",
+        "Fresh map tonight. Be there."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b08",
+      "lines": [
+        "Same crew since the old world.",
+        "New seed, same rivalry.",
+        "Archive the past. Start the season.",
+        "First to the Nether wins."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b09",
+      "lines": [
+        "Creepers blow up bases.",
+        "That's allowed.",
+        "DDoS attacks blow up launch night.",
+        "That's handled."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b10",
+      "lines": [
+        "Pick the seed.",
+        "Post the countdown.",
+        "Instant setup handles the rest.",
+        "Doors open at midnight."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b11",
+      "lines": [
+        "You set the whitelist.",
+        "You pick the plugins.",
+        "You call the reset.",
+        "Your world, your rules."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b12",
+      "lines": [
+        "Somewhere out there is a perfect seed.",
+        "Tonight your crew rolls for it.",
+        "Fresh chunks. Zero history.",
+        "Go write some."
+      ]
+    }
+  ],
+  "ctas": [
+    {
+      "approved": false,
+      "id": "c01",
+      "text": "Launch yours at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c02",
+      "text": "Start the season at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c03",
+      "text": "Spin it up at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c04",
+      "text": "Claim your world at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c05",
+      "text": "Host the reset at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c06",
+      "text": "Get your server at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c07",
+      "text": "Go live tonight at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c08",
+      "text": "Set the countdown at refx.gg"
+    }
+  ],
+  "game": "minecraft",
+  "hooks": [
+    {
+      "approved": false,
+      "id": "h01",
+      "text": "Fresh chunks at midnight"
+    },
+    {
+      "approved": false,
+      "id": "h02",
+      "text": "The group chat is counting down"
+    },
+    {
+      "approved": false,
+      "id": "h03",
+      "text": "Somebody keeps this world alive. It's you"
+    },
+    {
+      "approved": false,
+      "id": "h04",
+      "text": "Your world shouldn't die when your PC sleeps"
+    },
+    {
+      "approved": false,
+      "id": "h05",
+      "text": "Tonight, everyone spawns at zero"
+    },
+    {
+      "approved": false,
+      "id": "h06",
+      "text": "Stop hosting off your gaming PC"
+    },
+    {
+      "approved": false,
+      "id": "h07",
+      "text": "New season, new spawn, old crew"
+    },
+    {
+      "approved": false,
+      "id": "h08",
+      "text": "Too big for a realm now"
+    },
+    {
+      "approved": false,
+      "id": "h09",
+      "text": "Countdown's live. Is your server?"
+    },
+    {
+      "approved": false,
+      "id": "h10",
+      "text": "Your friends log off. The world doesn't"
+    },
+    {
+      "approved": false,
+      "id": "h11",
+      "text": "Diamonds reset tonight. Friendships don't"
+    },
+    {
+      "approved": false,
+      "id": "h12",
+      "text": "The old world gets archived tonight"
+    },
+    {
+      "approved": false,
+      "id": "h13",
+      "text": "Paper, plugins, fresh seed. Go"
+    },
+    {
+      "approved": false,
+      "id": "h14",
+      "text": "Season two starts when you say"
+    },
+    {
+      "approved": false,
+      "id": "h15",
+      "text": "Everyone keeps asking when. Tonight"
+    },
+    {
+      "approved": false,
+      "id": "h16",
+      "text": "The dragon doesn't know you're coming"
+    },
+    {
+      "approved": false,
+      "id": "h17",
+      "text": "One life each. Starts tonight"
+    }
+  ],
+  "template": "hype"
+}

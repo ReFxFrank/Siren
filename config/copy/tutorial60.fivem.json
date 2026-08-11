@@ -1,0 +1,249 @@
+{
+  "bodies": [
+    {
+      "approved": false,
+      "id": "b01",
+      "lines": [
+        "Step one: pick a FiveM plan on refx.gg.",
+        "Step two: name your city and hit deploy.",
+        "Instant setup has it live before you alt-tab back.",
+        "Step three: drop the connect info in your Discord."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b02",
+      "lines": [
+        "Pick a plan. That's the whole first step.",
+        "Name the server after the city you've been planning.",
+        "Instant setup, so the whitelist opens tonight.",
+        "Approve your first citizens and start the session."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b03",
+      "lines": [
+        "Departments need somewhere to clock in.",
+        "Pick a plan and name your city.",
+        "DDoS protection keeps the session up on launch night.",
+        "Send the invite. Roll out your first patrol."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b04",
+      "lines": [
+        "Hosting a FiveM server sounds harder than it is.",
+        "Choose a plan. Give the city a name.",
+        "Your resources load from NVMe hardware.",
+        "Open the whitelist and start session zero."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b05",
+      "lines": [
+        "Your friends want a city. Here's the walkthrough.",
+        "Pick a plan on refx.gg and name your server.",
+        "Setup is instant, so nobody waits around.",
+        "Share the connect link and start session one."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b06",
+      "lines": [
+        "Sixty seconds. Three steps. One city.",
+        "One: pick the plan that fits your community.",
+        "Two: name it and deploy. Setup is instant.",
+        "Three: invite your whitelist and go live."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b07",
+      "lines": [
+        "Civ life needs somewhere to happen first.",
+        "Pick a plan. DDoS protection is included.",
+        "Name your city and let instant setup do the rest.",
+        "Open the doors. Let the mechanics and taxi drivers in."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b08",
+      "lines": [
+        "You've written the lore. Now build the city.",
+        "Choose a plan and name the server.",
+        "It deploys with instant setup. No waiting on tickets.",
+        "Post the invite. Watch city hall fill up."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b09",
+      "lines": [
+        "The city you played in shut down. Build the next one.",
+        "Pick a plan and bring your community with you.",
+        "Instant setup, so the move takes one evening.",
+        "Post the new connect link in the old Discord."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b10",
+      "lines": [
+        "No dev team. No config rabbit hole. Just steps.",
+        "Pick a plan that fits your city.",
+        "Name it, deploy, and you're on NVMe hardware.",
+        "Invite your staff first. Then open the whitelist."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b11",
+      "lines": [
+        "Launch night, minus the panic.",
+        "Pick your plan and name the city.",
+        "DDoS protection is on from the first minute.",
+        "Drop the IP in your announcements channel."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b12",
+      "lines": [
+        "Here's the whole process, start to finish.",
+        "Plan, name, deploy. Setup is instant.",
+        "Then it's just you, your rules, and your city."
+      ]
+    }
+  ],
+  "ctas": [
+    {
+      "approved": false,
+      "id": "c01",
+      "text": "Launch your city at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c02",
+      "text": "Start your server at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c03",
+      "text": "Go live tonight"
+    },
+    {
+      "approved": false,
+      "id": "c04",
+      "text": "See plans at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c05",
+      "text": "Deploy yours at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c06",
+      "text": "Claim your city at refx.gg"
+    }
+  ],
+  "game": "fivem",
+  "hooks": [
+    {
+      "approved": false,
+      "id": "h01",
+      "text": "Host a FiveM server in 60 seconds"
+    },
+    {
+      "approved": false,
+      "id": "h02",
+      "text": "Your Discord is ready. Your city isn't"
+    },
+    {
+      "approved": false,
+      "id": "h03",
+      "text": "You run the city, not the server"
+    },
+    {
+      "approved": false,
+      "id": "h04",
+      "text": "The hard part of RP isn't hosting"
+    },
+    {
+      "approved": false,
+      "id": "h05",
+      "text": "Your whitelist is about to get longer"
+    },
+    {
+      "approved": false,
+      "id": "h06",
+      "text": "Every big RP city started like this"
+    },
+    {
+      "approved": false,
+      "id": "h07",
+      "text": "Your PD needs somewhere to clock in"
+    },
+    {
+      "approved": false,
+      "id": "h08",
+      "text": "Civ life needs a city first"
+    },
+    {
+      "approved": false,
+      "id": "h09",
+      "text": "Three steps between you and your city"
+    },
+    {
+      "approved": false,
+      "id": "h10",
+      "text": "Your friends keep asking for the server IP"
+    },
+    {
+      "approved": false,
+      "id": "h11",
+      "text": "Founding a city takes less than you think"
+    },
+    {
+      "approved": false,
+      "id": "h12",
+      "text": "You don't need a dev to launch"
+    },
+    {
+      "approved": false,
+      "id": "h13",
+      "text": "Tonight's session could be on your server"
+    },
+    {
+      "approved": false,
+      "id": "h14",
+      "text": "Your city, your rules, your ban list"
+    },
+    {
+      "approved": false,
+      "id": "h15",
+      "text": "Someone built every city you play in"
+    },
+    {
+      "approved": false,
+      "id": "h16",
+      "text": "Watch a FiveM server go live"
+    },
+    {
+      "approved": false,
+      "id": "h17",
+      "text": "Still waiting on a host ticket?"
+    },
+    {
+      "approved": false,
+      "id": "h18",
+      "text": "Stop planning your city. Deploy it"
+    }
+  ],
+  "template": "tutorial60"
+}

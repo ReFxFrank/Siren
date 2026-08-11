@@ -1,0 +1,245 @@
+{
+  "bodies": [
+    {
+      "approved": false,
+      "id": "b01",
+      "lines": [
+        "Step one: pick a Minecraft plan at refx.gg.",
+        "Step two: name your server and pick a region.",
+        "Step three: copy the IP and drop it in the group chat.",
+        "That's it. Instant setup means it's already running."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b02",
+      "lines": [
+        "Pick a plan and choose Paper as your server type.",
+        "Install plugins from the panel — no FTP required.",
+        "Restart, join, done.",
+        "NVMe hardware keeps chunk loading smooth."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b03",
+      "lines": [
+        "Outgrew Realms? Here's the move.",
+        "Pick a plan, then import your existing world file.",
+        "Whitelist your friends so it stays yours.",
+        "Instant setup — you'll spend longer picking a name."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b04",
+      "lines": [
+        "Running modpacks? Choose Forge when you set up.",
+        "Drop in your mods folder from the file manager.",
+        "Give it a restart and grab the IP.",
+        "NVMe hardware handles the heavy modpacks."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b05",
+      "lines": [
+        "Pick a plan. Your world moves off your PC for good.",
+        "Name it, set the version, start it.",
+        "Log off whenever. The world stays up for your friends.",
+        "DDoS protection is on from the first block."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b06",
+      "lines": [
+        "Starting a new SMP season? Do it properly.",
+        "Pick a plan and name the server after the season.",
+        "Turn on the whitelist and add your players.",
+        "Share the IP once. Everyone joins the same world."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b07",
+      "lines": [
+        "Your group chat wants to play. Here's the walkthrough.",
+        "Pick a plan — no arguing over whose PC hosts.",
+        "Name it something the group will actually remember.",
+        "Paste the IP in the chat and watch them pile in."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b08",
+      "lines": [
+        "You've hosted LAN worlds since you were a kid.",
+        "Same job, better tools: pick a plan at refx.gg.",
+        "Name it, choose your version, hit start.",
+        "Instant setup — no port forwarding, no router menus."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b09",
+      "lines": [
+        "Sixty seconds, start to finish. Watch.",
+        "Pick a plan. Name the server. Choose a version.",
+        "Copy the IP and send the invite.",
+        "Your friends are in before the minute is up."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b10",
+      "lines": [
+        "Public server? Set it up the safe way.",
+        "Pick a plan — DDoS protection comes standard.",
+        "Ops assigned, spawn built, rules pinned.",
+        "Open the gates when you're ready."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b11",
+      "lines": [
+        "Hosting on your own PC? Time to retire it.",
+        "Export your world folder and pick a plan.",
+        "Upload the world, set the version, press start.",
+        "Same world, same seed — new home on NVMe hardware."
+      ]
+    }
+  ],
+  "ctas": [
+    {
+      "approved": false,
+      "id": "c01",
+      "text": "Launch yours at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c02",
+      "text": "Start your world at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c03",
+      "text": "Set yours up tonight"
+    },
+    {
+      "approved": false,
+      "id": "c04",
+      "text": "See the plans at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c05",
+      "text": "Host your friends at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c06",
+      "text": "Give your world a home"
+    },
+    {
+      "approved": false,
+      "id": "c07",
+      "text": "Spin yours up at refx.gg"
+    }
+  ],
+  "game": "minecraft",
+  "hooks": [
+    {
+      "approved": false,
+      "id": "h01",
+      "text": "Host a Minecraft server in 60 seconds"
+    },
+    {
+      "approved": false,
+      "id": "h02",
+      "text": "You're the friend who runs the world"
+    },
+    {
+      "approved": false,
+      "id": "h03",
+      "text": "Stop hosting the server on your laptop"
+    },
+    {
+      "approved": false,
+      "id": "h04",
+      "text": "No more port forwarding at midnight"
+    },
+    {
+      "approved": false,
+      "id": "h05",
+      "text": "Outgrew Realms? Here's the whole walkthrough"
+    },
+    {
+      "approved": false,
+      "id": "h06",
+      "text": "Your group chat is waiting on an IP"
+    },
+    {
+      "approved": false,
+      "id": "h07",
+      "text": "Start the SMP your friends keep planning"
+    },
+    {
+      "approved": false,
+      "id": "h08",
+      "text": "Paper, Forge, plugins — one calm walkthrough"
+    },
+    {
+      "approved": false,
+      "id": "h09",
+      "text": "Make it past the two-week phase"
+    },
+    {
+      "approved": false,
+      "id": "h10",
+      "text": "Be the spawn point for your friends"
+    },
+    {
+      "approved": false,
+      "id": "h11",
+      "text": "Your world shouldn't die when your PC sleeps"
+    },
+    {
+      "approved": false,
+      "id": "h12",
+      "text": "From zero to whitelist in 60 seconds"
+    },
+    {
+      "approved": false,
+      "id": "h13",
+      "text": "Give your world a permanent address"
+    },
+    {
+      "approved": false,
+      "id": "h14",
+      "text": "New SMP season? It starts tonight"
+    },
+    {
+      "approved": false,
+      "id": "h15",
+      "text": "Private server, whitelist only, no randoms"
+    },
+    {
+      "approved": false,
+      "id": "h16",
+      "text": "This tutorial ends with a live server"
+    },
+    {
+      "approved": false,
+      "id": "h17",
+      "text": "Run the modpack your PC can't"
+    },
+    {
+      "approved": false,
+      "id": "h18",
+      "text": "You've been the host since LAN parties"
+    }
+  ],
+  "template": "tutorial60"
+}

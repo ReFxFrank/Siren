@@ -1,0 +1,249 @@
+{
+  "bodies": [
+    {
+      "approved": false,
+      "id": "b01",
+      "lines": [
+        "Your clan needs a home between wipes.",
+        "Instant setup gets it standing fast.",
+        "NVMe hardware keeps it standing on raid night.",
+        "Start small. Scale when the pop shows up."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b02",
+      "lines": [
+        "No feature gates. No tier tax.",
+        "DDoS protection comes standard.",
+        "So does the NVMe hardware.",
+        "Pick a size. Everything else is included."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b03",
+      "lines": [
+        "Raids are won in the doorway, not the loading screen.",
+        "NVMe hardware, DDoS protection, done.",
+        "Your server holds. You hold the door."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b04",
+      "lines": [
+        "Every wipe is launch day.",
+        "Instant setup means you're live before the rush.",
+        "The map resets. Your server doesn't flinch."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b05",
+      "lines": [
+        "Start with a private clan server.",
+        "Word spreads. The pop climbs.",
+        "Scale the plan when the server grows.",
+        "Same features the whole way up."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b06",
+      "lines": [
+        "You run the Discord. You settle the drama.",
+        "Hosting shouldn't be another fight.",
+        "Setup is instant. Protection is standard.",
+        "Go run your wipe."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b07",
+      "lines": [
+        "You don't need the monster plan up front.",
+        "You need room to grow into.",
+        "Start at clan size. Move up when full."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b08",
+      "lines": [
+        "The feature list is short on purpose.",
+        "Instant setup. NVMe hardware. DDoS protection.",
+        "Every tier gets the full list."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b09",
+      "lines": [
+        "Raid night. Rockets out. Pop spikes.",
+        "This is where cheap hosting folds.",
+        "DDoS protection and NVMe hardware don't.",
+        "Build the base. We'll hold the ground."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b10",
+      "lines": [
+        "Community servers live and die on trust.",
+        "Players come back when wipes run clean.",
+        "Give them a server worth the grind."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b11",
+      "lines": [
+        "Weekly wipes or monthly, your rules.",
+        "Your map, your mods, your schedule.",
+        "The hosting just keeps up."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b12",
+      "lines": [
+        "Getting hit offline is a Rust tradition.",
+        "Getting knocked offline shouldn't be.",
+        "DDoS protection ships with every server.",
+        "Sleep through raid hours. The server won't."
+      ]
+    }
+  ],
+  "ctas": [
+    {
+      "approved": false,
+      "id": "c01",
+      "text": "Launch yours at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c02",
+      "text": "Host your wipe at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c03",
+      "text": "Start clan-sized at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c04",
+      "text": "Spin it up at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c05",
+      "text": "Stake your claim at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c06",
+      "text": "Get wipe-ready at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c07",
+      "text": "Pick your size at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c08",
+      "text": "Build your server at refx.gg"
+    }
+  ],
+  "game": "rust",
+  "hooks": [
+    {
+      "approved": false,
+      "id": "h01",
+      "text": "Wipe day rush shouldn't melt your server"
+    },
+    {
+      "approved": false,
+      "id": "h02",
+      "text": "Pay for a server, not a promise"
+    },
+    {
+      "approved": false,
+      "id": "h03",
+      "text": "Start clan-sized. Scale when it fills."
+    },
+    {
+      "approved": false,
+      "id": "h04",
+      "text": "DDoS protection isn't an upsell here"
+    },
+    {
+      "approved": false,
+      "id": "h05",
+      "text": "Raid night finds out who your host is"
+    },
+    {
+      "approved": false,
+      "id": "h06",
+      "text": "Weak bases get raided. Weak servers die."
+    },
+    {
+      "approved": false,
+      "id": "h07",
+      "text": "Why gate the good hardware behind tiers?"
+    },
+    {
+      "approved": false,
+      "id": "h08",
+      "text": "NVMe hardware on every tier, full stop"
+    },
+    {
+      "approved": false,
+      "id": "h09",
+      "text": "Build the server people plan wipes around"
+    },
+    {
+      "approved": false,
+      "id": "h10",
+      "text": "Your clan deserves more than shared scraps"
+    },
+    {
+      "approved": false,
+      "id": "h11",
+      "text": "Be the clan with its own server"
+    },
+    {
+      "approved": false,
+      "id": "h12",
+      "text": "Instant setup means wipe prep stays short"
+    },
+    {
+      "approved": false,
+      "id": "h13",
+      "text": "Stop renting more server than you need"
+    },
+    {
+      "approved": false,
+      "id": "h14",
+      "text": "Force wipe hits. Your server shrugs."
+    },
+    {
+      "approved": false,
+      "id": "h15",
+      "text": "Your regulars notice when the server stutters"
+    },
+    {
+      "approved": false,
+      "id": "h16",
+      "text": "Admins sleep. DDoS protection doesn't."
+    },
+    {
+      "approved": false,
+      "id": "h17",
+      "text": "Your community outgrew someone else's server"
+    }
+  ],
+  "template": "priceflex"
+}

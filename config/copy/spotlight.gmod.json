@@ -1,0 +1,245 @@
+{
+  "bodies": [
+    {
+      "approved": false,
+      "id": "b01",
+      "lines": [
+        "Spawn what you want. Weld what you want.",
+        "Run the addons your group actually plays.",
+        "Your server. Your spawn list. Your call."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b02",
+      "lines": [
+        "Write the jobs. Set the salaries.",
+        "Decide what raids look like.",
+        "Your city, running your way.",
+        "That's DarkRP on your own server."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b03",
+      "lines": [
+        "TTT with the group chat, nobody random.",
+        "The traitor is always someone you know.",
+        "Set the rules before the round, not after."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b04",
+      "lines": [
+        "Prop hunt on the maps your group picks.",
+        "House rules in a house you own.",
+        "The lobby is just your friends list."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b05",
+      "lines": [
+        "Stack Wiremod on top of your favorite packs.",
+        "Swap addons whenever the group gets bored.",
+        "No begging an absent admin for updates.",
+        "Your workshop collection, live on a real server."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b06",
+      "lines": [
+        "Instant setup. Pick Garry's Mod, get a server.",
+        "NVMe hardware under all that physics chaos.",
+        "DDoS protection. The only chaos is in-game."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b07",
+      "lines": [
+        "Every crew has the friend who hosts.",
+        "Admin menu open. Spawn list curated.",
+        "Be that friend."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b08",
+      "lines": [
+        "No admin abuse. Unless it's yours.",
+        "Ban the RDMers. Keep the bit.",
+        "The server runs on your judgment now."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b09",
+      "lines": [
+        "Rockets welded out of bathtubs.",
+        "A nuke someone definitely shouldn't have.",
+        "Sandbox chaos with nobody to tell you no."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b10",
+      "lines": [
+        "Pick Garry's Mod. Pick a plan.",
+        "Instant setup does the rest.",
+        "Load your collection and open the doors."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b11",
+      "lines": [
+        "The public browser is a coin flip.",
+        "rp_downtown with strangers, again.",
+        "Or: your map, your mods, your people."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b12",
+      "lines": [
+        "Somebody will try to crash the fun.",
+        "DDoS protection means they don't.",
+        "You just play."
+      ]
+    }
+  ],
+  "ctas": [
+    {
+      "approved": false,
+      "id": "c01",
+      "text": "Launch yours at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c02",
+      "text": "Start your server at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c03",
+      "text": "Claim your sandbox at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c04",
+      "text": "Host the crew at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c05",
+      "text": "Spin yours up at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c06",
+      "text": "Build your playground at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c07",
+      "text": "Take the admin seat at refx.gg"
+    }
+  ],
+  "game": "gmod",
+  "hooks": [
+    {
+      "approved": false,
+      "id": "h01",
+      "text": "Your sandbox. Your rules. Your server"
+    },
+    {
+      "approved": false,
+      "id": "h02",
+      "text": "Stop playing on someone else's server"
+    },
+    {
+      "approved": false,
+      "id": "h03",
+      "text": "Be the friend who owns the server"
+    },
+    {
+      "approved": false,
+      "id": "h04",
+      "text": "Prop hunt hits different on your map"
+    },
+    {
+      "approved": false,
+      "id": "h05",
+      "text": "A DarkRP city that's actually yours"
+    },
+    {
+      "approved": false,
+      "id": "h06",
+      "text": "TTT night, minus the random admins"
+    },
+    {
+      "approved": false,
+      "id": "h07",
+      "text": "Tired of RDM with no consequences?"
+    },
+    {
+      "approved": false,
+      "id": "h08",
+      "text": "The server browser is a lottery. Skip it"
+    },
+    {
+      "approved": false,
+      "id": "h09",
+      "text": "gm_construct with your name on it"
+    },
+    {
+      "approved": false,
+      "id": "h10",
+      "text": "The admin menu looks good on you"
+    },
+    {
+      "approved": false,
+      "id": "h11",
+      "text": "The map rotation answers to you"
+    },
+    {
+      "approved": false,
+      "id": "h12",
+      "text": "Addons stacked exactly how you like them"
+    },
+    {
+      "approved": false,
+      "id": "h13",
+      "text": "Kick the mingebags. Keep the chaos"
+    },
+    {
+      "approved": false,
+      "id": "h14",
+      "text": "Grab the physgun. The server's yours"
+    },
+    {
+      "approved": false,
+      "id": "h15",
+      "text": "Somebody has to host. Make it you"
+    },
+    {
+      "approved": false,
+      "id": "h16",
+      "text": "Build the contraption public servers ban"
+    },
+    {
+      "approved": false,
+      "id": "h17",
+      "text": "One server, every gamemode your crew plays"
+    },
+    {
+      "approved": false,
+      "id": "h18",
+      "text": "Wiremod contraptions need a permanent home"
+    }
+  ],
+  "template": "spotlight"
+}

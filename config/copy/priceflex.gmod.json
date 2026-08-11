@@ -1,0 +1,244 @@
+{
+  "bodies": [
+    {
+      "approved": false,
+      "id": "b01",
+      "lines": [
+        "Start with a server for the group chat.",
+        "Scale up when half the school joins.",
+        "Instant setup. NVMe hardware. DDoS protection.",
+        "Everything included from the first tier."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b02",
+      "lines": [
+        "Your city needs a mayor, cops, and one guy printing money.",
+        "It also needs hosting that takes the job seriously.",
+        "DDoS protection on every tier.",
+        "Start small. Grow the city from there."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b03",
+      "lines": [
+        "No stripped-down starter tier here.",
+        "DDoS protection, NVMe hardware, instant setup.",
+        "All of it, whether your server is tiny or thriving.",
+        "The only thing that changes is the size."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b04",
+      "lines": [
+        "Prop hunt with randoms is fine.",
+        "Prop hunt with your friends is a different game.",
+        "Spin up your own server and lock the door.",
+        "Instant setup means you play, not configure."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b05",
+      "lines": [
+        "The addon list is the whole personality.",
+        "On your server, you write it.",
+        "NVMe hardware under every addon you stack.",
+        "Go as deep as the group can handle."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b06",
+      "lines": [
+        "Your builds shouldn't live on someone else's server.",
+        "Park the contraptions somewhere permanent.",
+        "NVMe hardware keeps the load times short.",
+        "Log off. Come back. Still standing."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b07",
+      "lines": [
+        "TTT runs on suspicion.",
+        "Your server shouldn't.",
+        "DDoS protection and NVMe hardware, standard.",
+        "You just bring the trust issues."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b08",
+      "lines": [
+        "No more admins who aren't you.",
+        "No more begging for a map change.",
+        "Your sandbox, your settings, your ban list.",
+        "Instant setup. Start acting like an owner."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b09",
+      "lines": [
+        "You don't need a monster plan to start.",
+        "You need one that grows when the crowd does.",
+        "Upgrade when it's time, not before.",
+        "Pay for today's server, not next year's."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b10",
+      "lines": [
+        "Random servers come with random minges.",
+        "Yours answers to you and nobody else.",
+        "DDoS protection handles the other kind of grief.",
+        "Build in peace."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b11",
+      "lines": [
+        "The hard part should be picking a gamemode, not hosting.",
+        "Instant setup gets you in-game, not into a wiki.",
+        "Pick a plan and go."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b12",
+      "lines": [
+        "Every friend group has the one who hosts.",
+        "Time to make it official.",
+        "Start on a small tier, scale when word spreads.",
+        "NVMe hardware and DDoS protection included."
+      ]
+    }
+  ],
+  "ctas": [
+    {
+      "approved": false,
+      "id": "c01",
+      "text": "Launch yours at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c02",
+      "text": "Start your sandbox at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c03",
+      "text": "Claim your playground at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c04",
+      "text": "Spin one up at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c05",
+      "text": "Build your world at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c06",
+      "text": "Host the group at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c07",
+      "text": "Pick your tier at refx.gg"
+    }
+  ],
+  "game": "gmod",
+  "hooks": [
+    {
+      "approved": false,
+      "id": "h01",
+      "text": "Public servers are someone else's playground"
+    },
+    {
+      "approved": false,
+      "id": "h02",
+      "text": "Tired of admins who aren't you"
+    },
+    {
+      "approved": false,
+      "id": "h03",
+      "text": "The group chat wants a DarkRP city"
+    },
+    {
+      "approved": false,
+      "id": "h04",
+      "text": "TTT with only people you trust"
+    },
+    {
+      "approved": false,
+      "id": "h05",
+      "text": "Prop hunt with the door locked"
+    },
+    {
+      "approved": false,
+      "id": "h06",
+      "text": "Start small, scale when the crowd does"
+    },
+    {
+      "approved": false,
+      "id": "h07",
+      "text": "Your dupes deserve a permanent home"
+    },
+    {
+      "approved": false,
+      "id": "h08",
+      "text": "Every tier ships with DDoS protection"
+    },
+    {
+      "approved": false,
+      "id": "h09",
+      "text": "Instant setup, zero patience required"
+    },
+    {
+      "approved": false,
+      "id": "h10",
+      "text": "One server, every gamemode your group plays"
+    },
+    {
+      "approved": false,
+      "id": "h11",
+      "text": "Your world, minus the random minges"
+    },
+    {
+      "approved": false,
+      "id": "h12",
+      "text": "Stop hosting off your gaming PC"
+    },
+    {
+      "approved": false,
+      "id": "h13",
+      "text": "Your friends keep asking — host it"
+    },
+    {
+      "approved": false,
+      "id": "h14",
+      "text": "NVMe hardware, even on the small plan"
+    },
+    {
+      "approved": false,
+      "id": "h15",
+      "text": "Pay for the server you actually run"
+    },
+    {
+      "approved": false,
+      "id": "h16",
+      "text": "The addon list is yours now"
+    }
+  ],
+  "template": "priceflex"
+}

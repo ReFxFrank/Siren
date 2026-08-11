@@ -1,0 +1,248 @@
+{
+  "bodies": [
+    {
+      "approved": false,
+      "id": "b01",
+      "lines": [
+        "Fresh map tonight.",
+        "Instant setup means no waiting room.",
+        "Bring the whole crew."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b02",
+      "lines": [
+        "The city opens tonight.",
+        "Your jobs. Your laws. Your economy.",
+        "NVMe hardware keeps the streets loaded.",
+        "Doors open when you say so."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b03",
+      "lines": [
+        "One of you is lying.",
+        "Settle it on your own server.",
+        "Instant setup. Zero excuses.",
+        "Round starts tonight."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b04",
+      "lines": [
+        "Somebody's hiding as a chair.",
+        "Hunt them down on your own map.",
+        "Instant setup gets you in before they move.",
+        "The lobby is waiting."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b05",
+      "lines": [
+        "Load the addons you actually want.",
+        "Skip the bloat.",
+        "Instant setup, then straight to chaos."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b06",
+      "lines": [
+        "No queue. No stranger admins. No rules but yours.",
+        "Pick the map. Pick the addons. Press go.",
+        "DDoS protection handles the sore losers.",
+        "Lights on until the crew logs off."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b07",
+      "lines": [
+        "The group chat picked a map.",
+        "You bring the server.",
+        "Instant setup. DDoS protection. Done.",
+        "See you at launch."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b08",
+      "lines": [
+        "Ragdolls. Thrusters. Regret.",
+        "NVMe hardware for whatever you weld together.",
+        "Countdown's on.",
+        "Break it in tonight."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b09",
+      "lines": [
+        "Build night.",
+        "Clean map, same crew, bigger plans.",
+        "Instant setup means you launch on time.",
+        "Set the timer."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b10",
+      "lines": [
+        "Tonight you run the city.",
+        "Set the laws. Hire the cops. Tax the hobos.",
+        "DDoS protection watches the gates.",
+        "Take office at launch."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b11",
+      "lines": [
+        "It starts with one prop.",
+        "It ends somewhere past midnight.",
+        "Your server, your mess.",
+        "Launch is tonight."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b12",
+      "lines": [
+        "Grand opening tonight.",
+        "Instant setup. NVMe hardware. DDoS protection.",
+        "All that's missing is your crew.",
+        "Send the invite."
+      ]
+    }
+  ],
+  "ctas": [
+    {
+      "approved": false,
+      "id": "c01",
+      "text": "Launch yours at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c02",
+      "text": "Start your server at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c03",
+      "text": "Claim your sandbox at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c04",
+      "text": "Open your city at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c05",
+      "text": "Rally the crew at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c06",
+      "text": "Go live tonight at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c07",
+      "text": "Spawn yours at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c08",
+      "text": "Get set up at refx.gg"
+    }
+  ],
+  "game": "gmod",
+  "hooks": [
+    {
+      "approved": false,
+      "id": "h01",
+      "text": "Your server. Your rules. Tonight"
+    },
+    {
+      "approved": false,
+      "id": "h02",
+      "text": "Done begging admins for props"
+    },
+    {
+      "approved": false,
+      "id": "h03",
+      "text": "The group chat needs a home"
+    },
+    {
+      "approved": false,
+      "id": "h04",
+      "text": "New map. Bring the toolgun"
+    },
+    {
+      "approved": false,
+      "id": "h05",
+      "text": "Someone in your crew is the traitor"
+    },
+    {
+      "approved": false,
+      "id": "h06",
+      "text": "Your friend is a filing cabinet"
+    },
+    {
+      "approved": false,
+      "id": "h07",
+      "text": "Be the mayor for once"
+    },
+    {
+      "approved": false,
+      "id": "h08",
+      "text": "Public servers were the tutorial"
+    },
+    {
+      "approved": false,
+      "id": "h09",
+      "text": "Every addon you want. No gatekeepers"
+    },
+    {
+      "approved": false,
+      "id": "h10",
+      "text": "Your city opens tonight"
+    },
+    {
+      "approved": false,
+      "id": "h11",
+      "text": "The physgun answers to you now"
+    },
+    {
+      "approved": false,
+      "id": "h12",
+      "text": "What your friends build after midnight"
+    },
+    {
+      "approved": false,
+      "id": "h13",
+      "text": "Host the server your friends deserve"
+    },
+    {
+      "approved": false,
+      "id": "h14",
+      "text": "Launch countdown starts now"
+    },
+    {
+      "approved": false,
+      "id": "h15",
+      "text": "Nobody kicks you off your own server"
+    },
+    {
+      "approved": false,
+      "id": "h16",
+      "text": "The dupes come out tonight"
+    }
+  ],
+  "template": "hype"
+}

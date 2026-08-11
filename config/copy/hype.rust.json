@@ -1,0 +1,239 @@
+{
+  "bodies": [
+    {
+      "approved": false,
+      "id": "b01",
+      "lines": [
+        "Map wipes tonight.",
+        "Your server goes live in time.",
+        "Instant setup. No tickets, no waiting.",
+        "Your clan loads in first."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b02",
+      "lines": [
+        "Raid night. Full pop. Rockets flying.",
+        "NVMe hardware doesn't flinch.",
+        "DDoS protection holds the door.",
+        "Your raid stays your raid."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b03",
+      "lines": [
+        "Your clan follows you anywhere.",
+        "This time, bring them home.",
+        "A server with your name on it.",
+        "Live before wipe night."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b04",
+      "lines": [
+        "Done with admin abuse on public servers?",
+        "Run your own map.",
+        "Your wipe schedule. Your rules.",
+        "Instant setup. Live tonight."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b05",
+      "lines": [
+        "Fresh map drops tonight.",
+        "First spawn. First farm. First base.",
+        "Get your server up before the rush."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b06",
+      "lines": [
+        "Laggy servers empty out fast.",
+        "Yours won't.",
+        "NVMe hardware. DDoS protection.",
+        "Keep the pop you pull."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b07",
+      "lines": [
+        "Someone will try to knock you offline.",
+        "Mid-raid. They always do.",
+        "DDoS protection shrugs it off.",
+        "The fight stays in the game."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b08",
+      "lines": [
+        "Wipe hits at midnight.",
+        "You decided to host at dinner.",
+        "Instant setup says you're fine.",
+        "Live before the countdown ends."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b09",
+      "lines": [
+        "A month of farm rides on your server.",
+        "Don't trust it to a cheap host.",
+        "NVMe hardware. DDoS protection.",
+        "Build like it matters."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b10",
+      "lines": [
+        "Every big Rust server started small.",
+        "Yours starts tonight.",
+        "Instant setup. Fresh map.",
+        "One day, a queue at your door."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b11",
+      "lines": [
+        "The group chat wants a server for wipe.",
+        "Send them your own IP.",
+        "Instant setup. Live by tonight.",
+        "Wipe night starts at your place."
+      ]
+    }
+  ],
+  "ctas": [
+    {
+      "approved": false,
+      "id": "c01",
+      "text": "Launch yours at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c02",
+      "text": "Go live before wipe"
+    },
+    {
+      "approved": false,
+      "id": "c03",
+      "text": "Claim your map at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c04",
+      "text": "Spin it up tonight"
+    },
+    {
+      "approved": false,
+      "id": "c05",
+      "text": "Host wipe night at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c06",
+      "text": "Start your server now"
+    }
+  ],
+  "game": "rust",
+  "hooks": [
+    {
+      "approved": false,
+      "id": "h01",
+      "text": "Wipe night is tonight. Server ready?"
+    },
+    {
+      "approved": false,
+      "id": "h02",
+      "text": "Solo, duo, trio. You set the cap"
+    },
+    {
+      "approved": false,
+      "id": "h03",
+      "text": "Your clan needs a home that survives wipe"
+    },
+    {
+      "approved": false,
+      "id": "h04",
+      "text": "Lag picks winners on raid night"
+    },
+    {
+      "approved": false,
+      "id": "h05",
+      "text": "Your base sits on someone else's server"
+    },
+    {
+      "approved": false,
+      "id": "h06",
+      "text": "Your host died at wipe. Again"
+    },
+    {
+      "approved": false,
+      "id": "h07",
+      "text": "You're not the player. You're the landlord"
+    },
+    {
+      "approved": false,
+      "id": "h08",
+      "text": "What if wipe day ran on time?"
+    },
+    {
+      "approved": false,
+      "id": "h09",
+      "text": "Tired of admin abuse? Be the admin"
+    },
+    {
+      "approved": false,
+      "id": "h10",
+      "text": "Good servers have queues. Start yours"
+    },
+    {
+      "approved": false,
+      "id": "h11",
+      "text": "Force wipe Thursday. Your map this time"
+    },
+    {
+      "approved": false,
+      "id": "h12",
+      "text": "Everyone logs in at once tonight"
+    },
+    {
+      "approved": false,
+      "id": "h13",
+      "text": "Start naked on a beach you own"
+    },
+    {
+      "approved": false,
+      "id": "h14",
+      "text": "The server that lags at wipe dies"
+    },
+    {
+      "approved": false,
+      "id": "h15",
+      "text": "Host the wipe, don't chase it"
+    },
+    {
+      "approved": false,
+      "id": "h16",
+      "text": "Somebody has to run wipe night. You"
+    },
+    {
+      "approved": false,
+      "id": "h17",
+      "text": "New map. New monuments. Your server"
+    },
+    {
+      "approved": false,
+      "id": "h18",
+      "text": "Farmed all month. It wipes tonight"
+    }
+  ],
+  "template": "hype"
+}

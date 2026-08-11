@@ -1,0 +1,250 @@
+{
+  "bodies": [
+    {
+      "approved": false,
+      "id": "b01",
+      "lines": [
+        "Start with a world for your friend group.",
+        "Scale up when the whole school joins.",
+        "Same features at every size.",
+        "That's the whole deal."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b02",
+      "lines": [
+        "Instant setup, so the world exists before the hype dies.",
+        "NVMe hardware, so chunks load like they should.",
+        "DDoS protection, so grief stays inside the game."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b03",
+      "lines": [
+        "No stripped-down starter tier.",
+        "DDoS protection on every plan.",
+        "NVMe hardware on every plan.",
+        "Small doesn't mean second-rate."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b04",
+      "lines": [
+        "A realm is a rental. This is your world.",
+        "Run Paper. Run Forge. Run whatever you want.",
+        "Your mods, your rules, your whitelist."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b05",
+      "lines": [
+        "You're the one who keeps the world alive.",
+        "The hosting shouldn't be another job.",
+        "Instant setup. NVMe hardware. DDoS protection.",
+        "Handled, so you can just play."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b06",
+      "lines": [
+        "Every big SMP started as a few friends.",
+        "Pick a size that fits the group you have.",
+        "Upgrade when the world outgrows it.",
+        "The world stays yours the whole way."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b07",
+      "lines": [
+        "Modded Minecraft is heavy by design.",
+        "NVMe hardware doesn't mind.",
+        "Load the pack. Invite the group.",
+        "Instant setup means no waiting around."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b08",
+      "lines": [
+        "Hosting off your own PC has a cost.",
+        "Lag for them. Noise for you.",
+        "Move the world to real hardware.",
+        "Everyone plays. Nobody babysits a tower."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b09",
+      "lines": [
+        "A salty ex-member shouldn't end the server.",
+        "DDoS protection comes with every plan.",
+        "The whitelist handles the rest."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b10",
+      "lines": [
+        "The good SMPs are the ones that persist.",
+        "A hosted world doesn't live on someone's desktop.",
+        "It isn't tied to anyone's power button.",
+        "That's what your friends log into."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b11",
+      "lines": [
+        "You don't need to be a sysadmin.",
+        "Instant setup does the boring part.",
+        "You do the part your friends see."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b12",
+      "lines": [
+        "The world doesn't pause when you log off.",
+        "Friends keep building. Farms keep running.",
+        "You come back to progress, not a login screen."
+      ]
+    }
+  ],
+  "ctas": [
+    {
+      "approved": false,
+      "id": "c01",
+      "text": "Launch yours at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c02",
+      "text": "Start your world at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c03",
+      "text": "Claim your server at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c04",
+      "text": "Spin one up at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c05",
+      "text": "Move your world to refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c06",
+      "text": "Pick your size at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c07",
+      "text": "Host it at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c08",
+      "text": "Build it on refx.gg"
+    }
+  ],
+  "game": "minecraft",
+  "hooks": [
+    {
+      "approved": false,
+      "id": "h01",
+      "text": "Every friend group has a server person"
+    },
+    {
+      "approved": false,
+      "id": "h02",
+      "text": "Stop hosting the SMP off your laptop"
+    },
+    {
+      "approved": false,
+      "id": "h03",
+      "text": "Outgrew your realm? There's a next step"
+    },
+    {
+      "approved": false,
+      "id": "h04",
+      "text": "Pay for the friends you actually have"
+    },
+    {
+      "approved": false,
+      "id": "h05",
+      "text": "Paper, Forge, plugins — your call"
+    },
+    {
+      "approved": false,
+      "id": "h06",
+      "text": "Build the world your friends come back to"
+    },
+    {
+      "approved": false,
+      "id": "h07",
+      "text": "A new season needs a real home"
+    },
+    {
+      "approved": false,
+      "id": "h08",
+      "text": "Instant setup. Real hardware. Your rules"
+    },
+    {
+      "approved": false,
+      "id": "h09",
+      "text": "DDoS protection comes standard, not extra"
+    },
+    {
+      "approved": false,
+      "id": "h10",
+      "text": "Modded gets heavy. Your host shouldn't flinch"
+    },
+    {
+      "approved": false,
+      "id": "h11",
+      "text": "What happens to your world between sessions?"
+    },
+    {
+      "approved": false,
+      "id": "h12",
+      "text": "Pick a size. Everything else comes included"
+    },
+    {
+      "approved": false,
+      "id": "h13",
+      "text": "Friends keep asking when the server's back"
+    },
+    {
+      "approved": false,
+      "id": "h14",
+      "text": "Your iron farm doesn't need you online"
+    },
+    {
+      "approved": false,
+      "id": "h15",
+      "text": "Hardcore mode is for players, not admins"
+    },
+    {
+      "approved": false,
+      "id": "h16",
+      "text": "Start with your group chat. Grow past it"
+    },
+    {
+      "approved": false,
+      "id": "h17",
+      "text": "NVMe means chunks keep up with your elytra"
+    }
+  ],
+  "template": "priceflex"
+}

@@ -1,0 +1,259 @@
+{
+  "bodies": [
+    {
+      "approved": false,
+      "id": "b01",
+      "lines": [
+        "Pick a plan. That's the whole first step.",
+        "Name your server and choose a start map.",
+        "Setup is instant, so it's live right away.",
+        "Drop the IP in the group chat. Done."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b02",
+      "lines": [
+        "Start with a plan sized for your group.",
+        "Name it something your friends will recognize.",
+        "Install TTT and the maps you like.",
+        "Invite everyone. Innocents and traitors sort themselves."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b03",
+      "lines": [
+        "Want your own DarkRP city? Start here.",
+        "Pick a plan and name your server.",
+        "Add DarkRP and the jobs you want.",
+        "Your rules this time. Invite the town."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b04",
+      "lines": [
+        "Your addons folder finally gets a home.",
+        "Pick a plan and spin the server up.",
+        "Sync your workshop collection to it.",
+        "Everything downloads once, then you play."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b05",
+      "lines": [
+        "Prop hunt with randoms gets old.",
+        "Launch a server and name it.",
+        "Set prop hunt as the gamemode.",
+        "Invite your friends. Hide as a lamp."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b06",
+      "lines": [
+        "Sixty seconds, start to finish.",
+        "Choose a plan. Setup is instant.",
+        "Pick a map, press start, you're hosting."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b07",
+      "lines": [
+        "Here's what you get under the hood.",
+        "NVMe hardware, so maps load quick.",
+        "DDoS protection comes standard.",
+        "You just play. The boring parts are handled."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b08",
+      "lines": [
+        "Your group deserves better than server browsers.",
+        "Pick a plan and name it after the group chat.",
+        "Set a password so it stays just yours.",
+        "Same server every night, no more searching."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b09",
+      "lines": [
+        "Never hosted anything before? Fine.",
+        "Pick a plan and follow the steps.",
+        "Setup is instant, nothing to install.",
+        "If you can name a server, you can run one."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b10",
+      "lines": [
+        "Admin isn't something you beg for here.",
+        "Launch your server and name it.",
+        "Hand out ranks however you like.",
+        "Your playground, your call."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b11",
+      "lines": [
+        "Build night works better on your own server.",
+        "Pick a plan and start on flatgrass.",
+        "Invite the builders and pass out toolguns.",
+        "Save the dupes. Break them tomorrow."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b12",
+      "lines": [
+        "Tonight's session can be on your server.",
+        "Order a plan and it's up in about a minute.",
+        "Copy the IP and paste it in Discord.",
+        "That's it. See you in game."
+      ]
+    }
+  ],
+  "ctas": [
+    {
+      "approved": false,
+      "id": "c01",
+      "text": "Launch yours at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c02",
+      "text": "Start your server at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c03",
+      "text": "Host your playground at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c04",
+      "text": "Spin one up at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c05",
+      "text": "Set yours up at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c06",
+      "text": "Go live at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c07",
+      "text": "Build your server at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c08",
+      "text": "Get hosting at refx.gg"
+    }
+  ],
+  "game": "gmod",
+  "hooks": [
+    {
+      "approved": false,
+      "id": "h01",
+      "text": "Host a Gmod server in 60 seconds"
+    },
+    {
+      "approved": false,
+      "id": "h02",
+      "text": "Stop asking someone else for admin"
+    },
+    {
+      "approved": false,
+      "id": "h03",
+      "text": "Your friend group needs a home server"
+    },
+    {
+      "approved": false,
+      "id": "h04",
+      "text": "Public servers are someone else's playground"
+    },
+    {
+      "approved": false,
+      "id": "h05",
+      "text": "Run the addons you actually want"
+    },
+    {
+      "approved": false,
+      "id": "h06",
+      "text": "Be the one who runs the server"
+    },
+    {
+      "approved": false,
+      "id": "h07",
+      "text": "Skip the port forwarding tutorial"
+    },
+    {
+      "approved": false,
+      "id": "h08",
+      "text": "TTT night, your rules, your map"
+    },
+    {
+      "approved": false,
+      "id": "h09",
+      "text": "Be a chair on your own server"
+    },
+    {
+      "approved": false,
+      "id": "h10",
+      "text": "Tired of joining dead DarkRP servers"
+    },
+    {
+      "approved": false,
+      "id": "h11",
+      "text": "You could be hosting by tonight"
+    },
+    {
+      "approved": false,
+      "id": "h12",
+      "text": "Sandbox is better when you own it"
+    },
+    {
+      "approved": false,
+      "id": "h13",
+      "text": "Make the server you keep searching for"
+    },
+    {
+      "approved": false,
+      "id": "h14",
+      "text": "Watch a Gmod server go live"
+    },
+    {
+      "approved": false,
+      "id": "h15",
+      "text": "One map, your addons, your friends"
+    },
+    {
+      "approved": false,
+      "id": "h16",
+      "text": "Banned by a power-tripping admin again?"
+    },
+    {
+      "approved": false,
+      "id": "h17",
+      "text": "Your dupes deserve a permanent home"
+    },
+    {
+      "approved": false,
+      "id": "h18",
+      "text": "Here's the entire setup, start to finish"
+    }
+  ],
+  "template": "tutorial60"
+}

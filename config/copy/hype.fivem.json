@@ -1,0 +1,265 @@
+{
+  "bodies": [
+    {
+      "approved": false,
+      "id": "b01",
+      "lines": [
+        "Wipe night. Fresh economy. Full queue.",
+        "Your server either holds or it doesn't.",
+        "NVMe hardware. DDoS protection.",
+        "Yours holds."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b02",
+      "lines": [
+        "The timer runs out.",
+        "The city wakes up.",
+        "PD clocks in. Civs roll out.",
+        "And the server doesn't blink."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b03",
+      "lines": [
+        "You planned the lore.",
+        "You vetted the whitelist.",
+        "The hosting is the easy part.",
+        "Instant setup. Live before doubt sets in."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b04",
+      "lines": [
+        "Launch night traffic looks a lot like an attack.",
+        "Sometimes it is one.",
+        "DDoS protection stands at the door.",
+        "Your city stays open."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b05",
+      "lines": [
+        "Economy wipe tonight.",
+        "Fresh bank accounts. Fresh grudges.",
+        "The only thing that shouldn't feel new?",
+        "The server underneath it all."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b06",
+      "lines": [
+        "Everyone remembers where they were at launch.",
+        "Make sure it wasn't a loading screen.",
+        "NVMe hardware keeps the city moving.",
+        "Doors open tonight."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b07",
+      "lines": [
+        "Your Discord has been counting down for a week.",
+        "Tonight you deliver.",
+        "Instant setup. NVMe hardware. DDoS protection.",
+        "The city is yours to open."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b08",
+      "lines": [
+        "Rival cities launch every weekend.",
+        "Most stumble out of the gate.",
+        "Yours opens clean and keeps the pace.",
+        "That's the whole pitch."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b09",
+      "lines": [
+        "A relaunch is a promise.",
+        "Everything old is gone. Everything slow goes too.",
+        "New city. Same address.",
+        "Tonight it counts."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b10",
+      "lines": [
+        "You set the launch date.",
+        "You cut the trailer.",
+        "Don't let the hardware write the ending.",
+        "NVMe hardware. DDoS protection. Done."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b11",
+      "lines": [
+        "The whitelist is checked twice.",
+        "The departments are staffed.",
+        "The economy is balanced.",
+        "The server is the last box. Tick it."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b12",
+      "lines": [
+        "Midnight launch.",
+        "The whole city in queue.",
+        "This is the part you can't retake.",
+        "Host it on hardware that shows up."
+      ]
+    }
+  ],
+  "ctas": [
+    {
+      "approved": false,
+      "id": "c01",
+      "text": "Launch your city at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c02",
+      "text": "Go live tonight at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c03",
+      "text": "Start your server at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c04",
+      "text": "Get wipe-ready at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c05",
+      "text": "Host launch night at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c06",
+      "text": "Open the doors at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c07",
+      "text": "Skip the setup at refx.gg"
+    }
+  ],
+  "game": "fivem",
+  "hooks": [
+    {
+      "approved": false,
+      "id": "h01",
+      "text": "Your city opens tonight"
+    },
+    {
+      "approved": false,
+      "id": "h02",
+      "text": "Launch night. Full lobby. No panic"
+    },
+    {
+      "approved": false,
+      "id": "h03",
+      "text": "The whitelist closes at midnight"
+    },
+    {
+      "approved": false,
+      "id": "h04",
+      "text": "Every launch night has one weak link"
+    },
+    {
+      "approved": false,
+      "id": "h05",
+      "text": "Nobody remembers a laggy launch fondly"
+    },
+    {
+      "approved": false,
+      "id": "h06",
+      "text": "Your Discord is counting down. Are you?"
+    },
+    {
+      "approved": false,
+      "id": "h07",
+      "text": "Season two of your city starts tonight"
+    },
+    {
+      "approved": false,
+      "id": "h08",
+      "text": "Wipe day is a second first impression"
+    },
+    {
+      "approved": false,
+      "id": "h09",
+      "text": "Big cities don't run on luck"
+    },
+    {
+      "approved": false,
+      "id": "h10",
+      "text": "One rough night empties a whitelist"
+    },
+    {
+      "approved": false,
+      "id": "h11",
+      "text": "PD staged. EMS ready. And you?"
+    },
+    {
+      "approved": false,
+      "id": "h12",
+      "text": "The queue starts before the server does"
+    },
+    {
+      "approved": false,
+      "id": "h13",
+      "text": "Launch day separates cities from servers"
+    },
+    {
+      "approved": false,
+      "id": "h14",
+      "text": "Your first hour decides your first month"
+    },
+    {
+      "approved": false,
+      "id": "h15",
+      "text": "Somewhere a rival city just went live"
+    },
+    {
+      "approved": false,
+      "id": "h16",
+      "text": "Countdown's live. Is your hardware?"
+    },
+    {
+      "approved": false,
+      "id": "h17",
+      "text": "Great RP needs a server that holds"
+    },
+    {
+      "approved": false,
+      "id": "h18",
+      "text": "New city smell doesn't survive downtime"
+    },
+    {
+      "approved": false,
+      "id": "h19",
+      "text": "The only tsunami should be scheduled"
+    },
+    {
+      "approved": false,
+      "id": "h20",
+      "text": "Build the city nobody wants to leave"
+    }
+  ],
+  "template": "hype"
+}

@@ -1,0 +1,247 @@
+{
+  "bodies": [
+    {
+      "approved": false,
+      "id": "b01",
+      "lines": [
+        "You built the spawn. You wrote the rules.",
+        "You're the reason the world exists at all.",
+        "Give it hardware that takes the job as seriously."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b02",
+      "lines": [
+        "Realms got you started.",
+        "Then the builds got bigger and the group got louder.",
+        "Time for a server that keeps up."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b03",
+      "lines": [
+        "Right now the world lives on somebody's PC.",
+        "One shutdown and the whole SMP waits.",
+        "Move it somewhere built for the job.",
+        "Instant setup. NVMe hardware. DDoS protection."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b04",
+      "lines": [
+        "Paper for the plugins.",
+        "Forge for the mods.",
+        "NVMe hardware for the modpack you swore was 'light'.",
+        "Load it all. The server can take it."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b05",
+      "lines": [
+        "Some kid with a stresser thinks they run your world.",
+        "They don't.",
+        "DDoS protection comes standard."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b06",
+      "lines": [
+        "The group chat says 'new SMP?'",
+        "You say 'link's up.'",
+        "Instant setup means the vote never cools off."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b07",
+      "lines": [
+        "Some worlds are a weekend.",
+        "Yours has districts, lore, and a train network.",
+        "Host it like it's meant to last."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b08",
+      "lines": [
+        "The kids play it. Their friends play it.",
+        "Somehow you're the server admin now.",
+        "Fine. At least this part is easy.",
+        "Instant setup means exactly that."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b09",
+      "lines": [
+        "NVMe hardware under the world.",
+        "DDoS protection around it.",
+        "Instant setup to drop you in.",
+        "You just play."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b10",
+      "lines": [
+        "Everyone's schedule is different.",
+        "Nobody should have to ping the host to play.",
+        "Your own server ends that conversation."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b11",
+      "lines": [
+        "Nobody thanks the admin.",
+        "They just log in and everything works.",
+        "That's the thank-you."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b12",
+      "lines": [
+        "Bring the world file. Bring the plugins.",
+        "Bring the questionable redstone.",
+        "It all runs better on NVMe hardware."
+      ]
+    }
+  ],
+  "ctas": [
+    {
+      "approved": false,
+      "id": "c01",
+      "text": "Launch yours at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c02",
+      "text": "Start your world at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c03",
+      "text": "Move the SMP to refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c04",
+      "text": "Host it properly at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c05",
+      "text": "Spin one up at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c06",
+      "text": "Claim your server at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c07",
+      "text": "Get the SMP off your laptop"
+    }
+  ],
+  "game": "minecraft",
+  "hooks": [
+    {
+      "approved": false,
+      "id": "h01",
+      "text": "You're the friend who runs the server"
+    },
+    {
+      "approved": false,
+      "id": "h02",
+      "text": "Realms was the starter. This is the upgrade"
+    },
+    {
+      "approved": false,
+      "id": "h03",
+      "text": "Stop hosting the SMP off your laptop"
+    },
+    {
+      "approved": false,
+      "id": "h04",
+      "text": "Run the modpack your PC can't"
+    },
+    {
+      "approved": false,
+      "id": "h05",
+      "text": "New world, live before the group chat replies"
+    },
+    {
+      "approved": false,
+      "id": "h06",
+      "text": "Season two, but hosted properly this time"
+    },
+    {
+      "approved": false,
+      "id": "h07",
+      "text": "DDoS kids don't get a vote here"
+    },
+    {
+      "approved": false,
+      "id": "h08",
+      "text": "Your LAN world outgrew the LAN"
+    },
+    {
+      "approved": false,
+      "id": "h09",
+      "text": "Build the world your group grows old in"
+    },
+    {
+      "approved": false,
+      "id": "h10",
+      "text": "Paper, Forge, or vanilla. Your call"
+    },
+    {
+      "approved": false,
+      "id": "h11",
+      "text": "What the long-running SMPs sit on"
+    },
+    {
+      "approved": false,
+      "id": "h12",
+      "text": "The kids' world became the family server"
+    },
+    {
+      "approved": false,
+      "id": "h13",
+      "text": "Somebody has to keep the world alive"
+    },
+    {
+      "approved": false,
+      "id": "h14",
+      "text": "That spawn took forever. Host it right"
+    },
+    {
+      "approved": false,
+      "id": "h15",
+      "text": "Stop passing the world file around"
+    },
+    {
+      "approved": false,
+      "id": "h16",
+      "text": "Netherite gear, dirt-tier hosting. Fix that"
+    },
+    {
+      "approved": false,
+      "id": "h17",
+      "text": "Elytra speed. The chunks keep up"
+    },
+    {
+      "approved": false,
+      "id": "h18",
+      "text": "The world outlived the group chat"
+    }
+  ],
+  "template": "spotlight"
+}

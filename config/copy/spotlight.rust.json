@@ -1,0 +1,258 @@
+{
+  "bodies": [
+    {
+      "approved": false,
+      "id": "b01",
+      "lines": [
+        "Every wipe starts with a queue you didn't choose.",
+        "Run your own and the only list is yours.",
+        "Your crew loads in while the rest of Rust waits."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b02",
+      "lines": [
+        "The raid starts and everyone piles in.",
+        "This is where cheap hosting folds.",
+        "Yours doesn't.",
+        "Built to hold when it matters."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b03",
+      "lines": [
+        "Pick Rust. Pick a plan. You're live.",
+        "Instant setup means no tickets, no waiting.",
+        "Your wipe schedule, your call, from the start.",
+        "Fresh map, your rules."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b04",
+      "lines": [
+        "Public servers wipe on someone else's schedule.",
+        "Yours wipes when you say so.",
+        "Long cycles, short cycles, whatever the clan votes.",
+        "That's what owning it feels like."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b05",
+      "lines": [
+        "A good community server outlives every wipe.",
+        "The regulars come back for the people.",
+        "They stay because it runs clean.",
+        "Give them a server worth rejoining."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b06",
+      "lines": [
+        "Instant setup. Live before the hype dies down.",
+        "NVMe hardware. Loads fast, saves fast, wipes clean.",
+        "DDoS protection. Salty raiders can't take you offline.",
+        "Everything your clan needs, nothing it doesn't."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b07",
+      "lines": [
+        "Your clan grinds the whole wipe for raid night.",
+        "Don't let the server waste that farm.",
+        "Smooth when it's quiet, solid when it's not.",
+        "That's the standard here."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b08",
+      "lines": [
+        "You lead the clan. You call the raids.",
+        "So run the server too.",
+        "Set the mods, the map size, the wipe day.",
+        "Your people, your rules, your world."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b09",
+      "lines": [
+        "Full pop on wipe day is the real stress test.",
+        "The map streams in, the queue clears, the wipe begins.",
+        "NVMe hardware doesn't blink.",
+        "No stutters when it counts."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b10",
+      "lines": [
+        "Every big Rust community started the same way.",
+        "Someone stood up a server and set the rules.",
+        "The clans came, the wipes rolled, the name stuck.",
+        "Your turn."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b11",
+      "lines": [
+        "Vanilla purist or modded to the teeth.",
+        "It's your box. Configure it your way.",
+        "Plugins, loot tables, map sizes, wipe cycles.",
+        "The server bends to you, not the other way."
+      ]
+    },
+    {
+      "approved": false,
+      "id": "b12",
+      "lines": [
+        "Lose a raid, someone hits your server out of spite.",
+        "DDoS protection means tantrums stay in chat.",
+        "The server stays up. The salt stays theirs."
+      ]
+    }
+  ],
+  "ctas": [
+    {
+      "approved": false,
+      "id": "c01",
+      "text": "Launch your Rust server at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c02",
+      "text": "Claim your map at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c03",
+      "text": "Start your wipe at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c04",
+      "text": "Host it yourself. refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c05",
+      "text": "Build your community at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c06",
+      "text": "Set your rules at refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c07",
+      "text": "Give your clan a home. refx.gg"
+    },
+    {
+      "approved": false,
+      "id": "c08",
+      "text": "Stand up your server. refx.gg"
+    }
+  ],
+  "game": "rust",
+  "hooks": [
+    {
+      "approved": false,
+      "id": "h01",
+      "text": "Your server shouldn't die before the wipe does"
+    },
+    {
+      "approved": false,
+      "id": "h02",
+      "text": "Raid hits. Server holds. That's the job"
+    },
+    {
+      "approved": false,
+      "id": "h03",
+      "text": "Run the server your clan brags about"
+    },
+    {
+      "approved": false,
+      "id": "h04",
+      "text": "Tired of admin abuse? Be the admin"
+    },
+    {
+      "approved": false,
+      "id": "h05",
+      "text": "Offline raids happen. Offline servers shouldn't"
+    },
+    {
+      "approved": false,
+      "id": "h06",
+      "text": "What full pop feels like without the lag"
+    },
+    {
+      "approved": false,
+      "id": "h07",
+      "text": "Stop losing raids to server lag"
+    },
+    {
+      "approved": false,
+      "id": "h08",
+      "text": "Why big clans host their own servers"
+    },
+    {
+      "approved": false,
+      "id": "h09",
+      "text": "Build the wipe you actually want"
+    },
+    {
+      "approved": false,
+      "id": "h10",
+      "text": "Done waiting in queue? Run your own"
+    },
+    {
+      "approved": false,
+      "id": "h11",
+      "text": "Wipe day is your server's launch day"
+    },
+    {
+      "approved": false,
+      "id": "h12",
+      "text": "Don't lose a full farm to a crash"
+    },
+    {
+      "approved": false,
+      "id": "h13",
+      "text": "Be the wipe people plan around"
+    },
+    {
+      "approved": false,
+      "id": "h14",
+      "text": "Modded, vanilla, whatever. It's your map"
+    },
+    {
+      "approved": false,
+      "id": "h15",
+      "text": "Bad hosting kills good communities"
+    },
+    {
+      "approved": false,
+      "id": "h16",
+      "text": "Rust doesn't wait. Neither should setup"
+    },
+    {
+      "approved": false,
+      "id": "h17",
+      "text": "New wipe. Fresh map. Your name on it"
+    },
+    {
+      "approved": false,
+      "id": "h18",
+      "text": "Admins enforce rules. Owners write them"
+    }
+  ],
+  "template": "spotlight"
+}
