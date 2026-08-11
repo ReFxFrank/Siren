@@ -1,0 +1,9 @@
+{
+  "maxProductionPerDayPerPlatform": 3,
+  "jobs": [
+    { "template": "spotlight", "game": "fivem", "aspects": ["9x16", "16x9"], "seed": 41, "vo": false, "music": "auto", "platforms": ["tiktok", "shorts", "reels"] },
+    { "template": "spotlight", "game": "gmod", "aspects": ["9x16", "16x9"], "seed": 42, "vo": false, "music": "auto", "platforms": ["tiktok", "shorts", "reels"] },
+    { "template": "spotlight", "game": "rust", "aspects": ["9x16", "16x9"], "seed": 43, "vo": false, "music": "auto", "platforms": ["tiktok", "shorts", "reels"] },
+    { "template": "spotlight", "game": "minecraft", "aspects": ["9x16", "16x9"], "seed": 44, "vo": false, "music": "auto", "platforms": ["tiktok", "shorts", "reels"] }
+  ]
+}
