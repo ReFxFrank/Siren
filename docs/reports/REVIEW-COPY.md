@@ -1,6 +1,6 @@
 # SIREN copy banks — review & approval
 
-_Generated 2026-08-11 00:17Z · flip approvals via:_
+_Generated 2026-08-11 00:39Z · flip approvals via:_
 `tsx scripts/approve-copy.ts <template>.<game> --approve h01,b02` _(or `--all`, `--all-except id,…`, `--revoke id,…`)_
 
 Production renders only use ☑ entries. Test renders may use any entry but stay watermarked.
@@ -226,7 +226,7 @@ Production renders only use ☑ entries. Test renders may use any entry but stay
 
 **Bodies (lines shown ⏵-joined — they render as sequential captions)**
 
-- ☐ `b01` Step one: pick a FiveM plan on refx.gg. ⏵ Step two: name your city and hit deploy. ⏵ Instant setup has it live before you alt-tab back. ⏵ Step three: drop the connect info in your Discord.
+- ☐ `b01` Pick a FiveM plan on refx.gg. ⏵ Name your city and hit deploy. ⏵ Instant setup has it live before you alt-tab back. ⏵ Drop the connect info in your Discord.
 - ☐ `b02` Pick a plan. That's the whole first step. ⏵ Name the server after the city you've been planning. ⏵ Instant setup, so the whitelist opens tonight. ⏵ Approve your first citizens and start the session.
 - ☐ `b03` Departments need somewhere to clock in. ⏵ Pick a plan and name your city. ⏵ DDoS protection keeps the session up on launch night. ⏵ Send the invite. Roll out your first patrol.
 - ☐ `b04` Hosting a FiveM server sounds harder than it is. ⏵ Choose a plan. Give the city a name. ⏵ Your resources load from NVMe hardware. ⏵ Open the whitelist and start session zero.
@@ -322,7 +322,7 @@ Production renders only use ☑ entries. Test renders may use any entry but stay
 
 **Bodies (lines shown ⏵-joined — they render as sequential captions)**
 
-- ☐ `b01` Step one: pick a Minecraft plan at refx.gg. ⏵ Step two: name your server and pick a region. ⏵ Step three: copy the IP and drop it in the group chat. ⏵ That's it. Instant setup means it's already running.
+- ☐ `b01` Pick a Minecraft plan at refx.gg. ⏵ Name your server and pick a region. ⏵ Copy the IP and drop it in the group chat. ⏵ That's it. Instant setup means it's already running.
 - ☐ `b02` Pick a plan and choose Paper as your server type. ⏵ Install plugins from the panel — no FTP required. ⏵ Restart, join, done. ⏵ NVMe hardware keeps chunk loading smooth.
 - ☐ `b03` Outgrew Realms? Here's the move. ⏵ Pick a plan, then import your existing world file. ⏵ Whitelist your friends so it stays yours. ⏵ Instant setup — you'll spend longer picking a name.
 - ☐ `b04` Running modpacks? Choose Forge when you set up. ⏵ Drop in your mods folder from the file manager. ⏵ Give it a restart and grab the IP. ⏵ NVMe hardware handles the heavy modpacks.
@@ -367,11 +367,11 @@ Production renders only use ☑ entries. Test renders may use any entry but stay
 
 **Bodies (lines shown ⏵-joined — they render as sequential captions)**
 
-- ☐ `b01` Step one: pick a plan. Setup is instant. ⏵ Step two: name the server and choose your wipe cycle. ⏵ Step three: share the join link with your clan. ⏵ Faster than smelting a stack of metal frags.
+- ☐ `b01` Pick a plan. Setup is instant. ⏵ Name the server and choose your wipe cycle. ⏵ Share the join link with your clan. ⏵ Faster than smelting a stack of metal frags.
 - ☐ `b02` Wipe night prep, the short version. ⏵ Pick a plan. Every server runs on NVMe hardware. ⏵ Set your map and wipe schedule from the panel. ⏵ Invite the clan and call dibs on the peninsula.
 - ☐ `b03` You already run the clan. The server is the easy part. ⏵ Choose a plan and it deploys on the spot. ⏵ Name it, set the wipe day, save. ⏵ Post the IP in Discord. Back to raid planning.
 - ☐ `b04` Raid night brings traffic you didn't invite. ⏵ DDoS protection comes standard on every plan. ⏵ Pick one, name your server, and it spins up instantly. ⏵ Then tell the clan where home is.
-- ☐ `b05` Stutter and slow saves start at the disk. ⏵ refx.gg runs Rust servers on NVMe hardware. ⏵ Pick a plan, name it, and you're in. ⏵ Now go farm in peace.
+- ☐ `b05` Stutter and slow saves start at the disk. ⏵ Refx.gg runs Rust servers on NVMe hardware. ⏵ Pick a plan, name it, and you're in. ⏵ Now go farm in peace.
 - ☐ `b06` No Linux. No config files. No port forwarding. ⏵ Pick a plan and setup runs itself. ⏵ Name the server, choose a wipe day, hit save. ⏵ Send invites. You're a server owner now.
 - ☐ `b07` Weekly wipes or monthly. Your call, one dropdown. ⏵ Start with a plan. Setup is instant. ⏵ Add a name, set the schedule, save. ⏵ Your clan wipes on your clock now.
 - ☐ `b08` Building a community server? Keep it simple. ⏵ Pick a plan. Instant setup means no waiting around. ⏵ Name it something people will search for. ⏵ Set your wipe cadence and open the doors.

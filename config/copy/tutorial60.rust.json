@@ -4,9 +4,9 @@
       "approved": false,
       "id": "b01",
       "lines": [
-        "Step one: pick a plan. Setup is instant.",
-        "Step two: name the server and choose your wipe cycle.",
-        "Step three: share the join link with your clan.",
+        "Pick a plan. Setup is instant.",
+        "Name the server and choose your wipe cycle.",
+        "Share the join link with your clan.",
         "Faster than smelting a stack of metal frags."
       ]
     },
@@ -45,7 +45,7 @@
       "id": "b05",
       "lines": [
         "Stutter and slow saves start at the disk.",
-        "refx.gg runs Rust servers on NVMe hardware.",
+        "Refx.gg runs Rust servers on NVMe hardware.",
         "Pick a plan, name it, and you're in.",
         "Now go farm in peace."
       ]

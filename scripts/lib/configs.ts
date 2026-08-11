@@ -287,6 +287,11 @@ export function validateBank(bank: CopyBank, game: GameConfig): Issue[] {
       if (line.length > 64) {
         issues.push({ level: "warn", where: `${where}#${body.id}`, msg: `body line >64 chars may wrap awkwardly: "${line}"` });
       }
+      // T2 step cards are numbered by the template — self-numbered copy
+      // collides with the card index ("04 · Step three").
+      if (bank.template === "tutorial60" && /^step\s+(one|two|three|four|five|\d+)\b/i.test(line)) {
+        issues.push({ level: "error", where: `${where}#${body.id}`, msg: `tutorial60 body lines must not self-number (cards are numbered): "${line}"` });
+      }
     }
     if (body.lines.length < 3 || body.lines.length > 4) {
       issues.push({ level: "warn", where: `${where}#${body.id}`, msg: `bodies drive captions best with 3–4 lines, got ${body.lines.length}` });
