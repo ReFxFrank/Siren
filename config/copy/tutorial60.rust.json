@@ -4,18 +4,18 @@
       "approved": false,
       "id": "b01",
       "lines": [
-        "Pick a plan. Setup is instant.",
+        "Pick a plan and lock it in.",
+        "Setup runs faster than smelting a stack of metal frags.",
         "Name the server and choose your wipe cycle.",
-        "Share the join link with your clan.",
-        "Faster than smelting a stack of metal frags."
+        "Share the join link with your clan."
       ]
     },
     {
       "approved": false,
       "id": "b02",
       "lines": [
-        "Wipe night prep, the short version.",
-        "Pick a plan. Every server runs on NVMe hardware.",
+        "Wipe prep, short version: pick a plan. All NVMe hardware.",
+        "The server deploys itself while you plan the base.",
         "Set your map and wipe schedule from the panel.",
         "Invite the clan and call dibs on the peninsula."
       ]
@@ -24,8 +24,8 @@
       "approved": false,
       "id": "b03",
       "lines": [
-        "You already run the clan. The server is the easy part.",
-        "Choose a plan and it deploys on the spot.",
+        "You already run the clan. Picking a plan is the easy part.",
+        "It deploys on the spot. Nothing else to run.",
         "Name it, set the wipe day, save.",
         "Post the IP in Discord. Back to raid planning."
       ]
@@ -34,9 +34,9 @@
       "approved": false,
       "id": "b04",
       "lines": [
-        "Raid night brings traffic you didn't invite.",
-        "DDoS protection comes standard on every plan.",
-        "Pick one, name your server, and it spins up instantly.",
+        "Pick any plan. DDoS protection comes standard.",
+        "It spins up on its own. No configs, no port forwarding.",
+        "Name your server and set the map before raid night.",
         "Then tell the clan where home is."
       ]
     },
@@ -44,18 +44,18 @@
       "approved": false,
       "id": "b05",
       "lines": [
-        "Stutter and slow saves start at the disk.",
-        "Refx.gg runs Rust servers on NVMe hardware.",
-        "Pick a plan, name it, and you're in.",
-        "Now go farm in peace."
+        "Stutter starts at the disk. Pick a plan on NVMe hardware.",
+        "The panel handles setup. Instant, hands off.",
+        "Set your map size and wipe day, then name it.",
+        "Bring the group in and farm in peace."
       ]
     },
     {
       "approved": false,
       "id": "b06",
       "lines": [
+        "Pick a plan. That's the hard part done.",
         "No Linux. No config files. No port forwarding.",
-        "Pick a plan and setup runs itself.",
         "Name the server, choose a wipe day, hit save.",
         "Send invites. You're a server owner now."
       ]
@@ -64,9 +64,9 @@
       "approved": false,
       "id": "b07",
       "lines": [
+        "Pick the plan that fits how your group plays.",
+        "Setup is instant. The panel does the rest.",
         "Weekly wipes or monthly. Your call, one dropdown.",
-        "Start with a plan. Setup is instant.",
-        "Add a name, set the schedule, save.",
         "Your clan wipes on your clock now."
       ]
     },
@@ -74,18 +74,18 @@
       "approved": false,
       "id": "b08",
       "lines": [
-        "Building a community server? Keep it simple.",
-        "Pick a plan. Instant setup means no waiting around.",
-        "Name it something people will search for.",
-        "Set your wipe cadence and open the doors."
+        "Building a community server? Pick a plan and keep it simple.",
+        "Instant setup means no waiting around.",
+        "Name it something searchable and set your wipe cadence.",
+        "Open the doors and let the community in."
       ]
     },
     {
       "approved": false,
       "id": "b09",
       "lines": [
-        "You can host tonight's wipe. Here's how.",
-        "Pick a plan. It deploys the moment you click.",
+        "You can host tonight's wipe. Start by picking a plan.",
+        "It deploys the moment you click. Nothing to install.",
         "Name your server and set the wipe schedule.",
         "Ping the clan. The farm starts now."
       ]

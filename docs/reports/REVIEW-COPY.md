@@ -1,6 +1,6 @@
 # SIREN copy banks — review & approval
 
-_Generated 2026-08-11 00:39Z · flip approvals via:_
+_Generated 2026-08-11 03:38Z · flip approvals via:_
 `tsx scripts/approve-copy.ts <template>.<game> --approve h01,b02` _(or `--all`, `--all-except id,…`, `--revoke id,…`)_
 
 Production renders only use ☑ entries. Test renders may use any entry but stay watermarked.
@@ -226,18 +226,18 @@ Production renders only use ☑ entries. Test renders may use any entry but stay
 
 **Bodies (lines shown ⏵-joined — they render as sequential captions)**
 
-- ☐ `b01` Pick a FiveM plan on refx.gg. ⏵ Name your city and hit deploy. ⏵ Instant setup has it live before you alt-tab back. ⏵ Drop the connect info in your Discord.
-- ☐ `b02` Pick a plan. That's the whole first step. ⏵ Name the server after the city you've been planning. ⏵ Instant setup, so the whitelist opens tonight. ⏵ Approve your first citizens and start the session.
-- ☐ `b03` Departments need somewhere to clock in. ⏵ Pick a plan and name your city. ⏵ DDoS protection keeps the session up on launch night. ⏵ Send the invite. Roll out your first patrol.
-- ☐ `b04` Hosting a FiveM server sounds harder than it is. ⏵ Choose a plan. Give the city a name. ⏵ Your resources load from NVMe hardware. ⏵ Open the whitelist and start session zero.
-- ☐ `b05` Your friends want a city. Here's the walkthrough. ⏵ Pick a plan on refx.gg and name your server. ⏵ Setup is instant, so nobody waits around. ⏵ Share the connect link and start session one.
-- ☐ `b06` Sixty seconds. Three steps. One city. ⏵ One: pick the plan that fits your community. ⏵ Two: name it and deploy. Setup is instant. ⏵ Three: invite your whitelist and go live.
-- ☐ `b07` Civ life needs somewhere to happen first. ⏵ Pick a plan. DDoS protection is included. ⏵ Name your city and let instant setup do the rest. ⏵ Open the doors. Let the mechanics and taxi drivers in.
-- ☐ `b08` You've written the lore. Now build the city. ⏵ Choose a plan and name the server. ⏵ It deploys with instant setup. No waiting on tickets. ⏵ Post the invite. Watch city hall fill up.
-- ☐ `b09` The city you played in shut down. Build the next one. ⏵ Pick a plan and bring your community with you. ⏵ Instant setup, so the move takes one evening. ⏵ Post the new connect link in the old Discord.
-- ☐ `b10` No dev team. No config rabbit hole. Just steps. ⏵ Pick a plan that fits your city. ⏵ Name it, deploy, and you're on NVMe hardware. ⏵ Invite your staff first. Then open the whitelist.
-- ☐ `b11` Launch night, minus the panic. ⏵ Pick your plan and name the city. ⏵ DDoS protection is on from the first minute. ⏵ Drop the IP in your announcements channel.
-- ☐ `b12` Here's the whole process, start to finish. ⏵ Plan, name, deploy. Setup is instant. ⏵ Then it's just you, your rules, and your city.
+- ☐ `b01` Pick a FiveM plan on refx.gg. ⏵ Instant setup has it live before you alt-tab back. ⏵ Name your city and load the scripts you actually want. ⏵ Drop the connect info in your Discord.
+- ☐ `b02` Pick a plan. That's the whole first step. ⏵ Instant setup means you're live tonight, not next week. ⏵ Name it after the city you've been planning. ⏵ Open the whitelist and approve your first citizens.
+- ☐ `b03` Departments need somewhere to clock in. Pick a plan. ⏵ The panel deploys it. DDoS protection from minute one. ⏵ Name your city and set up PD, EMS, and dispatch. ⏵ Send the invite. Roll out your first patrol.
+- ☐ `b04` Hosting a FiveM server sounds harder than it is. Pick a plan. ⏵ Your server deploys itself on NVMe hardware. ⏵ Name the city and load your framework and scripts. ⏵ Open the whitelist and start session zero.
+- ☐ `b05` Your friends want a city. Start by picking a plan on refx.gg. ⏵ Setup is instant, so nobody waits around. ⏵ Name the server and pick the mods your crew asked for. ⏵ Share the connect link and start session one.
+- ☐ `b06` Sixty seconds, four steps. One: pick your plan. ⏵ Two: instant setup deploys it while you watch. ⏵ Three: name your city and load your resources. ⏵ Four: invite the whitelist and go live.
+- ☐ `b07` Civ life needs a server first. Pick a plan. ⏵ Instant setup does the heavy lifting. DDoS protection included. ⏵ Name your city and add the jobs civs actually work. ⏵ Open the doors. Let the mechanics and taxi drivers in.
+- ☐ `b08` You've written the lore. Now pick a plan for the city. ⏵ It deploys with instant setup. No waiting on tickets. ⏵ Name the server and dress the map to match your story. ⏵ Post the invite. Watch city hall fill up.
+- ☐ `b09` The city you played in shut down. Pick a plan for the next one. ⏵ Instant setup, so the move takes one evening. ⏵ Rebuild it your way: name, scripts, and map. ⏵ Post the new connect link in the old Discord.
+- ☐ `b10` No dev team needed. Pick a plan that fits your city. ⏵ Deploy runs itself, and you're on NVMe hardware. ⏵ Name it and tweak the settings without a config rabbit hole. ⏵ Invite your staff first. Then open the whitelist.
+- ☐ `b11` Launch night, minus the panic. Pick your plan. ⏵ Setup handles itself. DDoS protection from the first minute. ⏵ Name the city and lock in your launch-night settings. ⏵ Drop the connect info in your announcements channel.
+- ☐ `b12` Here's the whole process, start to finish. Pick a plan. ⏵ Instant setup handles the deploy. Nothing to babysit. ⏵ Make it yours: name, map, scripts, settings. ⏵ Invite your people. Then it's your rules and your city.
 
 **CTAs**
 
@@ -273,18 +273,18 @@ Production renders only use ☑ entries. Test renders may use any entry but stay
 
 **Bodies (lines shown ⏵-joined — they render as sequential captions)**
 
-- ☐ `b01` Pick a plan. That's the whole first step. ⏵ Name your server and choose a start map. ⏵ Setup is instant, so it's live right away. ⏵ Drop the IP in the group chat. Done.
-- ☐ `b02` Start with a plan sized for your group. ⏵ Name it something your friends will recognize. ⏵ Install TTT and the maps you like. ⏵ Invite everyone. Innocents and traitors sort themselves.
-- ☐ `b03` Want your own DarkRP city? Start here. ⏵ Pick a plan and name your server. ⏵ Add DarkRP and the jobs you want. ⏵ Your rules this time. Invite the town.
-- ☐ `b04` Your addons folder finally gets a home. ⏵ Pick a plan and spin the server up. ⏵ Sync your workshop collection to it. ⏵ Everything downloads once, then you play.
-- ☐ `b05` Prop hunt with randoms gets old. ⏵ Launch a server and name it. ⏵ Set prop hunt as the gamemode. ⏵ Invite your friends. Hide as a lamp.
-- ☐ `b06` Sixty seconds, start to finish. ⏵ Choose a plan. Setup is instant. ⏵ Pick a map, press start, you're hosting.
-- ☐ `b07` Here's what you get under the hood. ⏵ NVMe hardware, so maps load quick. ⏵ DDoS protection comes standard. ⏵ You just play. The boring parts are handled.
-- ☐ `b08` Your group deserves better than server browsers. ⏵ Pick a plan and name it after the group chat. ⏵ Set a password so it stays just yours. ⏵ Same server every night, no more searching.
-- ☐ `b09` Never hosted anything before? Fine. ⏵ Pick a plan and follow the steps. ⏵ Setup is instant, nothing to install. ⏵ If you can name a server, you can run one.
-- ☐ `b10` Admin isn't something you beg for here. ⏵ Launch your server and name it. ⏵ Hand out ranks however you like. ⏵ Your playground, your call.
-- ☐ `b11` Build night works better on your own server. ⏵ Pick a plan and start on flatgrass. ⏵ Invite the builders and pass out toolguns. ⏵ Save the dupes. Break them tomorrow.
-- ☐ `b12` Tonight's session can be on your server. ⏵ Order a plan and it's up in about a minute. ⏵ Copy the IP and paste it in Discord. ⏵ That's it. See you in game.
+- ☐ `b01` Pick a plan. That's the whole first step. ⏵ Setup is instant. You just watch it happen. ⏵ Name it, pick a start map, tweak what you want. ⏵ Drop the IP in the group chat. Done.
+- ☐ `b02` Start with a plan sized for your group. ⏵ The panel handles the install while you wait. ⏵ Install TTT and the maps you like. ⏵ Invite everyone. Innocents and traitors sort themselves.
+- ☐ `b03` Your own DarkRP city starts with a plan. ⏵ The panel does the setup. You just wait a minute. ⏵ Add DarkRP, set the jobs, write your rules. ⏵ Invite the town. Your laws this time.
+- ☐ `b04` Pick a plan. Your addons folder finally gets a home. ⏵ Setup is instant, so the server's ready before you are. ⏵ Sync your workshop collection to it. ⏵ Send the invite. Everyone downloads once, then plays.
+- ☐ `b05` Prop hunt with randoms gets old. Pick a plan. ⏵ Setup runs itself while you pick a disguise. ⏵ Set prop hunt as the gamemode and pick your maps. ⏵ Invite your friends. Hide as a lamp.
+- ☐ `b06` Sixty seconds, start to finish. Pick a plan. ⏵ Setup is instant. Watch the timer, not a loading bar. ⏵ Choose a map, set the gamemode, name it. ⏵ Share the IP. Friends are in before the minute's up.
+- ☐ `b07` Pick any plan. NVMe hardware sits under all of them. ⏵ Setup is instant. DDoS protection comes standard. ⏵ Pile on the maps and addons you actually want. ⏵ Your friends connect. The boring parts stay handled.
+- ☐ `b08` Pick a plan for the group. Server browsers retire tonight. ⏵ Setup runs itself, no port forwarding tutorial. ⏵ Name it after the group chat and set a password. ⏵ Everyone joins the same server every night. No searching.
+- ☐ `b09` Never hosted before? Picking a plan is the hard part. ⏵ Setup is instant. Nothing to install, nothing to break. ⏵ Name your server and pick a map. That's the config. ⏵ Invite your friends. Congrats, you're a server owner.
+- ☐ `b10` Admin isn't something you beg for. Pick a plan. ⏵ The panel stands your server up on its own. ⏵ Name it, set the rules, hand out ranks how you like. ⏵ Invite the regulars. Your playground, your call.
+- ☐ `b11` Build night works better on your own server. Pick a plan. ⏵ Setup runs itself while you queue up dupes. ⏵ Start on flatgrass with the tool addons you trust. ⏵ Invite the builders. Save the dupes, break them tomorrow.
+- ☐ `b12` Tonight's session can be on your server. Pick a plan. ⏵ It's up in about a minute. The panel does the work. ⏵ Name it and set the map for tonight. ⏵ Paste the IP in Discord. See you in game.
 
 **CTAs**
 
@@ -322,17 +322,17 @@ Production renders only use ☑ entries. Test renders may use any entry but stay
 
 **Bodies (lines shown ⏵-joined — they render as sequential captions)**
 
-- ☐ `b01` Pick a Minecraft plan at refx.gg. ⏵ Name your server and pick a region. ⏵ Copy the IP and drop it in the group chat. ⏵ That's it. Instant setup means it's already running.
-- ☐ `b02` Pick a plan and choose Paper as your server type. ⏵ Install plugins from the panel — no FTP required. ⏵ Restart, join, done. ⏵ NVMe hardware keeps chunk loading smooth.
-- ☐ `b03` Outgrew Realms? Here's the move. ⏵ Pick a plan, then import your existing world file. ⏵ Whitelist your friends so it stays yours. ⏵ Instant setup — you'll spend longer picking a name.
-- ☐ `b04` Running modpacks? Choose Forge when you set up. ⏵ Drop in your mods folder from the file manager. ⏵ Give it a restart and grab the IP. ⏵ NVMe hardware handles the heavy modpacks.
-- ☐ `b05` Pick a plan. Your world moves off your PC for good. ⏵ Name it, set the version, start it. ⏵ Log off whenever. The world stays up for your friends. ⏵ DDoS protection is on from the first block.
-- ☐ `b06` Starting a new SMP season? Do it properly. ⏵ Pick a plan and name the server after the season. ⏵ Turn on the whitelist and add your players. ⏵ Share the IP once. Everyone joins the same world.
-- ☐ `b07` Your group chat wants to play. Here's the walkthrough. ⏵ Pick a plan — no arguing over whose PC hosts. ⏵ Name it something the group will actually remember. ⏵ Paste the IP in the chat and watch them pile in.
-- ☐ `b08` You've hosted LAN worlds since you were a kid. ⏵ Same job, better tools: pick a plan at refx.gg. ⏵ Name it, choose your version, hit start. ⏵ Instant setup — no port forwarding, no router menus.
-- ☐ `b09` Sixty seconds, start to finish. Watch. ⏵ Pick a plan. Name the server. Choose a version. ⏵ Copy the IP and send the invite. ⏵ Your friends are in before the minute is up.
-- ☐ `b10` Public server? Set it up the safe way. ⏵ Pick a plan — DDoS protection comes standard. ⏵ Ops assigned, spawn built, rules pinned. ⏵ Open the gates when you're ready.
-- ☐ `b11` Hosting on your own PC? Time to retire it. ⏵ Export your world folder and pick a plan. ⏵ Upload the world, set the version, press start. ⏵ Same world, same seed — new home on NVMe hardware.
+- ☐ `b01` Pick a Minecraft plan at refx.gg. ⏵ Instant setup — it's live before you close the tab. ⏵ Name it, set the version, pick your region. ⏵ Copy the IP and drop it in the group chat.
+- ☐ `b02` Paper players, start here: pick a plan at refx.gg. ⏵ The panel installs everything — NVMe hardware underneath. ⏵ Set the type to Paper and add plugins — no FTP required. ⏵ Restart, share the IP, watch your friends log on.
+- ☐ `b03` Outgrew Realms? Pick a plan — that's the whole move. ⏵ Instant setup — done before Realms finishes loading. ⏵ Upload your world file — same builds, same seed. ⏵ Whitelist your friends and it stays yours.
+- ☐ `b04` Running modpacks? Pick a plan built to carry them. ⏵ It sets itself up — NVMe hardware carries the heavy packs. ⏵ Choose Forge and drop your mods folder in the file manager. ⏵ Send the IP to whoever survived your last modpack.
+- ☐ `b05` Pick a plan. Your world moves off your PC for good. ⏵ Instant setup — the panel does the work, not your PC. ⏵ Set your version, your gamerules, your name on the door. ⏵ Log off whenever. The world stays up for your friends.
+- ☐ `b06` New SMP season? Pick a plan and do it properly. ⏵ The panel spins it up while you write the season rules. ⏵ Name it after the season and turn on the whitelist. ⏵ Share the IP once. Everyone joins the same world.
+- ☐ `b07` Pick a plan — no arguing over whose PC hosts. ⏵ The panel does the setup while the chat blows up. ⏵ Name it something the group will actually remember. ⏵ Paste the IP in the chat and watch them pile in.
+- ☐ `b08` You've hosted since LAN parties. Pick a plan at refx.gg. ⏵ Instant setup — no port forwarding, no router menus. ⏵ Same job, better tools — name it and set your version. ⏵ Send the invite — no one gathers around your desk this time.
+- ☐ `b09` Sixty seconds on the clock. Pick a plan — go. ⏵ The server builds itself while the clock runs. ⏵ Name the server and lock in a version. Keep moving. ⏵ Send the IP. Your friends are in before the minute is up.
+- ☐ `b10` Public server? Pick a plan and do this the safe way. ⏵ Instant setup, DDoS protection on from the start. ⏵ Ops assigned, spawn built, rules pinned. ⏵ Post the IP and open the gates when you're ready.
+- ☐ `b11` Hosting on your own PC? Pick a plan and retire it. ⏵ The panel takes over the job your PC has been doing. ⏵ Upload the world folder and set your usual version. ⏵ Send your friends the new IP. Same world, better home.
 
 **CTAs**
 
@@ -367,15 +367,15 @@ Production renders only use ☑ entries. Test renders may use any entry but stay
 
 **Bodies (lines shown ⏵-joined — they render as sequential captions)**
 
-- ☐ `b01` Pick a plan. Setup is instant. ⏵ Name the server and choose your wipe cycle. ⏵ Share the join link with your clan. ⏵ Faster than smelting a stack of metal frags.
-- ☐ `b02` Wipe night prep, the short version. ⏵ Pick a plan. Every server runs on NVMe hardware. ⏵ Set your map and wipe schedule from the panel. ⏵ Invite the clan and call dibs on the peninsula.
-- ☐ `b03` You already run the clan. The server is the easy part. ⏵ Choose a plan and it deploys on the spot. ⏵ Name it, set the wipe day, save. ⏵ Post the IP in Discord. Back to raid planning.
-- ☐ `b04` Raid night brings traffic you didn't invite. ⏵ DDoS protection comes standard on every plan. ⏵ Pick one, name your server, and it spins up instantly. ⏵ Then tell the clan where home is.
-- ☐ `b05` Stutter and slow saves start at the disk. ⏵ Refx.gg runs Rust servers on NVMe hardware. ⏵ Pick a plan, name it, and you're in. ⏵ Now go farm in peace.
-- ☐ `b06` No Linux. No config files. No port forwarding. ⏵ Pick a plan and setup runs itself. ⏵ Name the server, choose a wipe day, hit save. ⏵ Send invites. You're a server owner now.
-- ☐ `b07` Weekly wipes or monthly. Your call, one dropdown. ⏵ Start with a plan. Setup is instant. ⏵ Add a name, set the schedule, save. ⏵ Your clan wipes on your clock now.
-- ☐ `b08` Building a community server? Keep it simple. ⏵ Pick a plan. Instant setup means no waiting around. ⏵ Name it something people will search for. ⏵ Set your wipe cadence and open the doors.
-- ☐ `b09` You can host tonight's wipe. Here's how. ⏵ Pick a plan. It deploys the moment you click. ⏵ Name your server and set the wipe schedule. ⏵ Ping the clan. The farm starts now.
+- ☐ `b01` Pick a plan and lock it in. ⏵ Setup runs faster than smelting a stack of metal frags. ⏵ Name the server and choose your wipe cycle. ⏵ Share the join link with your clan.
+- ☐ `b02` Wipe prep, short version: pick a plan. All NVMe hardware. ⏵ The server deploys itself while you plan the base. ⏵ Set your map and wipe schedule from the panel. ⏵ Invite the clan and call dibs on the peninsula.
+- ☐ `b03` You already run the clan. Picking a plan is the easy part. ⏵ It deploys on the spot. Nothing else to run. ⏵ Name it, set the wipe day, save. ⏵ Post the IP in Discord. Back to raid planning.
+- ☐ `b04` Pick any plan. DDoS protection comes standard. ⏵ It spins up on its own. No configs, no port forwarding. ⏵ Name your server and set the map before raid night. ⏵ Then tell the clan where home is.
+- ☐ `b05` Stutter starts at the disk. Pick a plan on NVMe hardware. ⏵ The panel handles setup. Instant, hands off. ⏵ Set your map size and wipe day, then name it. ⏵ Bring the group in and farm in peace.
+- ☐ `b06` Pick a plan. That's the hard part done. ⏵ No Linux. No config files. No port forwarding. ⏵ Name the server, choose a wipe day, hit save. ⏵ Send invites. You're a server owner now.
+- ☐ `b07` Pick the plan that fits how your group plays. ⏵ Setup is instant. The panel does the rest. ⏵ Weekly wipes or monthly. Your call, one dropdown. ⏵ Your clan wipes on your clock now.
+- ☐ `b08` Building a community server? Pick a plan and keep it simple. ⏵ Instant setup means no waiting around. ⏵ Name it something searchable and set your wipe cadence. ⏵ Open the doors and let the community in.
+- ☐ `b09` You can host tonight's wipe. Start by picking a plan. ⏵ It deploys the moment you click. Nothing to install. ⏵ Name your server and set the wipe schedule. ⏵ Ping the clan. The farm starts now.
 
 **CTAs**
 

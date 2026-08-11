@@ -5,8 +5,8 @@
       "id": "b01",
       "lines": [
         "Pick a plan. That's the whole first step.",
-        "Name your server and choose a start map.",
-        "Setup is instant, so it's live right away.",
+        "Setup is instant. You just watch it happen.",
+        "Name it, pick a start map, tweak what you want.",
         "Drop the IP in the group chat. Done."
       ]
     },
@@ -15,7 +15,7 @@
       "id": "b02",
       "lines": [
         "Start with a plan sized for your group.",
-        "Name it something your friends will recognize.",
+        "The panel handles the install while you wait.",
         "Install TTT and the maps you like.",
         "Invite everyone. Innocents and traitors sort themselves."
       ]
@@ -24,29 +24,29 @@
       "approved": false,
       "id": "b03",
       "lines": [
-        "Want your own DarkRP city? Start here.",
-        "Pick a plan and name your server.",
-        "Add DarkRP and the jobs you want.",
-        "Your rules this time. Invite the town."
+        "Your own DarkRP city starts with a plan.",
+        "The panel does the setup. You just wait a minute.",
+        "Add DarkRP, set the jobs, write your rules.",
+        "Invite the town. Your laws this time."
       ]
     },
     {
       "approved": false,
       "id": "b04",
       "lines": [
-        "Your addons folder finally gets a home.",
-        "Pick a plan and spin the server up.",
+        "Pick a plan. Your addons folder finally gets a home.",
+        "Setup is instant, so the server's ready before you are.",
         "Sync your workshop collection to it.",
-        "Everything downloads once, then you play."
+        "Send the invite. Everyone downloads once, then plays."
       ]
     },
     {
       "approved": false,
       "id": "b05",
       "lines": [
-        "Prop hunt with randoms gets old.",
-        "Launch a server and name it.",
-        "Set prop hunt as the gamemode.",
+        "Prop hunt with randoms gets old. Pick a plan.",
+        "Setup runs itself while you pick a disguise.",
+        "Set prop hunt as the gamemode and pick your maps.",
         "Invite your friends. Hide as a lamp."
       ]
     },
@@ -54,69 +54,70 @@
       "approved": false,
       "id": "b06",
       "lines": [
-        "Sixty seconds, start to finish.",
-        "Choose a plan. Setup is instant.",
-        "Pick a map, press start, you're hosting."
+        "Sixty seconds, start to finish. Pick a plan.",
+        "Setup is instant. Watch the timer, not a loading bar.",
+        "Choose a map, set the gamemode, name it.",
+        "Share the IP. Friends are in before the minute's up."
       ]
     },
     {
       "approved": false,
       "id": "b07",
       "lines": [
-        "Here's what you get under the hood.",
-        "NVMe hardware, so maps load quick.",
-        "DDoS protection comes standard.",
-        "You just play. The boring parts are handled."
+        "Pick any plan. NVMe hardware sits under all of them.",
+        "Setup is instant. DDoS protection comes standard.",
+        "Pile on the maps and addons you actually want.",
+        "Your friends connect. The boring parts stay handled."
       ]
     },
     {
       "approved": false,
       "id": "b08",
       "lines": [
-        "Your group deserves better than server browsers.",
-        "Pick a plan and name it after the group chat.",
-        "Set a password so it stays just yours.",
-        "Same server every night, no more searching."
+        "Pick a plan for the group. Server browsers retire tonight.",
+        "Setup runs itself, no port forwarding tutorial.",
+        "Name it after the group chat and set a password.",
+        "Everyone joins the same server every night. No searching."
       ]
     },
     {
       "approved": false,
       "id": "b09",
       "lines": [
-        "Never hosted anything before? Fine.",
-        "Pick a plan and follow the steps.",
-        "Setup is instant, nothing to install.",
-        "If you can name a server, you can run one."
+        "Never hosted before? Picking a plan is the hard part.",
+        "Setup is instant. Nothing to install, nothing to break.",
+        "Name your server and pick a map. That's the config.",
+        "Invite your friends. Congrats, you're a server owner."
       ]
     },
     {
       "approved": false,
       "id": "b10",
       "lines": [
-        "Admin isn't something you beg for here.",
-        "Launch your server and name it.",
-        "Hand out ranks however you like.",
-        "Your playground, your call."
+        "Admin isn't something you beg for. Pick a plan.",
+        "The panel stands your server up on its own.",
+        "Name it, set the rules, hand out ranks how you like.",
+        "Invite the regulars. Your playground, your call."
       ]
     },
     {
       "approved": false,
       "id": "b11",
       "lines": [
-        "Build night works better on your own server.",
-        "Pick a plan and start on flatgrass.",
-        "Invite the builders and pass out toolguns.",
-        "Save the dupes. Break them tomorrow."
+        "Build night works better on your own server. Pick a plan.",
+        "Setup runs itself while you queue up dupes.",
+        "Start on flatgrass with the tool addons you trust.",
+        "Invite the builders. Save the dupes, break them tomorrow."
       ]
     },
     {
       "approved": false,
       "id": "b12",
       "lines": [
-        "Tonight's session can be on your server.",
-        "Order a plan and it's up in about a minute.",
-        "Copy the IP and paste it in Discord.",
-        "That's it. See you in game."
+        "Tonight's session can be on your server. Pick a plan.",
+        "It's up in about a minute. The panel does the work.",
+        "Name it and set the map for tonight.",
+        "Paste the IP in Discord. See you in game."
       ]
     }
   ],

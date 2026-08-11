@@ -5,39 +5,39 @@
       "id": "b01",
       "lines": [
         "Pick a Minecraft plan at refx.gg.",
-        "Name your server and pick a region.",
-        "Copy the IP and drop it in the group chat.",
-        "That's it. Instant setup means it's already running."
+        "Instant setup — it's live before you close the tab.",
+        "Name it, set the version, pick your region.",
+        "Copy the IP and drop it in the group chat."
       ]
     },
     {
       "approved": false,
       "id": "b02",
       "lines": [
-        "Pick a plan and choose Paper as your server type.",
-        "Install plugins from the panel — no FTP required.",
-        "Restart, join, done.",
-        "NVMe hardware keeps chunk loading smooth."
+        "Paper players, start here: pick a plan at refx.gg.",
+        "The panel installs everything — NVMe hardware underneath.",
+        "Set the type to Paper and add plugins — no FTP required.",
+        "Restart, share the IP, watch your friends log on."
       ]
     },
     {
       "approved": false,
       "id": "b03",
       "lines": [
-        "Outgrew Realms? Here's the move.",
-        "Pick a plan, then import your existing world file.",
-        "Whitelist your friends so it stays yours.",
-        "Instant setup — you'll spend longer picking a name."
+        "Outgrew Realms? Pick a plan — that's the whole move.",
+        "Instant setup — done before Realms finishes loading.",
+        "Upload your world file — same builds, same seed.",
+        "Whitelist your friends and it stays yours."
       ]
     },
     {
       "approved": false,
       "id": "b04",
       "lines": [
-        "Running modpacks? Choose Forge when you set up.",
-        "Drop in your mods folder from the file manager.",
-        "Give it a restart and grab the IP.",
-        "NVMe hardware handles the heavy modpacks."
+        "Running modpacks? Pick a plan built to carry them.",
+        "It sets itself up — NVMe hardware carries the heavy packs.",
+        "Choose Forge and drop your mods folder in the file manager.",
+        "Send the IP to whoever survived your last modpack."
       ]
     },
     {
@@ -45,18 +45,18 @@
       "id": "b05",
       "lines": [
         "Pick a plan. Your world moves off your PC for good.",
-        "Name it, set the version, start it.",
-        "Log off whenever. The world stays up for your friends.",
-        "DDoS protection is on from the first block."
+        "Instant setup — the panel does the work, not your PC.",
+        "Set your version, your gamerules, your name on the door.",
+        "Log off whenever. The world stays up for your friends."
       ]
     },
     {
       "approved": false,
       "id": "b06",
       "lines": [
-        "Starting a new SMP season? Do it properly.",
-        "Pick a plan and name the server after the season.",
-        "Turn on the whitelist and add your players.",
+        "New SMP season? Pick a plan and do it properly.",
+        "The panel spins it up while you write the season rules.",
+        "Name it after the season and turn on the whitelist.",
         "Share the IP once. Everyone joins the same world."
       ]
     },
@@ -64,8 +64,8 @@
       "approved": false,
       "id": "b07",
       "lines": [
-        "Your group chat wants to play. Here's the walkthrough.",
         "Pick a plan — no arguing over whose PC hosts.",
+        "The panel does the setup while the chat blows up.",
         "Name it something the group will actually remember.",
         "Paste the IP in the chat and watch them pile in."
       ]
@@ -74,40 +74,40 @@
       "approved": false,
       "id": "b08",
       "lines": [
-        "You've hosted LAN worlds since you were a kid.",
-        "Same job, better tools: pick a plan at refx.gg.",
-        "Name it, choose your version, hit start.",
-        "Instant setup — no port forwarding, no router menus."
+        "You've hosted since LAN parties. Pick a plan at refx.gg.",
+        "Instant setup — no port forwarding, no router menus.",
+        "Same job, better tools — name it and set your version.",
+        "Send the invite — no one gathers around your desk this time."
       ]
     },
     {
       "approved": false,
       "id": "b09",
       "lines": [
-        "Sixty seconds, start to finish. Watch.",
-        "Pick a plan. Name the server. Choose a version.",
-        "Copy the IP and send the invite.",
-        "Your friends are in before the minute is up."
+        "Sixty seconds on the clock. Pick a plan — go.",
+        "The server builds itself while the clock runs.",
+        "Name the server and lock in a version. Keep moving.",
+        "Send the IP. Your friends are in before the minute is up."
       ]
     },
     {
       "approved": false,
       "id": "b10",
       "lines": [
-        "Public server? Set it up the safe way.",
-        "Pick a plan — DDoS protection comes standard.",
+        "Public server? Pick a plan and do this the safe way.",
+        "Instant setup, DDoS protection on from the start.",
         "Ops assigned, spawn built, rules pinned.",
-        "Open the gates when you're ready."
+        "Post the IP and open the gates when you're ready."
       ]
     },
     {
       "approved": false,
       "id": "b11",
       "lines": [
-        "Hosting on your own PC? Time to retire it.",
-        "Export your world folder and pick a plan.",
-        "Upload the world, set the version, press start.",
-        "Same world, same seed — new home on NVMe hardware."
+        "Hosting on your own PC? Pick a plan and retire it.",
+        "The panel takes over the job your PC has been doing.",
+        "Upload the world folder and set your usual version.",
+        "Send your friends the new IP. Same world, better home."
       ]
     }
   ],

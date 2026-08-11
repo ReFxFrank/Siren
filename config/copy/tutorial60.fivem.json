@@ -5,8 +5,8 @@
       "id": "b01",
       "lines": [
         "Pick a FiveM plan on refx.gg.",
-        "Name your city and hit deploy.",
         "Instant setup has it live before you alt-tab back.",
+        "Name your city and load the scripts you actually want.",
         "Drop the connect info in your Discord."
       ]
     },
@@ -15,18 +15,18 @@
       "id": "b02",
       "lines": [
         "Pick a plan. That's the whole first step.",
-        "Name the server after the city you've been planning.",
-        "Instant setup, so the whitelist opens tonight.",
-        "Approve your first citizens and start the session."
+        "Instant setup means you're live tonight, not next week.",
+        "Name it after the city you've been planning.",
+        "Open the whitelist and approve your first citizens."
       ]
     },
     {
       "approved": false,
       "id": "b03",
       "lines": [
-        "Departments need somewhere to clock in.",
-        "Pick a plan and name your city.",
-        "DDoS protection keeps the session up on launch night.",
+        "Departments need somewhere to clock in. Pick a plan.",
+        "The panel deploys it. DDoS protection from minute one.",
+        "Name your city and set up PD, EMS, and dispatch.",
         "Send the invite. Roll out your first patrol."
       ]
     },
@@ -34,9 +34,9 @@
       "approved": false,
       "id": "b04",
       "lines": [
-        "Hosting a FiveM server sounds harder than it is.",
-        "Choose a plan. Give the city a name.",
-        "Your resources load from NVMe hardware.",
+        "Hosting a FiveM server sounds harder than it is. Pick a plan.",
+        "Your server deploys itself on NVMe hardware.",
+        "Name the city and load your framework and scripts.",
         "Open the whitelist and start session zero."
       ]
     },
@@ -44,9 +44,9 @@
       "approved": false,
       "id": "b05",
       "lines": [
-        "Your friends want a city. Here's the walkthrough.",
-        "Pick a plan on refx.gg and name your server.",
+        "Your friends want a city. Start by picking a plan on refx.gg.",
         "Setup is instant, so nobody waits around.",
+        "Name the server and pick the mods your crew asked for.",
         "Share the connect link and start session one."
       ]
     },
@@ -54,19 +54,19 @@
       "approved": false,
       "id": "b06",
       "lines": [
-        "Sixty seconds. Three steps. One city.",
-        "One: pick the plan that fits your community.",
-        "Two: name it and deploy. Setup is instant.",
-        "Three: invite your whitelist and go live."
+        "Sixty seconds, four steps. One: pick your plan.",
+        "Two: instant setup deploys it while you watch.",
+        "Three: name your city and load your resources.",
+        "Four: invite the whitelist and go live."
       ]
     },
     {
       "approved": false,
       "id": "b07",
       "lines": [
-        "Civ life needs somewhere to happen first.",
-        "Pick a plan. DDoS protection is included.",
-        "Name your city and let instant setup do the rest.",
+        "Civ life needs a server first. Pick a plan.",
+        "Instant setup does the heavy lifting. DDoS protection included.",
+        "Name your city and add the jobs civs actually work.",
         "Open the doors. Let the mechanics and taxi drivers in."
       ]
     },
@@ -74,9 +74,9 @@
       "approved": false,
       "id": "b08",
       "lines": [
-        "You've written the lore. Now build the city.",
-        "Choose a plan and name the server.",
+        "You've written the lore. Now pick a plan for the city.",
         "It deploys with instant setup. No waiting on tickets.",
+        "Name the server and dress the map to match your story.",
         "Post the invite. Watch city hall fill up."
       ]
     },
@@ -84,9 +84,9 @@
       "approved": false,
       "id": "b09",
       "lines": [
-        "The city you played in shut down. Build the next one.",
-        "Pick a plan and bring your community with you.",
+        "The city you played in shut down. Pick a plan for the next one.",
         "Instant setup, so the move takes one evening.",
+        "Rebuild it your way: name, scripts, and map.",
         "Post the new connect link in the old Discord."
       ]
     },
@@ -94,9 +94,9 @@
       "approved": false,
       "id": "b10",
       "lines": [
-        "No dev team. No config rabbit hole. Just steps.",
-        "Pick a plan that fits your city.",
-        "Name it, deploy, and you're on NVMe hardware.",
+        "No dev team needed. Pick a plan that fits your city.",
+        "Deploy runs itself, and you're on NVMe hardware.",
+        "Name it and tweak the settings without a config rabbit hole.",
         "Invite your staff first. Then open the whitelist."
       ]
     },
@@ -104,19 +104,20 @@
       "approved": false,
       "id": "b11",
       "lines": [
-        "Launch night, minus the panic.",
-        "Pick your plan and name the city.",
-        "DDoS protection is on from the first minute.",
-        "Drop the IP in your announcements channel."
+        "Launch night, minus the panic. Pick your plan.",
+        "Setup handles itself. DDoS protection from the first minute.",
+        "Name the city and lock in your launch-night settings.",
+        "Drop the connect info in your announcements channel."
       ]
     },
     {
       "approved": false,
       "id": "b12",
       "lines": [
-        "Here's the whole process, start to finish.",
-        "Plan, name, deploy. Setup is instant.",
-        "Then it's just you, your rules, and your city."
+        "Here's the whole process, start to finish. Pick a plan.",
+        "Instant setup handles the deploy. Nothing to babysit.",
+        "Make it yours: name, map, scripts, settings.",
+        "Invite your people. Then it's your rules and your city."
       ]
     }
   ],
