@@ -7,7 +7,7 @@ import type { AspectId, Platform, RenderMode, TemplateId } from "../remotion/src
  * post → sidecar → contact sheet → verify.
  *
  * Usage:
- *   tsx scripts/render.ts --template spotlight --game fivem \
+ *   tsx scripts/render.ts --template spotlight --game rust \
  *     [--aspects 9x16,16x9] [--seed 41] [--mode test|production] \
  *     [--music auto|none|<file>] [--platforms tiktok,shorts,reels] \
  *     [--debug-safe-area] [--vo]

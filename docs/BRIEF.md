@@ -71,7 +71,7 @@ C:\dev\siren\
 │       └── Root.tsx
 ├── config/
 │   ├── brand.json           # design tokens (§5)
-│   ├── games/               # fivem.json, gmod.json, rust.json, minecraft.json, …
+│   ├── games/               # gmod.json, rust.json, minecraft.json, …
 │   ├── copy/                # <template>.<game>.json copy banks (§7)
 │   └── render-matrix.json   # what to render (§6.4)
 ├── assets/
@@ -139,29 +139,29 @@ Glow: soft, wide, low-opacity, blue. Reinforces active/CTA states — never deco
 
 ```json
 {
-  "id": "fivem",
-  "displayName": "FiveM",
-  "accent": "#0072ff",
-  "tagline": "Your city. Your rules.",
-  "ctaSlug": "fivem",
-  "pricingFrom": "TODO(frank)",
+  "id": "rust",
+  "displayName": "Rust",
+  "accent": "#e0623d",
+  "tagline": "Survive the wipe.",
+  "ctaSlug": "rust",
+  "pricingFrom": "$20",
   "features": ["Instant setup", "NVMe hardware", "DDoS protection", "TODO(frank): confirm top 4 selling points"],
-  "footageDir": "assets/footage/fivem",
+  "footageDir": "assets/footage/rust",
   "enabled": true
 }
 ```
 
 CTA URL is derived, never hardcoded per video: `https://refx.gg/<ctaSlug>?utm_source=<platform>&utm_medium=video&utm_campaign=siren-<template>`.
 
-Flagship set for all early phases: **fivem, gmod, rust, minecraft**. `TODO(frank): confirm flagship four.` The other 26+ games are config additions later — nothing in the code may special-case a game.
+Flagship set for all early phases: **gmod, rust, minecraft** (see Decisions addendum — FiveM dropped 2026-08-11; fourth slot open). The other 26+ games are config additions later — nothing in the code may special-case a game.
 
 ### 6.2 Copy banks — `config/copy/<template>.<game>.json`
 
 ```json
 {
   "template": "spotlight",
-  "game": "fivem",
-  "hooks":  [{ "id": "h01", "text": "Your city deserves better hosting", "approved": false }],
+  "game": "rust",
+  "hooks":  [{ "id": "h01", "text": "Your server shouldn't die before the wipe does", "approved": false }],
   "bodies": [{ "id": "b01", "lines": ["…"], "approved": false }],
   "ctas":   [{ "id": "c01", "text": "Launch yours at refx.gg", "approved": false }]
 }
@@ -176,8 +176,8 @@ Rules: ≥15 hooks, ≥8 bodies, ≥5 CTAs per bank. Every entry carries `approv
 ```json
 {
   "jobs": [
-    { "template": "spotlight", "game": "fivem", "aspects": ["9x16", "16x9"],
-      "seed": 41, "vo": false, "music": "auto", "platforms": ["tiktok", "shorts", "reels"] }
+    { "template": "spotlight", "game": "rust", "aspects": ["9x16", "16x9"],
+      "seed": 43, "vo": false, "music": "auto", "platforms": ["tiktok", "shorts", "reels"] }
   ]
 }
 ```
@@ -294,7 +294,7 @@ No platform APIs, uploading, scheduling, or analytics dashboards. No account aut
 
 1. Repo path `C:\dev\siren` confirmed?
 2. Remotion license (≤3-person company free tier vs. paid).
-3. Flagship four confirmed: fivem / gmod / rust / minecraft?
+3. ~~Flagship four confirmed?~~ **Decided 2026-08-11: gmod / rust / minecraft.** FiveM dropped — offering FiveM hosting risks breaching the CFX/Rockstar ToS. Optional fourth flagship TBD (candidates from the ReFxHosting catalog: Palworld, ARK, Satisfactory).
 4. Per-game `pricingFrom` + top-4 feature claims (only these may appear in videos).
 5. Fonts: Space Grotesk + Inter, or swap?
 6. VO default stays OFF (captions + music only)?
@@ -314,3 +314,10 @@ Review artifacts from `out/review/` are the approval surface — contact sheets 
 ---
 
 *End of brief. Anything ambiguous: prefer the restrained option, log the question in the phase report, and keep moving.*
+
+---
+
+## Addendum — decisions log
+
+- **2026-08-11 · FiveM removed from SIREN entirely** (Frank): refx.gg will not offer FiveM hosting — doing so risks breaching the CFX/Rockstar ToS. No SIREN output may reference FiveM. Flagship set is gmod / rust / minecraft; a fourth flagship may be chosen later.
+- **2026-08-11 · Pricing resolved** from the public ReFxHosting repo seed/reprice pipeline ($5/GB/mo × Low-tier RAM): gmod $10 · rust $20 · minecraft $10.

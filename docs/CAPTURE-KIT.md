@@ -32,17 +32,6 @@ Recording tips that make the edit look intentional:
 
 ## Per-game shot lists
 
-### FiveM (8–12 clips)
-1. Establishing: skyline drone-style pan (freecam), night with neon.
-2. Establishing: slow drive through downtown traffic.
-3. Action: police traffic stop scene, lights on.
-4. Action: EMS response / fire scene.
-5. Action: street race corner pass.
-6. Life: crowd outside a club / market RP.
-7. Life: mechanic shop working on a car.
-8. UI moment: character select / spawn screen (clean UI).
-9. Screen capture: refx.gg panel — order FiveM server → live console.
-
 ### Garry's Mod (8–12 clips)
 1. Establishing: gm_construct / flatgrass slow pan.
 2. Action: physgun lifting + welding a contraption.

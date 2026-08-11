@@ -10,7 +10,7 @@ import { runJob, verifyVideo, type JobRequest, type JobResult } from "./lib/pipe
  * (renders are CPU-bound), resumable, with a consolidated QA report.
  *
  *   tsx scripts/render-matrix.ts [--mode test|production] [--skip-existing]
- *     [--only spotlight.fivem,hype.*] [--out-root out] [--verify-only]
+ *     [--only spotlight.rust,hype.*] [--out-root out] [--verify-only]
  *
  * --verify-only re-runs the §9.9 ffprobe checks against today's existing
  * outputs for every matrix job without rendering, and rewrites QA-MATRIX.md

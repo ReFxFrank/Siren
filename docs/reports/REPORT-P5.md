@@ -15,5 +15,5 @@
 
 1. Approve copy (`docs/reports/REVIEW-COPY.md`; 0/583 approved).
 2. Real footage per `docs/CAPTURE-KIT.md` + music/LICENSES.md drop-in.
-3. Confirm features top-4 per game (`config/games/*.json` — last TODO(frank) in configs; pricing now resolved from the ReFxHosting repo: fivem $15 / gmod $10 / rust $20 / minecraft $10).
+3. Confirm features top-4 per game (`config/games/*.json` — last TODO(frank) in configs; pricing now resolved from the ReFxHosting repo: gmod $10 / rust $20 / minecraft $10).
 4. Remotion license check, then `npx tsx scripts/render-matrix.ts --mode production`.

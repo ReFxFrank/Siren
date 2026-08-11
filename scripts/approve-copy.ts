@@ -7,10 +7,10 @@ import { run } from "./lib/run";
 /**
  * §7.2 step 3: flip approval flags from a chat instruction.
  *
- *   tsx scripts/approve-copy.ts spotlight.fivem --approve h01,h02,b03
- *   tsx scripts/approve-copy.ts spotlight.fivem --all
- *   tsx scripts/approve-copy.ts spotlight.fivem --all-except h07,h12
- *   tsx scripts/approve-copy.ts spotlight.fivem --revoke c02
+ *   tsx scripts/approve-copy.ts spotlight.rust --approve h01,h02,b03
+ *   tsx scripts/approve-copy.ts spotlight.rust --all
+ *   tsx scripts/approve-copy.ts spotlight.rust --all-except h07,h12
+ *   tsx scripts/approve-copy.ts spotlight.rust --revoke c02
  *
  * Re-lints the bank after flipping and regenerates REVIEW-COPY.md.
  */

@@ -1,60 +1,11 @@
 # SIREN copy banks — review & approval
 
-_Generated 2026-08-11 03:38Z · flip approvals via:_
+_Generated 2026-08-11 03:41Z · flip approvals via:_
 `tsx scripts/approve-copy.ts <template>.<game> --approve h01,b02` _(or `--all`, `--all-except id,…`, `--revoke id,…`)_
 
 Production renders only use ☑ entries. Test renders may use any entry but stay watermarked.
-**Status: 0/583 entries approved.**
+**Status: 0/434 entries approved.**
 
-
-## spotlight · FiveM
-
-**Hooks**
-
-- ☐ `h01` Your city deserves better than lag
-- ☐ `h02` Build the city nobody logs out of
-- ☐ `h03` You're not a player. You run the city
-- ☐ `h04` What the serious RP cities run on
-- ☐ `h05` Whitelists fill when the city runs right
-- ☐ `h06` Nothing breaks immersion like a server hitch
-- ☐ `h07` Your whitelist is full. Is your server?
-- ☐ `h08` Your city has a reputation. Protect it
-- ☐ `h09` Own the city. Skip the server headaches
-- ☐ `h10` Your players notice when the city stutters
-- ☐ `h11` Departments, civs, gangs. One server holds it
-- ☐ `h12` Stop apologizing in your Discord announcements
-- ☐ `h13` You write the lore. We keep it live
-- ☐ `h14` Here's what your city should run on
-- ☐ `h15` DDoS kids don't get to end your RP
-- ☐ `h16` Months of dev work. Don't launch it scuffed
-- ☐ `h17` From idea to live city, instantly
-- ☐ `h18` Somebody has to run city hall
-
-**Bodies (lines shown ⏵-joined — they render as sequential captions)**
-
-- ☐ `b01` Your city, live from the moment you launch. ⏵ Instant setup. No tickets, no waiting room. ⏵ NVMe hardware keeps every scene loading fast. ⏵ DDoS protection stands guard while you RP.
-- ☐ `b02` Immersion dies the second the server stutters. ⏵ So we built hosting that stays out of the story. ⏵ NVMe hardware. DDoS protection. Instant setup. ⏵ Your players stay in character. So does your server.
-- ☐ `b03` The whitelist apps keep coming. ⏵ Give them a city worth the application. ⏵ Smooth streets, fast loads, no drama. ⏵ Built on NVMe hardware, front to back.
-- ☐ `b04` PD rolls out. EMS responds. Civs live their lives. ⏵ One server carries the whole city. ⏵ NVMe hardware handles the load. ⏵ DDoS protection handles the rest.
-- ☐ `b05` You built the lore, the laws, the whitelist. ⏵ The last thing you need is server babysitting. ⏵ Instant setup gets your city standing. ⏵ We keep the lights on. You run the town.
-- ☐ `b06` Someone always wants to knock the city offline. ⏵ DDoS protection means they don't get the satisfaction. ⏵ Your RP continues. Their evening is wasted.
-- ☐ `b07` New city? Launch it while the idea is hot. ⏵ Instant setup, straight to the city you planned. ⏵ NVMe hardware under every street. ⏵ All that's left is the roleplay.
-- ☐ `b08` Players forgive a lot. Lag isn't on the list. ⏵ Fast hardware is the difference they can feel. ⏵ NVMe under the hood, protection at the door. ⏵ Your city, running the way you imagined.
-- ☐ `b09` Every heist, every traffic stop, every court date. ⏵ The server should never be the reason a scene dies. ⏵ NVMe hardware. DDoS protection. No fuss. ⏵ You direct. The server keeps up.
-- ☐ `b10` Your city is growing. Good problem to have. ⏵ Hosting that keeps pace as the whitelist fills. ⏵ NVMe hardware keeps the city quick at rush hour. ⏵ Room to build the districts you're planning.
-- ☐ `b11` Staff tickets. Ban appeals. Gang beef in Discord. ⏵ Running a city is enough work already. ⏵ Hosting is the one part that runs itself.
-- ☐ `b12` Your rules. Your economy. Your city limits. ⏵ We just make sure the ground never moves. ⏵ Instant setup, NVMe hardware, DDoS protection. ⏵ Everything else is yours to write.
-
-**CTAs**
-
-- ☐ `c01` Launch your city at refx.gg
-- ☐ `c02` Build yours at refx.gg
-- ☐ `c03` Start your server at refx.gg
-- ☐ `c04` Claim your city at refx.gg
-- ☐ `c05` Break ground at refx.gg
-- ☐ `c06` Put your city on the map
-- ☐ `c07` Go live at refx.gg
-- ☐ `c08` Move your city to refx.gg
 
 ## spotlight · Garry's Mod
 
@@ -201,53 +152,6 @@ Production renders only use ☑ entries. Test renders may use any entry but stay
 - ☐ `c07` Give your clan a home. refx.gg
 - ☐ `c08` Stand up your server. refx.gg
 
-## tutorial60 · FiveM
-
-**Hooks**
-
-- ☐ `h01` Host a FiveM server in 60 seconds
-- ☐ `h02` Your Discord is ready. Your city isn't
-- ☐ `h03` You run the city, not the server
-- ☐ `h04` The hard part of RP isn't hosting
-- ☐ `h05` Your whitelist is about to get longer
-- ☐ `h06` Every big RP city started like this
-- ☐ `h07` Your PD needs somewhere to clock in
-- ☐ `h08` Civ life needs a city first
-- ☐ `h09` Three steps between you and your city
-- ☐ `h10` Your friends keep asking for the server IP
-- ☐ `h11` Founding a city takes less than you think
-- ☐ `h12` You don't need a dev to launch
-- ☐ `h13` Tonight's session could be on your server
-- ☐ `h14` Your city, your rules, your ban list
-- ☐ `h15` Someone built every city you play in
-- ☐ `h16` Watch a FiveM server go live
-- ☐ `h17` Still waiting on a host ticket?
-- ☐ `h18` Stop planning your city. Deploy it
-
-**Bodies (lines shown ⏵-joined — they render as sequential captions)**
-
-- ☐ `b01` Pick a FiveM plan on refx.gg. ⏵ Instant setup has it live before you alt-tab back. ⏵ Name your city and load the scripts you actually want. ⏵ Drop the connect info in your Discord.
-- ☐ `b02` Pick a plan. That's the whole first step. ⏵ Instant setup means you're live tonight, not next week. ⏵ Name it after the city you've been planning. ⏵ Open the whitelist and approve your first citizens.
-- ☐ `b03` Departments need somewhere to clock in. Pick a plan. ⏵ The panel deploys it. DDoS protection from minute one. ⏵ Name your city and set up PD, EMS, and dispatch. ⏵ Send the invite. Roll out your first patrol.
-- ☐ `b04` Hosting a FiveM server sounds harder than it is. Pick a plan. ⏵ Your server deploys itself on NVMe hardware. ⏵ Name the city and load your framework and scripts. ⏵ Open the whitelist and start session zero.
-- ☐ `b05` Your friends want a city. Start by picking a plan on refx.gg. ⏵ Setup is instant, so nobody waits around. ⏵ Name the server and pick the mods your crew asked for. ⏵ Share the connect link and start session one.
-- ☐ `b06` Sixty seconds, four steps. One: pick your plan. ⏵ Two: instant setup deploys it while you watch. ⏵ Three: name your city and load your resources. ⏵ Four: invite the whitelist and go live.
-- ☐ `b07` Civ life needs a server first. Pick a plan. ⏵ Instant setup does the heavy lifting. DDoS protection included. ⏵ Name your city and add the jobs civs actually work. ⏵ Open the doors. Let the mechanics and taxi drivers in.
-- ☐ `b08` You've written the lore. Now pick a plan for the city. ⏵ It deploys with instant setup. No waiting on tickets. ⏵ Name the server and dress the map to match your story. ⏵ Post the invite. Watch city hall fill up.
-- ☐ `b09` The city you played in shut down. Pick a plan for the next one. ⏵ Instant setup, so the move takes one evening. ⏵ Rebuild it your way: name, scripts, and map. ⏵ Post the new connect link in the old Discord.
-- ☐ `b10` No dev team needed. Pick a plan that fits your city. ⏵ Deploy runs itself, and you're on NVMe hardware. ⏵ Name it and tweak the settings without a config rabbit hole. ⏵ Invite your staff first. Then open the whitelist.
-- ☐ `b11` Launch night, minus the panic. Pick your plan. ⏵ Setup handles itself. DDoS protection from the first minute. ⏵ Name the city and lock in your launch-night settings. ⏵ Drop the connect info in your announcements channel.
-- ☐ `b12` Here's the whole process, start to finish. Pick a plan. ⏵ Instant setup handles the deploy. Nothing to babysit. ⏵ Make it yours: name, map, scripts, settings. ⏵ Invite your people. Then it's your rules and your city.
-
-**CTAs**
-
-- ☐ `c01` Launch your city at refx.gg
-- ☐ `c02` Start your server at refx.gg
-- ☐ `c03` Go live tonight
-- ☐ `c04` See plans at refx.gg
-- ☐ `c05` Deploy yours at refx.gg
-- ☐ `c06` Claim your city at refx.gg
-
 ## tutorial60 · Garry's Mod
 
 **Hooks**
@@ -385,53 +289,6 @@ Production renders only use ☑ entries. Test renders may use any entry but stay
 - ☐ `c04` Host your clan at refx.gg
 - ☐ `c05` Spin one up at refx.gg
 - ☐ `c06` Claim your server at refx.gg
-
-## priceflex · FiveM
-
-**Hooks**
-
-- ☐ `h01` Lag kills RP faster than any ban
-- ☐ `h02` Grow the city, not the bill
-- ☐ `h03` Pay for the city you have now
-- ☐ `h04` Scale when the whitelist fills up
-- ☐ `h05` DDoS protection isn't a premium add-on
-- ☐ `h06` NVMe on the smallest tier too
-- ☐ `h07` The part of RP nobody streams
-- ☐ `h08` Stop apologizing in your Discord announcements
-- ☐ `h09` Built for owners, not tourists
-- ☐ `h10` Someday your city has a waitlist
-- ☐ `h11` Your host shouldn't be the villain
-- ☐ `h12` Big cities started on small tiers
-- ☐ `h13` Instant setup, then straight to city hall
-- ☐ `h14` Give your departments a real precinct
-- ☐ `h15` Tsunami by choice, not by crash
-- ☐ `h16` Tiers change. The feature list doesn't
-- ☐ `h17` Run the city, not the server
-- ☐ `h18` Good hosting is boring on purpose
-
-**Bodies (lines shown ⏵-joined — they render as sequential captions)**
-
-- ☐ `b01` Start with a small city and a big idea. ⏵ Scale the server when the whitelist fills. ⏵ Same NVMe hardware at every tier. ⏵ Your city grows. Your host keeps up.
-- ☐ `b02` Every tier gets the full kit. ⏵ Instant setup. NVMe hardware. DDoS protection. ⏵ Nothing held back for the top tier. ⏵ Pick a size. Everything's included.
-- ☐ `b03` Your civs log in for the story. ⏵ They log out when the city stutters. ⏵ NVMe hardware keeps the story moving. ⏵ Host like the city depends on it. It does.
-- ☐ `b04` Someone will test your city's defenses. ⏵ DDoS protection comes standard. ⏵ Not an upsell. Not an add-on. ⏵ Your city stays open for business.
-- ☐ `b05` You run the whitelist, the drama, the departments. ⏵ The last thing you need is hosting drama too. ⏵ Instant setup. Then back to building your city.
-- ☐ `b06` Big-city dreams don't need a big-city budget. ⏵ Start on a small tier. Keep every feature. ⏵ Upgrade when the queue outgrows the map. ⏵ Growth should feel like a win, not a bill.
-- ☐ `b07` Every big RP city started as a lobby of friends. ⏵ Yours starts the same way. ⏵ Small tier now. Room to grow built in. ⏵ Build the city people beg to get whitelisted into.
-- ☐ `b08` Instant setup, so the city opens fast. ⏵ NVMe hardware, so scenes load before the RP dies. ⏵ DDoS protection, so drama stays in character. ⏵ That's the kit. Every tier. Every city.
-- ☐ `b09` Your PD runs shifts. Your EMS runs calls. ⏵ Your civs run whole lives in your city. ⏵ They all count on the server underneath. ⏵ Give them ground that holds.
-- ☐ `b10` You've apologized in Discord enough. ⏵ Downtime posts are not a personality. ⏵ Move the city to hosting built for RP. ⏵ Instant setup means the move is short.
-- ☐ `b11` You're not renting a box in a rack. ⏵ You're running an economy, a PD, a nightlife. ⏵ Hosting is the ground your city stands on. ⏵ Make it solid. Keep it simple.
-- ☐ `b12` Cities have seasons. Budgets do too. ⏵ Drop a tier when the city gets quiet. ⏵ Climb back up when the whitelist wakes. ⏵ Flexible means both directions.
-
-**CTAs**
-
-- ☐ `c01` Launch your city at refx.gg
-- ☐ `c02` Start small at refx.gg
-- ☐ `c03` Pick your tier at refx.gg
-- ☐ `c04` Open the city gates at refx.gg
-- ☐ `c05` Scale your server at refx.gg
-- ☐ `c06` Move your city to refx.gg
 
 ## priceflex · Garry's Mod
 
@@ -574,56 +431,6 @@ Production renders only use ☑ entries. Test renders may use any entry but stay
 - ☐ `c06` Get wipe-ready at refx.gg
 - ☐ `c07` Pick your size at refx.gg
 - ☐ `c08` Build your server at refx.gg
-
-## hype · FiveM
-
-**Hooks**
-
-- ☐ `h01` Your city opens tonight
-- ☐ `h02` Launch night. Full lobby. No panic
-- ☐ `h03` The whitelist closes at midnight
-- ☐ `h04` Every launch night has one weak link
-- ☐ `h05` Nobody remembers a laggy launch fondly
-- ☐ `h06` Your Discord is counting down. Are you?
-- ☐ `h07` Season two of your city starts tonight
-- ☐ `h08` Wipe day is a second first impression
-- ☐ `h09` Big cities don't run on luck
-- ☐ `h10` One rough night empties a whitelist
-- ☐ `h11` PD staged. EMS ready. And you?
-- ☐ `h12` The queue starts before the server does
-- ☐ `h13` Launch day separates cities from servers
-- ☐ `h14` Your first hour decides your first month
-- ☐ `h15` Somewhere a rival city just went live
-- ☐ `h16` Countdown's live. Is your hardware?
-- ☐ `h17` Great RP needs a server that holds
-- ☐ `h18` New city smell doesn't survive downtime
-- ☐ `h19` The only tsunami should be scheduled
-- ☐ `h20` Build the city nobody wants to leave
-
-**Bodies (lines shown ⏵-joined — they render as sequential captions)**
-
-- ☐ `b01` Wipe night. Fresh economy. Full queue. ⏵ Your server either holds or it doesn't. ⏵ NVMe hardware. DDoS protection. ⏵ Yours holds.
-- ☐ `b02` The timer runs out. ⏵ The city wakes up. ⏵ PD clocks in. Civs roll out. ⏵ And the server doesn't blink.
-- ☐ `b03` You planned the lore. ⏵ You vetted the whitelist. ⏵ The hosting is the easy part. ⏵ Instant setup. Live before doubt sets in.
-- ☐ `b04` Launch night traffic looks a lot like an attack. ⏵ Sometimes it is one. ⏵ DDoS protection stands at the door. ⏵ Your city stays open.
-- ☐ `b05` Economy wipe tonight. ⏵ Fresh bank accounts. Fresh grudges. ⏵ The only thing that shouldn't feel new? ⏵ The server underneath it all.
-- ☐ `b06` Everyone remembers where they were at launch. ⏵ Make sure it wasn't a loading screen. ⏵ NVMe hardware keeps the city moving. ⏵ Doors open tonight.
-- ☐ `b07` Your Discord has been counting down for a week. ⏵ Tonight you deliver. ⏵ Instant setup. NVMe hardware. DDoS protection. ⏵ The city is yours to open.
-- ☐ `b08` Rival cities launch every weekend. ⏵ Most stumble out of the gate. ⏵ Yours opens clean and keeps the pace. ⏵ That's the whole pitch.
-- ☐ `b09` A relaunch is a promise. ⏵ Everything old is gone. Everything slow goes too. ⏵ New city. Same address. ⏵ Tonight it counts.
-- ☐ `b10` You set the launch date. ⏵ You cut the trailer. ⏵ Don't let the hardware write the ending. ⏵ NVMe hardware. DDoS protection. Done.
-- ☐ `b11` The whitelist is checked twice. ⏵ The departments are staffed. ⏵ The economy is balanced. ⏵ The server is the last box. Tick it.
-- ☐ `b12` Midnight launch. ⏵ The whole city in queue. ⏵ This is the part you can't retake. ⏵ Host it on hardware that shows up.
-
-**CTAs**
-
-- ☐ `c01` Launch your city at refx.gg
-- ☐ `c02` Go live tonight at refx.gg
-- ☐ `c03` Start your server at refx.gg
-- ☐ `c04` Get wipe-ready at refx.gg
-- ☐ `c05` Host launch night at refx.gg
-- ☐ `c06` Open the doors at refx.gg
-- ☐ `c07` Skip the setup at refx.gg
 
 ## hype · Garry's Mod
 

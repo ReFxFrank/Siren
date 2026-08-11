@@ -1,4 +1,4 @@
-import fivem from "../../../config/games/fivem.json";
+import rust from "../../../config/games/rust.json";
 import { t1CaptionCues, T1 } from "../templates/T1Spotlight/beats";
 import { t2CaptionCues, T2 } from "../templates/T2Tutorial60/beats";
 import { t3CaptionCues, T3 } from "../templates/T3PriceFlex/beats";
@@ -14,12 +14,12 @@ const TEMPLATE_DEMO: Record<TemplateId, { durationSec: number; cues: (lines: str
 };
 
 /**
- * Studio-preview job: real fivem config, temp copy, no footage (the
+ * Studio-preview job: real rust config, temp copy, no footage (the
  * BackgroundFootage fallback renders the dark base). Never used by
  * render.ts — the assemble stage builds real jobs.
  */
 export function demoJob(aspect: AspectId, template: TemplateId = "spotlight"): AssembledJob {
-  const game = fivem as GameConfig;
+  const game = rust as GameConfig;
   const bank = tempBank(template, game);
   const body = bank.bodies[0]!;
   const spec = TEMPLATE_DEMO[template];

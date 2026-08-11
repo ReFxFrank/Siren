@@ -46,7 +46,6 @@ const DEMO_CUE: CaptionCue = {
 };
 
 const GAME_ACCENTS: Array<[string, string]> = [
-  ["FiveM", "#0072ff"],
   ["Garry's Mod", "#f2a33c"],
   ["Rust", "#e0623d"],
   ["Minecraft", "#5fb65c"],

@@ -1,19 +1,15 @@
 {
   "maxProductionPerDayPerPlatform": 3,
   "jobs": [
-    { "template": "spotlight", "game": "fivem", "aspects": ["9x16", "16x9"], "seed": 41, "vo": false, "music": "auto", "platforms": ["tiktok", "shorts", "reels"] },
     { "template": "spotlight", "game": "gmod", "aspects": ["9x16", "16x9"], "seed": 42, "vo": false, "music": "auto", "platforms": ["tiktok", "shorts", "reels"] },
     { "template": "spotlight", "game": "rust", "aspects": ["9x16", "16x9"], "seed": 43, "vo": false, "music": "auto", "platforms": ["tiktok", "shorts", "reels"] },
     { "template": "spotlight", "game": "minecraft", "aspects": ["9x16", "16x9"], "seed": 44, "vo": false, "music": "auto", "platforms": ["tiktok", "shorts", "reels"] },
-    { "template": "tutorial60", "game": "fivem", "aspects": ["9x16", "16x9"], "seed": 41, "vo": false, "music": "auto", "platforms": ["tiktok", "shorts", "reels"] },
     { "template": "tutorial60", "game": "gmod", "aspects": ["9x16", "16x9"], "seed": 42, "vo": false, "music": "auto", "platforms": ["tiktok", "shorts", "reels"] },
     { "template": "tutorial60", "game": "rust", "aspects": ["9x16", "16x9"], "seed": 43, "vo": false, "music": "auto", "platforms": ["tiktok", "shorts", "reels"] },
     { "template": "tutorial60", "game": "minecraft", "aspects": ["9x16", "16x9"], "seed": 44, "vo": false, "music": "auto", "platforms": ["tiktok", "shorts", "reels"] },
-    { "template": "priceflex", "game": "fivem", "aspects": ["9x16", "16x9"], "seed": 41, "vo": false, "music": "auto", "platforms": ["tiktok", "shorts", "reels"] },
     { "template": "priceflex", "game": "gmod", "aspects": ["9x16", "16x9"], "seed": 42, "vo": false, "music": "auto", "platforms": ["tiktok", "shorts", "reels"] },
     { "template": "priceflex", "game": "rust", "aspects": ["9x16", "16x9"], "seed": 43, "vo": false, "music": "auto", "platforms": ["tiktok", "shorts", "reels"] },
     { "template": "priceflex", "game": "minecraft", "aspects": ["9x16", "16x9"], "seed": 44, "vo": false, "music": "auto", "platforms": ["tiktok", "shorts", "reels"] },
-    { "template": "hype", "game": "fivem", "aspects": ["9x16", "16x9"], "seed": 41, "vo": false, "music": "auto", "platforms": ["tiktok", "shorts", "reels"] },
     { "template": "hype", "game": "gmod", "aspects": ["9x16", "16x9"], "seed": 42, "vo": false, "music": "auto", "platforms": ["tiktok", "shorts", "reels"] },
     { "template": "hype", "game": "rust", "aspects": ["9x16", "16x9"], "seed": 43, "vo": false, "music": "auto", "platforms": ["tiktok", "shorts", "reels"] },
     { "template": "hype", "game": "minecraft", "aspects": ["9x16", "16x9"], "seed": 44, "vo": false, "music": "auto", "platforms": ["tiktok", "shorts", "reels"] }
