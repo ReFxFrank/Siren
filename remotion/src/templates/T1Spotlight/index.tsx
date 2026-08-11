@@ -1,4 +1,4 @@
-import { AbsoluteFill, Audio, Sequence, interpolate, staticFile, useCurrentFrame } from "remotion";
+import { AbsoluteFill, Sequence, useCurrentFrame } from "remotion";
 import { layoutFor, type AspectLayout } from "../../lib/aspect";
 import { activeCue } from "../../lib/captions";
 import { enter, FPS, progress, sec } from "../../lib/timing";
@@ -12,6 +12,7 @@ import { EyebrowLabel } from "../../design/EyebrowLabel";
 import { FeatureCard } from "../../design/FeatureCard";
 import { GlassPanel } from "../../design/GlassPanel";
 import { GlowText } from "../../design/GlowText";
+import { MusicBed } from "../../design/MusicBed";
 import { SafeAreaOverlay } from "../../design/SafeAreaOverlay";
 import { brand, C, font } from "../../design/theme";
 import { Watermark } from "../../design/Watermark";
@@ -199,25 +200,6 @@ const Captions: React.FC<{ job: AssembledJob; layout: AspectLayout }> = ({ job, 
   );
 };
 
-const MusicBed: React.FC<{ job: AssembledJob }> = ({ job }) => {
-  if (!job.musicFile) return null;
-  const total = sec(job.durationSec);
-  return (
-    <Audio
-      src={staticFile(`music/${job.musicFile}`)}
-      volume={(f) =>
-        interpolate(
-          f,
-          // Fade in, duck slightly under the CTA beat, fade out at the end.
-          [0, sec(0.6), sec(T1.cta.start - 0.4), sec(T1.cta.start + 0.4), total - sec(0.8), total],
-          [0, 0.85, 0.85, 0.6, 0.6, 0],
-          { extrapolateLeft: "clamp", extrapolateRight: "clamp" },
-        )
-      }
-    />
-  );
-};
-
 export const T1Spotlight: React.FC<{ job: AssembledJob }> = ({ job }) => {
   const layout = layoutFor(job.aspect, brand);
   return (
@@ -254,7 +236,7 @@ export const T1Spotlight: React.FC<{ job: AssembledJob }> = ({ job }) => {
       </Sequence>
 
       <Captions job={job} layout={layout} />
-      <MusicBed job={job} />
+      <MusicBed musicFile={job.musicFile} durationSec={job.durationSec} duckAtSec={T1.cta.start} />
 
       {job.mode !== "production" ? <Watermark /> : null}
       {job.debugSafeArea ? <SafeAreaOverlay layout={layout} /> : null}
