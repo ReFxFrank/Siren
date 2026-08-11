@@ -4,14 +4,19 @@
   "accent": "#0072ff",
   "tagline": "Your city. Your rules.",
   "ctaSlug": "fivem",
-  "pricingFrom": "TODO(frank)",
+  "pricingFrom": "$15",
   "features": [
     "Instant setup",
     "NVMe hardware",
     "DDoS protection",
     "TODO(frank): confirm top 4 selling points"
   ],
-  "hashtags": ["#fivem", "#fivemrp", "#gtarp", "#serverhosting"],
+  "hashtags": [
+    "#fivem",
+    "#fivemrp",
+    "#gtarp",
+    "#serverhosting"
+  ],
   "footageDir": "assets/footage/fivem",
   "enabled": true
 }

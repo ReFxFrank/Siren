@@ -4,14 +4,19 @@
   "accent": "#5fb65c",
   "tagline": "Your world, always on.",
   "ctaSlug": "minecraft",
-  "pricingFrom": "TODO(frank)",
+  "pricingFrom": "$10",
   "features": [
     "Instant setup",
     "NVMe hardware",
     "DDoS protection",
     "TODO(frank): confirm top 4 selling points"
   ],
-  "hashtags": ["#minecraft", "#minecraftserver", "#smp", "#serverhosting"],
+  "hashtags": [
+    "#minecraft",
+    "#minecraftserver",
+    "#smp",
+    "#serverhosting"
+  ],
   "footageDir": "assets/footage/minecraft",
   "enabled": true
 }
