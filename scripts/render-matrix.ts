@@ -1,16 +1,20 @@
-import { existsSync, mkdirSync, writeFileSync } from "node:fs";
+import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import { join, resolve } from "node:path";
 import type { RenderMode } from "../remotion/src/lib/types";
 import { loadMatrix, validateAll } from "./lib/configs";
 import { REPO_ROOT } from "./lib/env";
-import { runJob, type JobRequest, type JobResult } from "./lib/pipeline";
+import { runJob, verifyVideo, type JobRequest, type JobResult } from "./lib/pipeline";
 
 /**
  * Phase 5 batch runner (§10): the whole matrix in one command, sequential
  * (renders are CPU-bound), resumable, with a consolidated QA report.
  *
  *   tsx scripts/render-matrix.ts [--mode test|production] [--skip-existing]
- *     [--only spotlight.fivem,hype.*] [--out-root out]
+ *     [--only spotlight.fivem,hype.*] [--out-root out] [--verify-only]
+ *
+ * --verify-only re-runs the §9.9 ffprobe checks against today's existing
+ * outputs for every matrix job without rendering, and rewrites QA-MATRIX.md
+ * — the standalone QA harness pass.
  */
 const arg = (name: string, fallback?: string): string | undefined => {
   const i = process.argv.indexOf(`--${name}`);
@@ -53,7 +57,30 @@ const date = new Date().toISOString().slice(0, 10);
 const results: JobResult[] = [];
 let failed = 0;
 
-for (const job of jobs) {
+if (flag("verify-only")) {
+  for (const job of jobs) {
+    const videos: JobResult["videos"] = [];
+    for (const aspect of job.aspects) {
+      const base = `${job.template}.${job.game}.${aspect}.s${job.seed}.${mode}`;
+      const videoPath = join(resolve(REPO_ROOT, outRoot), date, job.game, `${base}.mp4`);
+      if (!existsSync(videoPath)) {
+        videos.push({ aspect, videoPath, sidecarPath: "", manifestPath: "", sheetPath: "", renderSeconds: 0, checks: [{ name: "exists", pass: false, detail: "missing output" }], pass: false });
+        continue;
+      }
+      const sidecarPath = videoPath.replace(/\.mp4$/, ".sidecar.json");
+      const hasMusic = existsSync(sidecarPath) && (JSON.parse(readFileSync(sidecarPath, "utf8")) as { music: string | null }).music !== null;
+      const checks = await verifyVideo(videoPath, job.template, aspect, hasMusic);
+      checks.push({ name: "sidecar", pass: existsSync(sidecarPath), detail: "sidecar present" });
+      videos.push({ aspect, videoPath, sidecarPath, manifestPath: videoPath.replace(/\.mp4$/, ".manifest.json"), sheetPath: "", renderSeconds: 0, checks, pass: checks.every((c) => c.pass) });
+    }
+    const pass = videos.every((v) => v.pass);
+    if (!pass) failed += 1;
+    console.log(`${pass ? "✓" : "✗"} verify ${job.template}.${job.game}`);
+    results.push({ request: { template: job.template, game: job.game, aspects: job.aspects, seed: job.seed, mode, music: job.music, platforms: job.platforms, outRoot }, videos, pass });
+  }
+}
+
+for (const job of flag("verify-only") ? [] : jobs) {
   const aspects = job.aspects.filter((aspect) => {
     if (!skipExisting) return true;
     const path = join(resolve(REPO_ROOT, outRoot), date, job.game, `${job.template}.${job.game}.${aspect}.s${job.seed}.${mode}.mp4`);
