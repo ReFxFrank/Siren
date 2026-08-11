@@ -1,0 +1,17 @@
+{
+  "id": "palworld",
+  "displayName": "Palworld",
+  "accent": "#45c0b2",
+  "tagline": "Tame the island together.",
+  "ctaSlug": "palworld",
+  "pricingFrom": "$30",
+  "features": [
+    "Instant setup",
+    "NVMe hardware",
+    "DDoS protection",
+    "TODO(frank): confirm top 4 selling points"
+  ],
+  "hashtags": ["#palworld", "#palworldserver", "#coopgaming", "#serverhosting"],
+  "footageDir": "assets/footage/palworld",
+  "enabled": true
+}

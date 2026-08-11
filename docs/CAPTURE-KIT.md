@@ -52,6 +52,16 @@ Recording tips that make the edit look intentional:
 7. Life: boat/heli traversal along coast.
 8. Screen capture: refx.gg panel — order Rust server → wipe schedule config.
 
+### Palworld (8–12 clips)
+1. Establishing: island vista pan at dawn from a high ridge.
+2. Establishing: base overview with Pals working (farm, logging, assembly line).
+3. Action: group boss/tower fight moment.
+4. Action: catching a Pal — sphere throw and capture.
+5. Action: mounted traversal — flying or ground mount across terrain.
+6. Life: breeding farm / ranch with Pals wandering.
+7. Life: night base defense against a raid.
+8. Screen capture: refx.gg panel — order Palworld server → world settings → live.
+
 ### Minecraft (8–12 clips)
 1. Establishing: world flyover (elytra or spectator) over a build.
 2. Establishing: village/base at sunset, shaders if smooth.
