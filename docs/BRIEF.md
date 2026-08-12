@@ -151,7 +151,7 @@ Glow: soft, wide, low-opacity, blue. Reinforces active/CTA states — never deco
 }
 ```
 
-CTA URL is derived, never hardcoded per video: `https://refx.gg/<ctaSlug>?utm_source=<platform>&utm_medium=video&utm_campaign=siren-<template>`.
+CTA URL is derived, never hardcoded per video: `https://refx.gg/games/<ctaSlug>?utm_source=<platform>&utm_medium=video&utm_campaign=siren-<template>` — `ctaSlug` must be the site's product slug (route verified against the ReFxHosting app router: game pages live at `/games/[slug]`).
 
 Flagship set for all early phases: **gmod, rust, minecraft** (see Decisions addendum — FiveM dropped 2026-08-11; fourth slot open). The other 26+ games are config additions later — nothing in the code may special-case a game.
 
@@ -321,3 +321,4 @@ Review artifacts from `out/review/` are the approval surface — contact sheets 
 
 - **2026-08-11 · FiveM removed from SIREN entirely** (Frank): refx.gg will not offer FiveM hosting — doing so risks breaching the CFX/Rockstar ToS. No SIREN output may reference FiveM. Flagship set is gmod / rust / minecraft; a fourth flagship may be chosen later.
 - **2026-08-11 · Pricing resolved** from the public ReFxHosting repo seed/reprice pipeline ($5/GB/mo × Low-tier RAM): gmod $10 · rust $20 · minecraft $10.
+- **2026-08-11 · CTA links corrected to real routes** (Frank flagged refx.gg/rust 404ing): links now point to `refx.gg/games/<slug>` and gmod's slug is the site's `garrys-mod`. On-screen URLs and sidecar UTM links share one helper (`remotion/src/lib/cta.ts`).

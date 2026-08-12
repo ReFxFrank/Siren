@@ -1,5 +1,6 @@
 import { AbsoluteFill, Sequence, useCurrentFrame } from "remotion";
 import { layoutFor, type AspectLayout } from "../../lib/aspect";
+import { ctaDisplayUrl } from "../../lib/cta";
 import { activeCue } from "../../lib/captions";
 import { enter, progress, sec } from "../../lib/timing";
 import type { AssembledJob, FootageClip } from "../../lib/types";
@@ -120,7 +121,7 @@ const SceneCta: React.FC<{ job: AssembledJob; layout: AspectLayout }> = ({ job, 
       <AbsoluteFill style={{ alignItems: "center", justifyContent: "center" }}>
         <div style={{ opacity: a.opacity, transform: `translateY(${a.translate}px)`, display: "flex", flexDirection: "column", alignItems: "center", gap: 40 * s }}>
           <EyebrowLabel text={job.game.tagline} size={26 * s} accent={job.game.accent} withTick={false} />
-          <CTAButton text={job.cta.text} url={`refx.gg/${job.game.ctaSlug}`} fontSize={58 * s} pulsing />
+          <CTAButton text={job.cta.text} url={ctaDisplayUrl(job.game.ctaSlug)} fontSize={58 * s} pulsing />
           <AccentBeam width={300 * s} startSec={0.45} durMs={450} />
         </div>
       </AbsoluteFill>

@@ -1,6 +1,7 @@
 import { createHash } from "node:crypto";
 import { createReadStream } from "node:fs";
 import { basename } from "node:path";
+import { ctaTrackedUrl } from "../../remotion/src/lib/cta";
 import { stableStringify } from "../../remotion/src/lib/manifest";
 import type { AssembledJob, Platform } from "../../remotion/src/lib/types";
 
@@ -31,7 +32,7 @@ export interface Sidecar {
 }
 
 export function ctaUrl(slug: string, platform: Platform, template: string): string {
-  return `https://refx.gg/${slug}?utm_source=${platform}&utm_medium=video&utm_campaign=siren-${template}`;
+  return ctaTrackedUrl(slug, platform, template);
 }
 
 /**

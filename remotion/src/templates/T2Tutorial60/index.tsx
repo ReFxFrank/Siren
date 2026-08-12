@@ -1,5 +1,6 @@
 import { AbsoluteFill, Sequence, useCurrentFrame } from "remotion";
 import { layoutFor, type AspectLayout } from "../../lib/aspect";
+import { ctaDisplayUrl } from "../../lib/cta";
 import { enter, progress, sec } from "../../lib/timing";
 import type { AssembledJob, FootageClip } from "../../lib/types";
 import { AccentBeam } from "../../design/AccentBeam";
@@ -128,7 +129,7 @@ const SceneCta: React.FC<{ job: AssembledJob; layout: AspectLayout }> = ({ job, 
         <div style={{ opacity: a.opacity, transform: `translateY(${a.translate}px)`, display: "flex", flexDirection: "column", alignItems: "center", gap: 38 * s }}>
           <EyebrowLabel text="that's the whole setup" size={26 * s} accent={job.game.accent} />
           {/* Soft CTA: no glow pulse on the educational template (§8 T2). */}
-          <CTAButton text={job.cta.text} url={`refx.gg/${job.game.ctaSlug}`} fontSize={56 * s} pulsing={false} />
+          <CTAButton text={job.cta.text} url={ctaDisplayUrl(job.game.ctaSlug)} fontSize={56 * s} pulsing={false} />
         </div>
       </AbsoluteFill>
     </Backdrop>
