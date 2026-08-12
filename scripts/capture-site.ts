@@ -58,10 +58,17 @@ try {
         deviceScaleFactor: 1,
       });
       const page = await context.newPage();
+      let response = null;
       try {
-        await page.goto(url, { waitUntil: "networkidle", timeout: 45000 });
+        response = await page.goto(url, { waitUntil: "networkidle", timeout: 45000 });
       } catch {
-        await page.waitForTimeout(3000); // slow assets — record what we have
+        // fall through to the status check below
+      }
+      if (!response || !response.ok()) {
+        console.error(`✗ ${label}: ${url} unreachable (${response ? `HTTP ${response.status()}` : "no response"}) — not recording an error page`);
+        process.exitCode = 1;
+        await context.close();
+        continue;
       }
       await page.waitForTimeout(SETTLE_MS);
       // Slow, even scroll: ~70px/s reads as an intentional camera move.
