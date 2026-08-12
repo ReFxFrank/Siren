@@ -27,7 +27,14 @@ const games = loadGames().filter((g) => g.enabled);
 // use the environment-provided Chromium. Locally (Frank's machine) the env
 // var is unset and Playwright resolves its own browser as usual.
 const executablePath = process.env.SIREN_CHROMIUM ?? (process.platform === "linux" ? "/opt/pw-browsers/chromium" : undefined);
-const browser = await chromium.launch({ executablePath, args: ["--no-sandbox", "--disable-gpu"] });
+// Managed environments route HTTPS via a proxy Chromium won't pick up from
+// env vars — pass it explicitly. Direct connection everywhere else.
+const proxyServer = process.env.HTTPS_PROXY ?? process.env.https_proxy;
+const browser = await chromium.launch({
+  executablePath,
+  proxy: proxyServer ? { server: proxyServer } : undefined,
+  args: ["--no-sandbox", "--disable-gpu"],
+});
 
 try {
   for (const game of games) {

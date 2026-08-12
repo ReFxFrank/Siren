@@ -35,28 +35,33 @@ function recipe(kind: number, accent: string, seed: number): string[] {
   const glow = mix(DARK, accent, 0.5);
   const dim = mix(DARKEST, accent, 0.26);
   const faint = mix(DARKEST, accent, 0.1);
+  const nearBlack = mix(DARKEST, accent, 0.04);
   const grain = "noise=alls=4:allf=t";
+  // blend modes are only hue-correct in RGB — YUV-plane screen blending
+  // shifts everything magenta. Force gbrp on both inputs before blending.
+  const rgb = (label: string, src: string, out: string) => `[${label}]${src ? `${src},` : ""}format=gbrp[${out}]`;
   switch (kind % 3) {
-    case 0: // aurora drift — two gradient layers blended, slow counter-motion
+    case 0: // aurora drift — two same-hue gradient layers, slow counter-motion
       return [
         "-f", "lavfi", "-i", `gradients=s=1920x1080:rate=30:c0=${faint}:c1=${glow}:c2=${mix(DARKEST, accent, 0.18)}:nb_colors=3:seed=${seed}:speed=0.011`,
-        "-f", "lavfi", "-i", `gradients=s=1920x1080:rate=30:c0=${DARKEST.replace("#", "0x")}:c1=${dim}:nb_colors=2:type=radial:seed=${seed + 5}:speed=0.019`,
-        "-filter_complex", `[0:v][1:v]blend=all_mode=screen:all_opacity=0.55,vignette=PI/4.6,${grain}`,
+        "-f", "lavfi", "-i", `gradients=s=1920x1080:rate=30:c0=${nearBlack}:c1=${dim}:nb_colors=2:type=radial:seed=${seed + 5}:speed=0.019`,
+        "-filter_complex", `${rgb("0:v", "", "a")};${rgb("1:v", "", "b")};[a][b]blend=all_mode=screen:all_opacity=0.55,vignette=PI/4.6,${grain}`,
       ];
-    case 1: // grid parallax — two grid layers panning at different depths
+    case 1: // grid parallax — accent grid over a same-hue radial bloom
       return [
         "-f", "lavfi", "-i", `color=c=${faint}:s=2400x1560:rate=30`,
-        "-f", "lavfi", "-i", `gradients=s=1920x1080:rate=30:c0=${DARKEST.replace("#", "0x")}:c1=${glow}:nb_colors=2:type=radial:seed=${seed}:speed=0.014`,
+        "-f", "lavfi", "-i", `gradients=s=1920x1080:rate=30:c0=${nearBlack}:c1=${glow}:nb_colors=2:type=radial:seed=${seed}:speed=0.014`,
         "-filter_complex", [
-          `[0:v]drawgrid=w=120:h=120:t=1:color=${dim}@0.5,drawgrid=w=600:h=600:t=2:color=${glow}@0.3,crop=1920:1080:x='240+200*sin(t/${8 + (seed % 3)})':y='240+140*cos(t/${10 + (seed % 4)})'[grid]`,
-          `[grid][1:v]blend=all_mode=screen:all_opacity=0.5,vignette=PI/4.4,${grain}`,
+          rgb("0:v", `drawgrid=w=120:h=120:t=1:color=${dim}@0.5,drawgrid=w=600:h=600:t=2:color=${glow}@0.3,crop=1920:1080:x='240+200*sin(t/${8 + (seed % 3)})':y='240+140*cos(t/${10 + (seed % 4)})'`, "grid"),
+          rgb("1:v", "", "bloom"),
+          `[grid][bloom]blend=all_mode=screen:all_opacity=0.5,vignette=PI/4.4,${grain}`,
         ].join(";"),
       ];
-    default: // light sweep — soft highlight traversing a dark wash
+    default: // light sweep — soft same-hue highlight traversing a dark wash
       return [
         "-f", "lavfi", "-i", `gradients=s=1920x1080:rate=30:c0=${faint}:c1=${mix(DARKEST, accent, 0.2)}:nb_colors=2:seed=${seed}:speed=0.009`,
-        "-f", "lavfi", "-i", `gradients=s=2400x1400:rate=30:c0=${glow}:c1=${DARKEST.replace("#", "0x")}:nb_colors=2:type=radial:seed=${seed + 9}:speed=0.006`,
-        "-filter_complex", `[1:v]crop=1920:1080:x='240+220*sin(t/6)':y='160+120*sin(t/9)'[sweep];[0:v][sweep]blend=all_mode=lighten:all_opacity=0.65,vignette=PI/4.8,${grain}`,
+        "-f", "lavfi", "-i", `gradients=s=2400x1400:rate=30:c0=${glow}:c1=${nearBlack}:nb_colors=2:type=radial:seed=${seed + 9}:speed=0.006`,
+        "-filter_complex", `${rgb("0:v", "", "base")};${rgb("1:v", `crop=1920:1080:x='240+220*sin(t/6)':y='160+120*sin(t/9)'`, "sweep")};[base][sweep]blend=all_mode=lighten:all_opacity=0.65,vignette=PI/4.8,${grain}`,
       ];
   }
 }
