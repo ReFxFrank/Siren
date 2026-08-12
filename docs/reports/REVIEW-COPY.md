@@ -1,10 +1,10 @@
 # SIREN copy banks — review & approval
 
-_Generated 2026-08-12 20:45Z · flip approvals via:_
+_Generated 2026-08-12 21:46Z · flip approvals via:_
 `tsx scripts/approve-copy.ts <template>.<game> --approve h01,b02` _(or `--all`, `--all-except id,…`, `--revoke id,…`)_
 
 Production renders only use ☑ entries. Test renders may use any entry but stay watermarked.
-**Status: 0/576 entries approved.**
+**Status: 36/576 entries approved.**
 
 
 ## spotlight · Garry's Mod
@@ -155,50 +155,50 @@ Production renders only use ☑ entries. Test renders may use any entry but stay
 
 **Hooks**
 
-- ☐ `h01` Your server shouldn't die before the wipe does
-- ☐ `h02` Raid hits. Server holds. That's the job
-- ☐ `h03` Run the server your clan brags about
+- ☑ `h01` Your server shouldn't die before the wipe does
+- ☑ `h02` Raid hits. Server holds. That's the job
+- ☑ `h03` Run the server your clan brags about
 - ☐ `h04` Tired of admin abuse? Be the admin
-- ☐ `h05` Offline raids happen. Offline servers shouldn't
-- ☐ `h06` What full pop feels like without the lag
-- ☐ `h07` Stop losing raids to server lag
-- ☐ `h08` Why big clans host their own servers
-- ☐ `h09` Build the wipe you actually want
-- ☐ `h10` Done waiting in queue? Run your own
+- ☑ `h05` Offline raids happen. Offline servers shouldn't
+- ☑ `h06` What full pop feels like without the lag
+- ☑ `h07` Stop losing raids to server lag
+- ☑ `h08` Why big clans host their own servers
+- ☑ `h09` Build the wipe you actually want
+- ☑ `h10` Done waiting in queue? Run your own
 - ☐ `h11` Wipe day is your server's launch day
-- ☐ `h12` Don't lose a full farm to a crash
-- ☐ `h13` Be the wipe people plan around
-- ☐ `h14` Modded, vanilla, whatever. It's your map
-- ☐ `h15` Bad hosting kills good communities
-- ☐ `h16` Rust doesn't wait. Neither should setup
-- ☐ `h17` New wipe. Fresh map. Your name on it
-- ☐ `h18` Admins enforce rules. Owners write them
+- ☑ `h12` Don't lose a full farm to a crash
+- ☑ `h13` Be the wipe people plan around
+- ☑ `h14` Modded, vanilla, whatever. It's your map
+- ☑ `h15` Bad hosting kills good communities
+- ☑ `h16` Rust doesn't wait. Neither should setup
+- ☑ `h17` New wipe. Fresh map. Your name on it
+- ☑ `h18` Admins enforce rules. Owners write them
 
 **Bodies (lines shown ⏵-joined — they render as sequential captions)**
 
-- ☐ `b01` Every wipe starts with a queue you didn't choose. ⏵ Run your own and the only list is yours. ⏵ Your crew loads in while the rest of Rust waits.
-- ☐ `b02` The raid starts and everyone piles in. ⏵ This is where cheap hosting folds. ⏵ Yours doesn't. ⏵ Built to hold when it matters.
-- ☐ `b03` Pick Rust. Pick a plan. You're live. ⏵ Instant setup means no tickets, no waiting. ⏵ Your wipe schedule, your call, from the start. ⏵ Fresh map, your rules.
-- ☐ `b04` Public servers wipe on someone else's schedule. ⏵ Yours wipes when you say so. ⏵ Long cycles, short cycles, whatever the clan votes. ⏵ That's what owning it feels like.
-- ☐ `b05` A good community server outlives every wipe. ⏵ The regulars come back for the people. ⏵ They stay because it runs clean. ⏵ Give them a server worth rejoining.
-- ☐ `b06` Instant setup. Live before the hype dies down. ⏵ NVMe hardware. Loads fast, saves fast, wipes clean. ⏵ DDoS protection. Salty raiders can't take you offline. ⏵ Everything your clan needs, nothing it doesn't.
-- ☐ `b07` Your clan grinds the whole wipe for raid night. ⏵ Don't let the server waste that farm. ⏵ Smooth when it's quiet, solid when it's not. ⏵ That's the standard here.
-- ☐ `b08` You lead the clan. You call the raids. ⏵ So run the server too. ⏵ Set the mods, the map size, the wipe day. ⏵ Your people, your rules, your world.
-- ☐ `b09` Full pop on wipe day is the real stress test. ⏵ The map streams in, the queue clears, the wipe begins. ⏵ NVMe hardware doesn't blink. ⏵ No stutters when it counts.
-- ☐ `b10` Every big Rust community started the same way. ⏵ Someone stood up a server and set the rules. ⏵ The clans came, the wipes rolled, the name stuck. ⏵ Your turn.
-- ☐ `b11` Vanilla purist or modded to the teeth. ⏵ It's your box. Configure it your way. ⏵ Plugins, loot tables, map sizes, wipe cycles. ⏵ The server bends to you, not the other way.
-- ☐ `b12` Lose a raid, someone hits your server out of spite. ⏵ DDoS protection means tantrums stay in chat. ⏵ The server stays up. The salt stays theirs.
+- ☑ `b01` Every wipe starts with a queue you didn't choose. ⏵ Run your own and the only list is yours. ⏵ Your crew loads in while the rest of Rust waits.
+- ☑ `b02` The raid starts and everyone piles in. ⏵ This is where cheap hosting folds. ⏵ Yours doesn't. ⏵ Built to hold when it matters.
+- ☑ `b03` Pick Rust. Pick a plan. You're live. ⏵ Instant setup means no tickets, no waiting. ⏵ Your wipe schedule, your call, from the start. ⏵ Fresh map, your rules.
+- ☑ `b04` Public servers wipe on someone else's schedule. ⏵ Yours wipes when you say so. ⏵ Long cycles, short cycles, whatever the clan votes. ⏵ That's what owning it feels like.
+- ☑ `b05` A good community server outlives every wipe. ⏵ The regulars come back for the people. ⏵ They stay because it runs clean. ⏵ Give them a server worth rejoining.
+- ☑ `b06` Instant setup. Live before the hype dies down. ⏵ NVMe hardware. Loads fast, saves fast, wipes clean. ⏵ DDoS protection. Salty raiders can't take you offline. ⏵ Everything your clan needs, nothing it doesn't.
+- ☑ `b07` Your clan grinds the whole wipe for raid night. ⏵ Don't let the server waste that farm. ⏵ Smooth when it's quiet, solid when it's not. ⏵ That's the standard here.
+- ☑ `b08` You lead the clan. You call the raids. ⏵ So run the server too. ⏵ Set the mods, the map size, the wipe day. ⏵ Your people, your rules, your world.
+- ☑ `b09` Full pop on wipe day is the real stress test. ⏵ The map streams in, the queue clears, the wipe begins. ⏵ NVMe hardware doesn't blink. ⏵ No stutters when it counts.
+- ☑ `b10` Every big Rust community started the same way. ⏵ Someone stood up a server and set the rules. ⏵ The clans came, the wipes rolled, the name stuck. ⏵ Your turn.
+- ☑ `b11` Vanilla purist or modded to the teeth. ⏵ It's your box. Configure it your way. ⏵ Plugins, loot tables, map sizes, wipe cycles. ⏵ The server bends to you, not the other way.
+- ☑ `b12` Lose a raid, someone hits your server out of spite. ⏵ DDoS protection means tantrums stay in chat. ⏵ The server stays up. The salt stays theirs.
 
 **CTAs**
 
-- ☐ `c01` Launch your Rust server at refx.gg
-- ☐ `c02` Claim your map at refx.gg
-- ☐ `c03` Start your wipe at refx.gg
-- ☐ `c04` Host it yourself. refx.gg
-- ☐ `c05` Build your community at refx.gg
-- ☐ `c06` Set your rules at refx.gg
-- ☐ `c07` Give your clan a home. refx.gg
-- ☐ `c08` Stand up your server. refx.gg
+- ☑ `c01` Launch your Rust server at refx.gg
+- ☑ `c02` Claim your map at refx.gg
+- ☑ `c03` Start your wipe at refx.gg
+- ☑ `c04` Host it yourself. refx.gg
+- ☑ `c05` Build your community at refx.gg
+- ☑ `c06` Set your rules at refx.gg
+- ☑ `c07` Give your clan a home. refx.gg
+- ☑ `c08` Stand up your server. refx.gg
 
 ## tutorial60 · Garry's Mod
 

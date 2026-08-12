@@ -1,7 +1,7 @@
 {
   "bodies": [
     {
-      "approved": false,
+      "approved": true,
       "id": "b01",
       "lines": [
         "Every wipe starts with a queue you didn't choose.",
@@ -10,7 +10,7 @@
       ]
     },
     {
-      "approved": false,
+      "approved": true,
       "id": "b02",
       "lines": [
         "The raid starts and everyone piles in.",
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "approved": false,
+      "approved": true,
       "id": "b03",
       "lines": [
         "Pick Rust. Pick a plan. You're live.",
@@ -30,7 +30,7 @@
       ]
     },
     {
-      "approved": false,
+      "approved": true,
       "id": "b04",
       "lines": [
         "Public servers wipe on someone else's schedule.",
@@ -40,7 +40,7 @@
       ]
     },
     {
-      "approved": false,
+      "approved": true,
       "id": "b05",
       "lines": [
         "A good community server outlives every wipe.",
@@ -50,7 +50,7 @@
       ]
     },
     {
-      "approved": false,
+      "approved": true,
       "id": "b06",
       "lines": [
         "Instant setup. Live before the hype dies down.",
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "approved": false,
+      "approved": true,
       "id": "b07",
       "lines": [
         "Your clan grinds the whole wipe for raid night.",
@@ -70,7 +70,7 @@
       ]
     },
     {
-      "approved": false,
+      "approved": true,
       "id": "b08",
       "lines": [
         "You lead the clan. You call the raids.",
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "approved": false,
+      "approved": true,
       "id": "b09",
       "lines": [
         "Full pop on wipe day is the real stress test.",
@@ -90,7 +90,7 @@
       ]
     },
     {
-      "approved": false,
+      "approved": true,
       "id": "b10",
       "lines": [
         "Every big Rust community started the same way.",
@@ -100,7 +100,7 @@
       ]
     },
     {
-      "approved": false,
+      "approved": true,
       "id": "b11",
       "lines": [
         "Vanilla purist or modded to the teeth.",
@@ -110,7 +110,7 @@
       ]
     },
     {
-      "approved": false,
+      "approved": true,
       "id": "b12",
       "lines": [
         "Lose a raid, someone hits your server out of spite.",
@@ -121,42 +121,42 @@
   ],
   "ctas": [
     {
-      "approved": false,
+      "approved": true,
       "id": "c01",
       "text": "Launch your Rust server at refx.gg"
     },
     {
-      "approved": false,
+      "approved": true,
       "id": "c02",
       "text": "Claim your map at refx.gg"
     },
     {
-      "approved": false,
+      "approved": true,
       "id": "c03",
       "text": "Start your wipe at refx.gg"
     },
     {
-      "approved": false,
+      "approved": true,
       "id": "c04",
       "text": "Host it yourself. refx.gg"
     },
     {
-      "approved": false,
+      "approved": true,
       "id": "c05",
       "text": "Build your community at refx.gg"
     },
     {
-      "approved": false,
+      "approved": true,
       "id": "c06",
       "text": "Set your rules at refx.gg"
     },
     {
-      "approved": false,
+      "approved": true,
       "id": "c07",
       "text": "Give your clan a home. refx.gg"
     },
     {
-      "approved": false,
+      "approved": true,
       "id": "c08",
       "text": "Stand up your server. refx.gg"
     }
@@ -164,17 +164,17 @@
   "game": "rust",
   "hooks": [
     {
-      "approved": false,
+      "approved": true,
       "id": "h01",
       "text": "Your server shouldn't die before the wipe does"
     },
     {
-      "approved": false,
+      "approved": true,
       "id": "h02",
       "text": "Raid hits. Server holds. That's the job"
     },
     {
-      "approved": false,
+      "approved": true,
       "id": "h03",
       "text": "Run the server your clan brags about"
     },
@@ -184,32 +184,32 @@
       "text": "Tired of admin abuse? Be the admin"
     },
     {
-      "approved": false,
+      "approved": true,
       "id": "h05",
       "text": "Offline raids happen. Offline servers shouldn't"
     },
     {
-      "approved": false,
+      "approved": true,
       "id": "h06",
       "text": "What full pop feels like without the lag"
     },
     {
-      "approved": false,
+      "approved": true,
       "id": "h07",
       "text": "Stop losing raids to server lag"
     },
     {
-      "approved": false,
+      "approved": true,
       "id": "h08",
       "text": "Why big clans host their own servers"
     },
     {
-      "approved": false,
+      "approved": true,
       "id": "h09",
       "text": "Build the wipe you actually want"
     },
     {
-      "approved": false,
+      "approved": true,
       "id": "h10",
       "text": "Done waiting in queue? Run your own"
     },
@@ -219,37 +219,37 @@
       "text": "Wipe day is your server's launch day"
     },
     {
-      "approved": false,
+      "approved": true,
       "id": "h12",
       "text": "Don't lose a full farm to a crash"
     },
     {
-      "approved": false,
+      "approved": true,
       "id": "h13",
       "text": "Be the wipe people plan around"
     },
     {
-      "approved": false,
+      "approved": true,
       "id": "h14",
       "text": "Modded, vanilla, whatever. It's your map"
     },
     {
-      "approved": false,
+      "approved": true,
       "id": "h15",
       "text": "Bad hosting kills good communities"
     },
     {
-      "approved": false,
+      "approved": true,
       "id": "h16",
       "text": "Rust doesn't wait. Neither should setup"
     },
     {
-      "approved": false,
+      "approved": true,
       "id": "h17",
       "text": "New wipe. Fresh map. Your name on it"
     },
     {
-      "approved": false,
+      "approved": true,
       "id": "h18",
       "text": "Admins enforce rules. Owners write them"
     }
