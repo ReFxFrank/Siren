@@ -16,7 +16,10 @@ import { run } from "./lib/run";
 const CLIP_SECONDS = 12;
 const CLIPS_PER_GAME = 6;
 const FONT = resolve(REPO_ROOT, "assets/fonts/Inter.ttf");
-const WATERMARK = `drawtext=fontfile=${FONT}:text='PLACEHOLDER - NOT FOR PUBLISH':x=w-tw-42:y=h-th-38:fontsize=34:fontcolor=white@0.5:box=1:boxcolor=black@0.35:boxborderw=14`;
+// ffmpeg filtergraph option values treat ':' and '\' as syntax — Windows
+// absolute paths (C:\dev\...) must be normalized to C\:/dev/... form.
+const FONT_FILTER = FONT.replace(/\\/g, "/").replace(/:/g, "\\:");
+const WATERMARK = `drawtext=fontfile=${FONT_FILTER}:text='PLACEHOLDER - NOT FOR PUBLISH':x=w-tw-42:y=h-th-38:fontsize=34:fontcolor=white@0.5:box=1:boxcolor=black@0.35:boxborderw=14`;
 
 function mix(hexA: string, hexB: string, t: number): string {
   const a = parseInt(hexA.slice(1), 16);
