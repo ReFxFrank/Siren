@@ -15,10 +15,12 @@ import { run } from "./lib/run";
  */
 const CLIP_SECONDS = 12;
 const CLIPS_PER_GAME = 6;
-const FONT = resolve(REPO_ROOT, "assets/fonts/Inter.ttf");
-// ffmpeg filtergraph option values treat ':' and '\' as syntax — Windows
-// absolute paths (C:\dev\...) must be normalized to C\:/dev/... form.
-const FONT_FILTER = FONT.replace(/\\/g, "/").replace(/:/g, "\\:");
+// ffmpeg's filtergraph parser treats ':' and '\' as syntax at two nesting
+// levels, which makes Windows absolute paths (C:\dev\...) in drawtext's
+// fontfile= effectively unquotable. Sidestep it: ffmpeg runs with cwd set
+// to the repo root and the font is referenced relatively — nothing to
+// escape on any platform.
+const FONT_FILTER = "assets/fonts/Inter.ttf";
 const WATERMARK = `drawtext=fontfile=${FONT_FILTER}:text='PLACEHOLDER - NOT FOR PUBLISH':x=w-tw-42:y=h-th-38:fontsize=34:fontcolor=white@0.5:box=1:boxcolor=black@0.35:boxborderw=14`;
 
 function mix(hexA: string, hexB: string, t: number): string {
@@ -89,7 +91,7 @@ async function generate(): Promise<void> {
         "-metadata", `comment=${PLACEHOLDER_TAG}`,
         "-movflags", "+faststart",
         out,
-      ]);
+      ], { cwd: REPO_ROOT });
       const info = await probe(out);
       const ok = info.width === 1920 && info.height === 1080 && Math.abs(info.fps - 30) < 0.05;
       console.log(`${ok ? "✓" : "✗"} ${out} (${info.durationSec.toFixed(1)}s)`);
