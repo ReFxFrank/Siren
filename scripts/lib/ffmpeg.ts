@@ -44,6 +44,21 @@ export async function probe(file: string): Promise<ProbeInfo> {
   };
 }
 
+/** Duration of an audio-only asset (music beds). */
+export async function probeAudioDuration(file: string): Promise<number> {
+  const { stdout } = await run("ffprobe", [
+    "-v", "error",
+    "-show_entries", "format=duration",
+    "-of", "default=noprint_wrappers=1:nokey=1",
+    file,
+  ]);
+  const duration = Number(stdout.trim());
+  if (!Number.isFinite(duration) || duration <= 0) {
+    throw new Error(`Unreadable audio file: ${file}`);
+  }
+  return duration;
+}
+
 export const PLACEHOLDER_TAG = "SIREN_PLACEHOLDER";
 
 export async function isPlaceholderClip(file: string): Promise<boolean> {

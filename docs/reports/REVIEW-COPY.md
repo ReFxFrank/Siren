@@ -1,6 +1,6 @@
 # SIREN copy banks — review & approval
 
-_Generated 2026-08-11 03:56Z · flip approvals via:_
+_Generated 2026-08-12 20:45Z · flip approvals via:_
 `tsx scripts/approve-copy.ts <template>.<game> --approve h01,b02` _(or `--all`, `--all-except id,…`, `--revoke id,…`)_
 
 Production renders only use ☑ entries. Test renders may use any entry but stay watermarked.

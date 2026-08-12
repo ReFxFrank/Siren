@@ -8,10 +8,14 @@
   "features": [
     "Instant setup",
     "NVMe hardware",
-    "DDoS protection",
-    "TODO(frank): confirm top 4 selling points"
+    "DDoS protection"
   ],
-  "hashtags": ["#palworld", "#palworldserver", "#coopgaming", "#serverhosting"],
+  "hashtags": [
+    "#palworld",
+    "#palworldserver",
+    "#coopgaming",
+    "#serverhosting"
+  ],
   "footageDir": "assets/footage/palworld",
   "enabled": true
 }

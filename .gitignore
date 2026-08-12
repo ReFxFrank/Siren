@@ -11,3 +11,4 @@ assets/music/*.ogg
 .cache/
 *.log
 .DS_Store
+assets/footage-raw/

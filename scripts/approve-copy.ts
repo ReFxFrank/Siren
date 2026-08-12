@@ -2,7 +2,7 @@ import { readFileSync, writeFileSync } from "node:fs";
 import { stableStringify } from "../remotion/src/lib/manifest";
 import type { CopyBank } from "../remotion/src/lib/types";
 import { bankPath, loadGame, validateBank } from "./lib/configs";
-import { run } from "./lib/run";
+import { generateReviewCopy } from "./lib/review";
 
 /**
  * §7.2 step 3: flip approval flags from a chat instruction.
@@ -67,5 +67,5 @@ if (issues.length > 0) {
 writeFileSync(path, stableStringify(bank));
 const approvedCount = entries.filter((e) => e.approved).length;
 console.log(`${target}: flipped ${flipped}, now ${approvedCount}/${entries.length} approved`);
-await run("npx", ["tsx", "scripts/review-copy.ts"]);
-console.log("REVIEW-COPY.md regenerated");
+const { approved: approvedTotal, total } = generateReviewCopy();
+console.log(`REVIEW-COPY.md regenerated (${approvedTotal}/${total} approved overall)`);

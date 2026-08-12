@@ -6,10 +6,12 @@
   "ctaSlug": "minecraft",
   "pricingFrom": "$10",
   "features": [
+    "Modpack manager",
+    "Mod manager",
+    "Full control over Minecraft versions",
     "Instant setup",
     "NVMe hardware",
-    "DDoS protection",
-    "TODO(frank): confirm top 4 selling points"
+    "DDoS protection"
   ],
   "hashtags": [
     "#minecraft",
